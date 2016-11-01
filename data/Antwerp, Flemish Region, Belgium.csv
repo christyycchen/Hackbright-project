@@ -1,0 +1,748 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+6594526,8 pers. kamer Ambassador Antwerpen,12559122,Be-Housing,,Haringrode,51.208393807544255,4.422239384904138,Entire home/apt,150,1,1,2015-09-13,1,8,192
+2251990,New near Central Station ,11016840,Maarten,,Haringrode,51.208031548127494,4.4223260702941625,Entire home/apt,85,2,25,2015-08-28,2.19,1,363
+5891738,Vivian's sweet home,1820186,Fronk & Lieve,,Haringrode,51.20158781363499,4.417569017630393,Entire home/apt,35,7,1,2015-05-08,0.20,6,353
+5726743,Cosy boho apartment in Antwerp,9838294,Elke,,Haringrode,51.20201133860845,4.426577535294601,Entire home/apt,65,2,4,2015-08-22,0.66,1,365
+458757,Castle Suite with Private Wellness,2160916,Francis,,Haringrode,51.2019815365896,4.420127343525372,Private room,85,2,59,2015-09-19,1.44,2,350
+7520843,Gezellig zonnig huisje,4971372,Hannah,,Haringrode,51.202352125854624,4.42720490522797,Entire home/apt,50,2,1,2015-08-12,0.57,1,337
+6168006,house with city garden Antwerp,20266678,Elke,,Haringrode,51.2029913677115,4.424947118347407,Entire home/apt,160,2,1,2015-05-17,0.21,1,283
+7630221,Bright apartment with amazing view,3855037,Kristof,,Haringrode,51.207209725773424,4.420282810962743,Entire home/apt,53,3,3,2015-09-07,1.64,1,39
+2792584,Spacious room in car-free street ,366948,Liesbet,,Haringrode,51.202210047725536,4.414413048201075,Private room,50,1,89,2015-09-27,5.03,1,361
+4181829,Charmant appartement in Zurenborg,17521491,Wim,,Haringrode,51.20180808299584,4.42942342784494,Entire home/apt,75,2,2,2015-05-25,0.39,1,365
+2607851,Authentic house in great area,13154935,Chloé,,Haringrode,51.20365228998908,4.429516687102162,Private room,30,2,3,2015-09-26,0.18,1,244
+3123638,Authentic loft in a beautifull park,15865713,Klara,,Haringrode,51.201557265455335,4.4263596526131606,Entire home/apt,150,4,2,2015-04-06,0.15,1,267
+5027767,Charming House with garden,3042817,Maarten,,Haringrode,51.20143783652209,4.422449033215472,Entire home/apt,78,2,7,2015-09-13,2.31,1,319
+5047962,Historical place close to the Jane,12309348,Kristina,,Haringrode,51.203545533355964,4.4240988372453245,Private room,62,1,14,2015-09-06,1.74,1,315
+4163253,Antwerp Loft,11592198,Fred,,Haringrode,51.201316218289136,4.423680723910684,Entire home/apt,97,1,62,2015-09-28,5.11,1,343
+435000,Castle Apartment & private Wellness,2160916,Francis,,Haringrode,51.20133717960466,4.418548773104341,Entire home/apt,250,2,22,2014-08-04,0.56,2,356
+213985,"Cosy, retro & near the city centre",1104077,Katrien,,Haringrode,51.20500143188442,4.421854069322534,Private room,40,7,2,2013-07-05,0.07,1,365
+7729590,Double room in Spacious house,2296760,Alexandra,,Haringrode,51.20293762586993,4.41825749461326,Private room,41,1,1,2015-08-16,0.61,1,362
+7017194,new parkappartment  for yourselves,36780088,Kamalia,,Haringrode,51.203333441493754,4.422598367034663,Entire home/apt,140,1,0,,,1,365
+1471200,Luxurious and quiet B&B/apartment,7876642,Koosje,,Haringrode,51.203860413679365,4.420001011238484,Entire home/apt,78,2,40,2015-08-17,1.65,1,307
+307424,Large double room near city center,1569958,Ingrid,,Haringrode,51.203012326622854,4.415209658907096,Private room,30,1,156,2015-09-20,4.21,1,340
+6519504,Unique panorama riverside apartment,34093768,Greet,,Linkeroever,51.221365833384716,4.387657955879236,Entire home/apt,80,2,6,2015-08-31,2.02,1,354
+772842,Stay in a designers place & donate,4050173,Daisy,,Linkeroever,51.217747319443056,4.384340580948302,Entire home/apt,81,1,54,2015-08-08,1.62,1,339
+5981307,Nice appartment with amazing view,31054845,Niels,,Linkeroever,51.232725815897155,4.384301005845737,Entire home/apt,130,2,0,,,1,365
+5124747,"Big, light and friendly appartement",17286716,Katrin,,Linkeroever,51.22179150171286,4.379714353078518,Entire home/apt,43,3,4,2015-09-15,0.78,1,283
+6831404,RIJHUIS MET ZWEMBAD BUITENWIJK ANTW,35779703,Connie,,Deurne Zuid Oost,51.19787991601738,4.467190575278201,Entire home/apt,160,1,1,2015-07-26,0.43,1,85
+4698085,Cosy roof floor apartment,24286448,Jan,,Deurne Zuid Oost,51.20552036978084,4.477534715345746,Private room,35,1,2,2015-08-16,0.70,1,27
+5789730,Back to Beck,30038566,Marleen,,Deurne Zuid Oost,51.196121104317825,4.461669070593296,Entire home/apt,79,1,11,2015-08-30,1.81,1,343
+3710876,comfortable room,18917692,Sam,,Dam,51.23242463461382,4.424611585572402,Shared room,30,1,5,2015-08-21,0.79,1,365
+7851130,Ruim duplex/dakappartement,28445906,Liam,,Dam,51.23259562038778,4.423265681010837,Entire home/apt,70,1,3,2015-09-14,1.88,1,70
+6721982,Vibrant Park Spoor Noord,35139959,Dominik,,Dam,51.2320998165045,4.424670526774829,Entire home/apt,50,3,2,2015-08-13,0.73,1,300
+156181,Private duplex room in city center,603038,Laura,,Amandus - Atheneum,51.2207403167847,4.41936950742262,Private room,45,2,102,2015-09-27,2.03,1,187
+8587634,A room with own shower and kitchen,32817557,Kukumaria,,Amandus - Atheneum,51.22327731656749,4.418946924264395,Private room,30,1,0,,,1,359
+4086826,Cheap & Cosy room in Antwerp,21199139,Willem,,Amandus - Atheneum,51.21867787780385,4.429194677461476,Private room,30,2,6,2015-01-18,0.49,1,209
+1296599,Charming flat in typical manorhouse,16436,Eline,,Amandus - Atheneum,51.22884195192221,4.417566437363466,Entire home/apt,40,3,11,2015-08-02,0.41,1,0
+5834757,Appartement @ MAS-Park Spoor Noord,10775550,Frederic,,Amandus - Atheneum,51.2285737586223,4.415217582938434,Entire home/apt,90,1,12,2015-09-27,1.98,1,345
+584305,entire artist apartment Antwerp,1718830,Sachli,,Amandus - Atheneum,51.2236296251691,4.420258445194615,Entire home/apt,90,1,21,2015-09-27,0.80,2,321
+2456278,Studio City Apartments Antwerpen,12559122,Be-Housing,,Amandus - Atheneum,51.22334633058496,4.419951273171467,Entire home/apt,59,1,4,2015-01-02,0.29,8,208
+2455947,Large Studio - Budget Flats Antwerp,12559122,Be-Housing,,Amandus - Atheneum,51.222745574452645,4.419959750600608,Entire home/apt,52,1,3,2015-04-23,0.17,8,211
+2762341,Comfortable studio downtown Antwerp,5398498,Martine,,Amandus - Atheneum,51.22221762445251,4.417090263344493,Entire home/apt,48,4,1,2014-04-22,0.06,1,272
+2456072,Large Studio Condo Gardens Antwerp,12559122,Be-Housing,,Amandus - Atheneum,51.22757038765292,4.416911931955839,Entire home/apt,60,1,7,2015-05-26,0.40,8,212
+5286670,Appartement in hartje Antwerpen,22998355,Lotte,,Amandus - Atheneum,51.22441323121706,4.422739720468356,Entire home/apt,75,1,5,2015-07-28,0.65,1,91
+1224758,City view apartment,4025181,Gert,,Amandus - Atheneum,51.224823466997655,4.419239318465692,Entire home/apt,89,4,6,2014-04-23,0.23,1,361
+933981,Charming room in the centre,4262864,Charlotte,,Amandus - Atheneum,51.22250742700619,4.418593862432208,Entire home/apt,58,7,6,2013-12-31,0.19,1,345
+3277879,"Apartment, 5 min from Antwerp CS",16523793,Sharon,,Amandus - Atheneum,51.22171703286494,4.419591423713351,Entire home/apt,55,2,6,2015-09-21,1.54,1,0
+3276276,Location d'un beau studio à Anvers,16563976,Adama,,Amandus - Atheneum,51.21992907144984,4.423915884355622,Entire home/apt,15,1,110,2015-10-02,7.02,1,48
+1158605,Appartment in the hart of Antwerp,6348944,Gil,,Amandus - Atheneum,51.22194876163162,4.4184158192807175,Entire home/apt,80,2,15,2015-07-11,0.64,1,276
+3789383,archi - appart,17861018,Bjorn,,Amandus - Atheneum,51.21875478361368,4.425312466723817,Entire home/apt,85,1,56,2015-09-14,4.04,1,360
+7298474,Authentic Belgian apartment,27585607,Christel,,Amandus - Atheneum,51.22375226403956,4.421602308420542,Entire home/apt,42,2,25,2015-09-28,10.71,1,291
+4194414,"t' witte achterhuisje, anno 1899",21760697,Yola,,Amandus - Atheneum,51.225256575573724,4.423229714786516,Entire home/apt,70,2,32,2015-09-28,2.70,1,246
+842077,4 Cosy rooms near Central Station,4396703,Son,,Amandus - Atheneum,51.22124191352788,4.425752384268485,Private room,35,1,224,2015-09-28,6.66,3,339
+4030176,Quiet studio in old Post office,9438737,Joël,,Amandus - Atheneum,51.226774482807166,4.417544136969269,Entire home/apt,75,1,61,2015-09-12,4.89,1,343
+7416651,Convenient located quiet cosy house,30408795,Joris,,Amandus - Atheneum,51.22080401034594,4.422887165351433,Entire home/apt,55,2,7,2015-09-08,3.09,1,277
+8374298,Antwerp' Skylines Penthouse,35933642,Don,,Amandus - Atheneum,51.22174634512747,4.416996301234935,Entire home/apt,109,2,0,,,1,58
+1566322,Antwerp Center Panoramic view,8331121,Joeri,,Amandus - Atheneum,51.22558996558783,4.41636778255145,Entire home/apt,65,2,50,2015-09-13,2.90,1,348
+1108491,4 Cosy Rooms near Central Station,4396703,Son,,Amandus - Atheneum,51.220601935705496,4.424859886848689,Private room,35,1,79,2015-09-14,2.69,3,329
+7944674,Spacious appartment in city centre,8510139,Tom,,Amandus - Atheneum,51.2225859208701,4.424363637033749,Entire home/apt,55,1,0,,,1,364
+866701,4 Cosy rooms near Central Station,4396703,Son,,Amandus - Atheneum,51.22069962189896,4.42549180830611,Private room,35,1,138,2015-09-16,4.22,3,340
+1927550,Cosy duplex near City Center,6674204,Jef & Allys,,Amandus - Atheneum,51.21931472864035,4.424388141041312,Entire home/apt,99,1,29,2015-09-14,1.28,1,363
+2963177,Private room 5 min from center,15118856,Jvdlee,,Amandus - Atheneum,51.21860541784515,4.427926001303314,Private room,48,1,84,2015-09-27,5.58,1,290
+8436077,Antwerp // homy // city center,20323687,Zoë,,Amandus - Atheneum,51.226511665732374,4.424127333110819,Private room,30,2,0,,,1,31
+7659106,Antwerp Townhouse in Private Garden,7525991,Niko,,Amandus - Atheneum,51.22821813880598,4.4195271552826,Entire home/apt,100,2,0,,,1,325
+3540493,Antwerp City Studio ,15709831,Liam,,Amandus - Atheneum,51.21863620927393,4.4246305776379495,Entire home/apt,51,2,70,2015-09-22,4.78,1,347
+4322763,"Charming, newly furnished apartment",17164278,Carine,,Amandus - Atheneum,51.22502512872038,4.421062118043235,Entire home/apt,55,3,2,2015-09-21,2,1,272
+7779890,Spacious room near central station,13447552,Bram,,Amandus - Atheneum,51.218705879453594,4.425330212375152,Private room,49,1,2,2015-09-28,2,1,344
+8062907,Nice apartment with large terrace,7455499,Sim,,Amandus - Atheneum,51.21855524366573,4.424276654212163,Entire home/apt,45,2,2,2015-09-22,2,1,1
+730979,Design Studio in central Antwerp,3802814,Jochem,,Amandus - Atheneum,51.21989717207111,4.41729856769272,Entire home/apt,30,21,4,2015-08-14,0.42,1,276
+5326670,Appartement nabij Centraal Station!,27599080,Bieke,,Amandus - Atheneum,51.219152957379364,4.42842966750259,Entire home/apt,80,1,19,2015-09-27,2.49,1,361
+8509242,Spacious with free view of the zoo,15571621,Wouter,,Amandus - Atheneum,51.218793026082544,4.423333786345182,Entire home/apt,36,1,1,2015-09-25,1,1,13
+6501624,Furnitured apartment,25496323,Christof,,Amandus - Atheneum,51.224564380345846,4.420421901319368,Entire home/apt,95,1,5,2015-08-30,1.65,1,336
+1266888,Entire Artist Apartment Antwerp!,1718830,Sachli,,Amandus - Atheneum,51.222896944876055,4.418404434606286,Entire home/apt,90,2,38,2015-08-07,1.37,2,321
+8315962,spacious room - centre of Antwerp,43841238,Gregory,,Amandus - Atheneum,51.22039731406972,4.4264306405693254,Private room,20,2,1,2015-09-25,1,1,0
+5495623,Cosy apartment near Central Station,6722019,Joke,,Amandus - Atheneum,51.21831137851871,4.427787259447891,Entire home/apt,65,3,1,2015-09-01,0.91,1,191
+2003812,Apartment in the center of Antwerp,10317168,Sam,,Amandus - Atheneum,51.22037990244562,4.424419325905262,Private room,19,1,42,2015-09-04,1.96,2,364
+7103214,Cosy apartment near Central Station,37219203,Bob,,Amandus - Atheneum,51.221060467933356,4.4214360888911655,Entire home/apt,55,1,1,2015-07-07,0.34,1,0
+1901179,Cosy apartment near Central Station,4417826,Timur,,Amandus - Atheneum,51.21999685981821,4.4250316655425,Entire home/apt,79,1,117,2015-09-13,5.25,1,336
+639554,Spacious flat Antwerp Top Location!,3193133,Anita,,Amandus - Atheneum,51.22284494402567,4.416247029641659,Entire home/apt,69,2,60,2015-09-28,1.60,1,356
+6230253,Rooftop jacuzzi * designer loft|33,26615159,Steve,,Amandus - Atheneum,51.226321965801276,4.420057913444612,Entire home/apt,125,2,9,2015-08-30,1.90,1,344
+6594744,4 pers. room City Antwerpen,12559122,Be-Housing,,Amandus - Atheneum,51.221476731230716,4.420513174174242,Entire home/apt,106,1,0,,,8,198
+5808239,Apartment with a view,30136287,Stephan,,Amandus - Atheneum,51.22970518469017,4.41812547519293,Entire home/apt,95,1,14,2015-07-26,2.59,1,346
+4130702,Kamer / Room center of Antwerpen,21430311,Sara,,Brederode,51.2058968712508,4.399613024269153,Private room,30,1,95,2015-09-21,7.62,1,285
+6587162,Large room in large house,31816584,Wouter,,Brederode,51.20363707142308,4.390695653603505,Private room,40,1,0,,,1,102
+6659457,Cosy & quiet appartment in Antwerp!,26567466,Aurélie,,Brederode,51.202482518629296,4.3947665983233986,Entire home/apt,69,1,8,2015-08-12,2.31,1,364
+8175125,1bedroom apartment Antwerp South,30529416,Evy,,Brederode,51.20663354254255,4.398660090486315,Entire home/apt,60,14,0,,,4,365
+4374672,Jes' cosy corner,22712730,,,Brederode,51.20623387765596,4.395431689488292,Entire home/apt,45,90,10,2015-05-03,0.91,1,306
+6004053,Room at 20 min.' walk from center,31168861,Monique,,Brederode,51.20399018009763,4.398274781426479,Private room,25,1,12,2015-07-31,2.21,1,309
+4930826,Sleep in a Fin-de-Siècle mansion,10077754,Lucas,,Brederode,51.20518278671793,4.395699595090288,Private room,135,1,1,2015-07-25,0.42,1,365
+2022476,Nice apt quite str close to center,10232302,Vincent,,Brederode,51.19816858226291,4.394687610945134,Private room,28,1,24,2015-09-03,1.59,1,365
+6539107,Charming room in bright apartment,21549976,Stephanie,,Brederode,51.202745042482704,4.3999237229832815,Private room,35,2,11,2015-09-25,2.60,1,57
+7550598,private room in spacious apartment,14514277,Koen,,Brederode,51.20395201550212,4.389267446641535,Private room,40,1,4,2015-08-16,1.94,1,269
+7977950,"Cosy, comfortable and clean studio",15310569,Bart,,Brederode,51.201276425630944,4.397212536812887,Private room,54,2,0,,,1,358
+8362262,Cosy app. triple A location Antwerp,41716401,Fabienne,,Brederode,51.204685561555245,4.3987250743000486,Entire home/apt,80,7,0,,,1,91
+7711336,Brand new modern design loft,1494566,Hans,,Brederode,51.19769509760571,4.394445721263579,Entire home/apt,99,1,0,,,1,312
+4483460,Cosy and central located appartment,18042988,Kim,,Brederode,51.20541802413185,4.4031843788245615,Entire home/apt,63,1,21,2015-07-27,1.91,1,357
+4945936,"Charming, fun decorated appartment",25492107,Dorien,,Brederode,51.20202883383767,4.393649472813475,Entire home/apt,75,1,0,,,1,363
+7649142,Nice room in the centre,31201470,Joris,,Brederode,51.20478831936936,4.392648187243421,Private room,32,1,21,2015-09-27,12.35,1,340
+5879010,1bedroom apartment Antwerp South,30529416,Evy,,Brederode,51.206729797758406,4.400175191943012,Entire home/apt,55,14,0,,,4,365
+6210643,Duplex flat (loft) + parking lot,27081395,Karel,,Brederode,51.20177504797166,4.399384832141116,Entire home/apt,65,2,19,2015-09-13,4.32,1,346
+5465443,Ruime kamer in herenhuis,28346249,Tanja,,Brederode,51.20306018234534,4.392496324616262,Private room,35,1,2,2015-08-01,0.78,1,98
+6396502,"lovely, spacious city apartment",33352727,Andrea-Toon,,Brederode,51.20143784233587,4.396873726933096,Entire home/apt,120,1,1,2015-07-08,0.34,1,149
+7353035,Apartment in the heart of Antwerp,18195603,Robin,,Brederode,51.20460162830385,4.394970045408055,Entire home/apt,30,1,5,2015-08-24,2.24,1,28
+5951690,Spotless | Priv. terrace | Hotspot,12366261,Gertjan,,Brederode,51.20795579811676,4.401438113213097,Entire home/apt,50,1,4,2015-08-31,0.75,1,276
+6499676,Tiny room in big artist house,33973941,Anouk,,Centraal Station,51.21651427310962,4.416869437997082,Private room,40,1,25,2015-09-21,6.30,2,341
+7890462,Wonderful room and perfect location,27851106,Loes,,Centraal Station,51.21773114149975,4.417643724364664,Private room,35,4,0,,,2,274
+5372684,Beautiful Room,27851106,Loes,,Centraal Station,51.21866036983978,4.418746825415921,Private room,48,2,12,2015-09-15,3.96,2,300
+6299151,Antwerp Tower II,14624813,Patrick,,Centraal Station,51.21869989652662,4.416864701578931,Private room,30,1,8,2015-09-25,1.66,3,347
+6470888,Cool studio near tommorowland!!!,33804622,Geert,,Centraal Station,51.21287707234288,4.425894215229665,Entire home/apt,45,3,11,2015-09-06,2.52,2,318
+6721554,Moderne studio met prachtig terras.,33804622,Geert,,Centraal Station,51.213389518187135,4.425241911369011,Entire home/apt,40,3,12,2015-09-13,3.16,2,307
+6418099,BOOK LOVERS' room near Station,33481052,Anne,,Centraal Station,51.21420435308523,4.4265583491196105,Private room,54,1,25,2015-09-25,6.88,2,338
+6585827,Quiet room close to Central Station,34449017,Martha,,Centraal Station,51.21614235200629,4.426754529112877,Private room,35,1,6,2015-09-08,1.98,1,136
+789555,+++blancoooJOZEFIEN+++ roofterrace,3185214,A'Mie,,Centraal Station,51.21230561289945,4.4269048398055615,Entire home/apt,90,2,23,2015-08-10,0.69,3,316
+3506131,Stylish flat @ Antwerp Hotspot+Wifi,4211892,Maarten,,Centraal Station,51.219251177676334,4.418014815503973,Entire home/apt,60,1,40,2015-09-21,2.67,6,326
+7929681,Room in ArtDeco apartment w/ GARDEN,28111398,Kris,,Centraal Station,51.21632313737776,4.416730833471873,Private room,55,2,9,2015-09-30,6.75,1,159
+6297952,Antwerp Tower,14624813,Patrick,,Centraal Station,51.21710424475826,4.416995611416085,Private room,49,1,8,2015-08-24,1.70,3,344
+7067067,Master bedroom with 2 balconies,33481052,Anne,,Centraal Station,51.21627338780537,4.426548398559063,Private room,49,1,18,2015-09-28,6.51,2,352
+2704808,cosy appartment in Antwerp,13425580,Fabienne,,Centraal Station,51.212415175532755,4.417091101974035,Entire home/apt,53,2,25,2015-08-23,1.47,1,301
+4228514,Leuk appartement in Antwerpen ,21946409,Joël,,Centraal Station,51.217595929018415,4.426012135889049,Entire home/apt,80,1,38,2015-09-12,3.14,1,359
+1504952,"""Antwerp B&B""",573329,Patricia,,Centraal Station,51.21692164187948,4.427491266284377,Entire home/apt,100,1,13,2015-07-29,0.50,1,350
+8623790,Wonderful unique loft in the city,45361133,Céline,,Centraal Station,51.21709428189892,4.428233633411418,Entire home/apt,100,3,0,,,1,363
+6300508,Antwerp Tower III,14624813,Patrick,,Centraal Station,51.218443530377776,4.415609672898389,Entire home/apt,150,1,0,,,3,365
+2420957,Apartment in the center of Antwerp,10317168,Sam,,Centraal Station,51.21842176939093,4.423142728874299,Shared room,18,1,12,2015-07-26,0.61,2,359
+8200418,Long stay pakket in Antwerpen,43250433,Eke,,Centraal Station,51.21712002299268,4.417683694207497,Private room,60,1,0,,,1,365
+5566637,The Cozy Casa of Antwerp,6568694,Greet,,Centraal Station,51.21230590805976,4.425229768879174,Entire home/apt,94,1,10,2015-08-30,1.86,1,270
+6922628,Nice spot in the center of Antwerp,35404169,Claudio,,Harmonie,51.20932123721396,4.405143349195168,Shared room,60,1,1,2015-07-27,0.43,1,0
+7724394,ARTY STUDIO FOR ALL THE GOOD BOBOS,39345707,Lucia,,Harmonie,51.20573759339384,4.407564007737289,Entire home/apt,69,1,3,2015-09-28,2.65,1,361
+6454243,Luxury apartment,33588185,Annemieke,,Harmonie,51.20662462997265,4.406385192146576,Entire home/apt,120,1,1,2015-07-05,0.33,1,87
+5179448, House full of character + garden,8558537,Johan,,Harmonie,51.206888356323,4.40665441219963,Entire home/apt,180,5,1,2015-07-29,0.45,2,286
+4064854,"The ""PANCAKE PASTE"" room",20834666,Greta,,Harmonie,51.20835269780935,4.40671120116297,Entire home/apt,65,2,1,2015-03-30,0.16,2,314
+3197919,"100 years old ""master mansion"".    ",16207518,Michael,,Harmonie,51.206882724519055,4.4064500084808955,Entire home/apt,150,1,6,2015-09-14,0.65,1,298
+5997715,"Modern, light & central appartment",27522217,Heleen,,Harmonie,51.205072826247246,4.404877299764872,Entire home/apt,69,1,15,2015-09-21,2.94,1,362
+1810461,"cosy appart., spacious room",7314352,Siegfried,,Harmonie,51.201335268080896,4.4078738645644915,Private room,150,1,2,2015-01-01,0.12,1,365
+2064656,spacious&quiet for 2persons @Centre,10562873,Carlos,,Harmonie,51.20557241975805,4.405392438847635,Private room,43,1,49,2015-09-21,2.30,1,342
+603545,"Downtown, trendy, ideal 4 long stay",2987880,Serge,,Harmonie,51.20752535908123,4.405890945883422,Entire home/apt,180,2,5,2014-12-15,0.15,2,259
+8048327,private room in bright house,21223991,Ellen,,Harmonie,51.2065915404823,4.406253647438523,Private room,30,1,1,2015-09-11,1,2,13
+7062074,"Quiet two floor appt, city centre.",36779079,Ingrid,,Harmonie,51.21015056995215,4.406431803940877,Entire home/apt,90,1,10,2015-09-26,4.29,1,354
+945173,Very light roof apartment with 20m2,5119440,Wout,,Harmonie,51.20889936370735,4.407384419547509,Entire home/apt,70,2,89,2015-09-30,3.12,1,299
+4017995,A beautiful room in a Master Home,20834666,Greta,,Harmonie,51.207670605642996,4.407004126322088,Entire home/apt,65,2,3,2015-04-28,0.48,2,326
+6850711,Room,33425687,Marie,,Harmonie,51.20946475970842,4.4056985005459595,Private room,35,1,0,,,1,301
+5159464,Romantic stay for 2 in city centre,13232671,Ann,,Harmonie,51.200921653997156,4.408277963411163,Entire home/apt,79,1,16,2015-09-28,1.96,1,287
+4204963,Cosy home near the center,5352535,Els,,Harmonie,51.20453975086746,4.409271231452097,Private room,44,2,26,2015-08-20,2.22,2,306
+3467654,Large bedroom +  sitting area,8558537,Johan,,Harmonie,51.20605234855268,4.408577214870305,Private room,55,3,4,2015-05-03,0.27,2,357
+4998719,Spacious light apartment center Antwerp,6234674,Niko,,Harmonie,51.20860612542598,4.406228810712685,Entire home/apt,125,2,18,2015-09-26,2.76,1,351
+6428108,Lozana Lodging,33547183,Erik,,Harmonie,51.201173995911034,4.406841449301697,Entire home/apt,95,3,0,,,1,364
+6790029,Beautiful light bedroom,17957334,Karolien,,Harmonie,51.20848549660186,4.403435773391205,Private room,45,1,0,,,1,0
+8501178,Nice place in a Nice city :),44731274,Magali,,Harmonie,51.20559691681683,4.4056369652751295,Entire home/apt,50,1,0,,,1,351
+3839634,Charming Romantic Room,2781078,Eileen,,Harmonie,51.20961394593904,4.405707515772844,Private room,60,2,33,2015-07-27,2.39,2,255
+3565169,Appartment 100m2 on ground floor,17951594,Reginald,,Harmonie,51.208921078573454,4.406174045683303,Private room,95,2,6,2015-07-27,0.45,1,273
+6746312,Place to call home near the centre,5352535,Els,,Harmonie,51.20682383947459,4.408563036839998,Private room,44,2,2,2015-08-19,0.67,2,272
+7163228,Comfort Room with private garage,35993654,Elizabeth,,Lambrechtshoeken,51.25092438480943,4.4334840397936635,Private room,50,2,5,2015-08-18,2.08,4,357
+6868979,Budget and comfy room for 2 person,35993654,Elizabeth,,Lambrechtshoeken,51.25194143533014,4.4347153604115706,Private room,50,5,3,2015-08-10,1.25,4,365
+7080719,Lovely room for two with garage,35993654,Elizabeth,,Lambrechtshoeken,51.25176724559479,4.433743554126649,Private room,50,5,6,2015-09-05,2.54,4,365
+8070845,Lovely Entire place for only you,35993654,Elizabeth,,Lambrechtshoeken,51.25192277377859,4.435377006948755,Private room,180,2,1,2015-09-30,1,4,365
+2449127,Double room at the harbour (MAS),7736029,Jonas,,Eilandje,51.23003724168518,4.411973346389661,Private room,52,21,39,2015-05-16,2.12,1,336
+5074616,Discrete luxury on a top location,26204741,Patrick,,Eilandje,51.23109419503014,4.418834280883421,Entire home/apt,95,3,19,2015-09-23,2.42,1,318
+6672914,Cosy modern studio city-center WIFI,34924663,Astrid,,Eilandje,51.23094983566024,4.405885805500258,Entire home/apt,59,2,0,,,1,329
+7934995,Spacious appartment with a view,14336649,Jeroen,,Eilandje,51.23066806377056,4.411303815760944,Entire home/apt,75,2,2,2015-09-21,1.54,1,356
+4592434,Modern 4 pers appartement Antwerpen,23805604,Gina,,Eilandje,51.229456970995514,4.406143474976858,Entire home/apt,150,2,8,2015-08-15,0.77,1,333
+5129561,Apartment @ the new place 2B + WIFI,25678850,Joost,,Eilandje,51.23083240782123,4.4129944480380905,Entire home/apt,115,1,9,2015-09-07,1.44,1,363
+5555535,Loftstyle apartment in old harbour,15117760,Dimitri,,Eilandje,51.2326392210858,4.411404210049657,Entire home/apt,50,6,14,2015-08-10,2.12,1,278
+5924987,Red Star Apartment 1,30766084,Albert,,Eilandje,51.23193621107981,4.405186875046854,Entire home/apt,110,1,0,,,1,276
+4480525,"Cosy, charming and quiet apartment",23217821,Richard,,Eilandje,51.235620422273676,4.4117732276364166,Entire home/apt,40,1,19,2015-09-21,2.27,1,214
+1184623,Luxe penthouse,4865806,Tommie,,Eilandje,51.23133085990033,4.410153921258191,Entire home/apt,195,2,2,2014-10-26,0.08,1,321
+5110651,Luxury Apartment in Anvers/Antwerpe,26401265,Samir,,Eilandje,51.229910493163075,4.415586339076007,Entire home/apt,120,1,0,,,1,365
+7551165,Trendy loft apartment,20297996,Maria,,Eilandje,51.230317561271356,4.405305415778471,Entire home/apt,115,1,2,2015-08-16,0.88,1,365
+1328770,Cosy historic Ship Hannus  Antwerp,4193029,Jan Willem,,Eilandje,51.22875251554127,4.40254239858004,Private room,35,1,30,2015-09-13,1.12,1,345
+3934714,Brandnew flat for 2 with great view,20384577,Rita,,Eilandje,51.23101912716866,4.418154595659926,Entire home/apt,150,1,0,,,1,0
+7797156,New apartment with a view + parking,41040134,Sixtine En Ekaterina,,Eilandje,51.23128543377618,4.4116076334240235,Entire home/apt,150,1,4,2015-09-13,2.45,1,239
+6149034,Lovely flat with spectacular view!,25673165,Sharon,,Eilandje,51.23273285863188,4.4039408667587905,Entire home/apt,65,2,25,2015-09-28,4.87,1,354
+7962587,LOFT APPARTEMENT  MAS MUSEUM,38267335,Ben,,Eilandje,51.22952492050976,4.410943381150604,Entire home/apt,75,1,0,,,1,274
+116134,New apartment in trendy old harbour,586942,Paul,,Eilandje,51.23050744976411,4.40592684250016,Entire home/apt,150,2,26,2015-08-23,0.60,1,317
+5542588,New en modern app,28739341,Koen,,Eilandje,51.22971886459214,4.411933721343801,Entire home/apt,105,1,37,2015-09-28,5.50,1,333
+5914975,Modern luxe apartement @ t'Eilandje,30717772,Peter,,Eilandje,51.23206283857012,4.412736704506257,Entire home/apt,90,3,2,2015-07-27,0.58,1,92
+7480390,Private room & bathroom,2913868,Hanne,,Kiel,51.18737792533313,4.3870844734849745,Private room,35,1,0,,,2,31
+6115110,Modern huis in Levendige wijk,28086961,Kim,,Kiel,51.18971734746759,4.3766279415014,Entire home/apt,145,1,0,,,1,365
+4920115,Spacious apartment near the park,25217689,Katrin,,Kiel,51.18491227409072,4.387209544716899,Entire home/apt,120,1,7,2015-09-14,0.76,1,361
+8179789,1st flr in charming house 1927,4851422,Ann,,Kiel,51.18525873176595,4.385276971851485,Private room,40,1,0,,,1,43
+7900337,ronny,41654752,Ronny,,Kiel,51.18699186311355,4.375173072231907,Private room,30,1,0,,,2,363
+7147660,Huis: 6 kamers met eigen badkamer,2913868,Hanne,,Kiel,51.185448353063656,4.388656776974059,Private room,35,2,4,2015-08-29,1.48,2,361
+8527984,Appartement te Antwerpen/Wilrijk,30757298,Stefanie,,Kiel,51.18066806620118,4.387418517618697,Entire home/apt,54,5,0,,,1,107
+4436052,"Large, colourful room with 3 beds",12114649,Christine,,Kiel,51.18482159193468,4.386919696052098,Private room,60,1,16,2015-09-21,1.53,1,351
+8378393,Rustige buurt - buiten stadcentrum,43269746,Freddy,,Ekeren Centrum,51.286178264349104,4.419656180259931,Private room,31,1,0,,,1,365
+3399569,aangename kamer met kitchinette,3689165,Ann,,Hoboken - Centrum,51.178232201917446,4.361433311592747,Private room,37,1,3,2015-09-24,0.33,2,298
+7900157,ronny,41654752,Ronny,,Hoboken - Noord,51.18622465066967,4.3751726422365484,Private room,30,2,2,2015-09-10,1.76,2,362
+6725359,Nice house surrounding Antwerp,19965851,Kristof,,Hoboken - Noord,51.18099617913602,4.350108092173724,Private room,85,1,0,,,2,365
+911548,aangename studio met terras,3689165,Ann,,Hoboken - Noord,51.180198930799456,4.359202408995542,Entire home/apt,45,1,6,2015-08-10,0.20,2,293
+6725141,Exclusive house surrounding Antwerp,19965851,Kristof,,Hoboken - Noord,51.1797042906098,4.3498967873739725,Entire home/apt,150,1,6,2015-09-01,1.94,2,365
+4605928,Luxueus appartement - prive parking,23866988,Inge,,Hoboken - Noord,51.178704519092655,4.369311944145773,Entire home/apt,65,7,1,2015-08-01,0.47,1,288
+3154458,Spacious full apartment with terras,3253666,Jan,,Hoboken - Noord,51.18704693444998,4.3707338026490445,Entire home/apt,38,7,0,,,2,16
+562914,Charming room in charming house 1,1668882,Marianne,,Hoogte,51.17549631747219,4.39788563870972,Private room,35,2,41,2015-09-21,1.08,1,347
+575935,"Room, Beautiful Design Flat Antwerp",1128692,Larissa,,Hoogte,51.18152269666411,4.394634477402692,Private room,50,2,18,2015-09-06,0.47,1,335
+8699120,Classy apartment near Antwerp,45271630,Lennert,,Hoogte,51.181251747511794,4.395570975825788,Entire home/apt,50,1,0,,,1,365
+6763014,Beautiful cottage style apartment,35402441,Yannick,,Hoogte,51.17584891435697,4.392802247640183,Entire home/apt,48,1,6,2015-09-09,2.09,1,289
+573641,Design Apartment Near The Center!,2822632,Ariane,,Hoogte,51.18186644936697,4.393810239587297,Entire home/apt,100,2,11,2015-05-21,0.29,1,365
+6962166,huis te wilrijk,36506155,Ludo,,Valaar,51.17828610368678,4.385303036404519,Private room,33,2,1,2015-08-02,0.48,1,357
+652990,Antwerp's BEST Bed & Breakfast !,3282803,João,,Valaar,51.179839550526815,4.379082721487061,Private room,37,1,10,2015-09-23,0.68,1,365
+8229088,Chez Mémère,43394953,Serge,,Merksem - Heide,51.248412173236716,4.461009965536043,Private room,70,1,0,,,2,306
+8229039,Chez Mémère,43394953,Serge,,Merksem - Heide,51.24908014138353,4.459206286894199,Entire home/apt,70,1,0,,,2,306
+6164511,A home away from home,21667658,Elisabeth,,Oosterveld - Elsdonk,51.1775577846758,4.430051845148035,Private room,50,2,2,2015-08-31,0.88,1,323
+2133274,Middelheim Guest House,10885207,Armand,,Oosterveld - Elsdonk,51.17635067972795,4.4243334078815,Private room,70,1,0,,,1,365
+7138152,"app. 2X2, tuin, groene omg",37386343,Tine,,Oosterveld - Elsdonk,51.17383208886538,4.427735139820352,Entire home/apt,80,1,0,,,1,365
+5790215,Priv.bedr. in Beautiful Appartment!,2575036,Yves,,Oud - Merksem,51.238095591249774,4.440847981572278,Private room,27,1,4,2015-09-06,0.75,1,356
+4853293,Duplex in a renovated parsonage,24968524,Wim,,Stadspark,51.21034232359302,4.417709325291638,Private room,159,1,1,2015-06-22,0.29,1,365
+3202647,Penthouse +Terrace @CentralStation,10614479,Steven,,Stadspark,51.21757044404144,4.416409711464326,Entire home/apt,66,2,14,2015-09-28,4.62,1,247
+5148493,Central apartment with terrace,26618990,Lutgard,,Stadspark,51.214701258940245,4.4134779569545675,Entire home/apt,75,2,27,2015-09-29,4.60,1,246
+8514381,Renovated Studio in the centre,44834170,Leni,,Stadspark,51.21776918564555,4.415774774324359,Entire home/apt,50,2,0,,,1,316
+1292916,Cosy apartment in old town centre,3998871,Rob,,Stadspark,51.21431531706672,4.413206781173843,Entire home/apt,85,2,16,2014-12-14,0.60,1,215
+6065363,Modern duplex appartment,31099981,Peter,,Stadspark,51.20827839156058,4.4134198436260945,Entire home/apt,95,3,14,2015-09-07,3.00,1,334
+1427505,Trendy apartment near city park !,7672678,Mark,,Stadspark,51.212047305638286,4.413154405936464,Entire home/apt,80,2,27,2015-08-15,1.02,1,337
+7537534,spacious apartment with park view,39493382,Mimi,,Stadspark,51.215413778405456,4.415788942264251,Entire home/apt,84,3,1,2015-08-29,0.83,1,305
+6038668,"In Antwerp, Citypark",31339721,Ophelia,,Stadspark,51.21514960531794,4.4153726050684545,Entire home/apt,70,2,6,2015-09-14,1.17,1,331
+7662900,Design apartment in city center,40220735,Vic,,Stadspark,51.21067047332694,4.408082167112877,Entire home/apt,80,2,0,,,1,364
+1220689,Beautiful 1920's spacious apartment,2871112,Klaas,,Stadspark,51.20704645673727,4.410987994804873,Entire home/apt,99,2,32,2015-06-13,1.39,1,291
+6592820,4 pers. roomAmbassador Antwerpen,12559122,Be-Housing,,Stadspark,51.2093897702608,4.422115722659552,Entire home/apt,80,1,2,2015-08-22,0.71,8,207
+7497483,Central Antwerp,39268762,Sophie,,Stadspark,51.20770433206718,4.415199058786216,Entire home/apt,100,1,0,,,1,47
+6584668,Bel Epoque Townhouse Antwerp,9629145,Tom,,Stadspark,51.20913977136509,4.41326832273102,Entire home/apt,290,2,3,2015-09-28,1.27,1,127
+7156628,LUXE LOFT SUITE CENTER ANTWERP,30524577,Maarten,,Stadspark,51.21016434983247,4.421605007202618,Entire home/apt,150,2,0,,,3,365
+3207291,Central Penthouse - 35 m² terrace,16250048,Maurits - Rodolfo,,Stadspark,51.20680135208545,4.418533595552148,Entire home/apt,87,2,30,2015-09-21,1.86,1,343
+5923301,Feel at home in Antwerp ,15950315,Koen,,Stadspark,51.2102291282831,4.415121601585757,Entire home/apt,85,1,18,2015-09-27,3.21,1,339
+642477,Parkview Penthouse - City Center,3210899,Ben,,Stadspark,51.21107663115499,4.4144182980062245,Entire home/apt,145,2,37,2015-08-15,1.07,1,335
+7503273,Large room with stunning park view,11797619,Fabian,,Stadspark,51.210145013372774,4.412731156403908,Private room,55,1,10,2015-09-06,4.48,2,275
+2032197,Nice appartement Antwep city center,10432964,Astrid Evelien,,Stadspark,51.210305964606924,4.409258707957091,Entire home/apt,159,3,18,2015-06-15,0.90,1,357
+8282650,Penthouse met uitzicht op Antwerpen,43673173,Daan,,Stadspark,51.212662536561574,4.416172835437483,Entire home/apt,119,2,1,2015-09-21,1,1,62
+778043,cosy & beautiful apartment Antwerp,1735092,Marc & Elizabeth,,Stadspark,51.203991306307095,4.412485556613319,Entire home/apt,70,2,34,2015-09-01,1.01,1,351
+6712332,Bright room in big artist house,33973941,Anouk,,Stadspark,51.217050187502544,4.414919605622502,Private room,50,1,22,2015-09-13,6.17,2,348
+6801618,Zonnig app in het hart van de stad,3249377,Frances,,Stadspark,51.215126306254874,4.413414175172086,Entire home/apt,65,2,4,2015-08-25,1.64,1,110
+7530850,Spacious room with view on park,11797619,Fabian,,Stadspark,51.209585855325784,4.4132881088792715,Private room,62,1,9,2015-09-13,3.86,2,275
+8033857,Studio,39896269,Michail,,Stadspark,51.21548498968171,4.414390176906334,Entire home/apt,45,2,4,2015-09-10,3.33,1,14
+3806718,Cosy penthouse with big terrace,5739313,Mathilde,,Stadspark,51.20618437289798,4.415719235121468,Entire home/apt,95,2,4,2015-09-14,0.32,1,91
+2086182,Bright apartment - top location,7877397,Lien,,Stadspark,51.21401016672353,4.412252278786602,Entire home/apt,100,3,21,2015-09-10,1.01,1,310
+4425751,"Bedroom, living room & terrace",3093188,Saskia,,Stadspark,51.20972845003071,4.415943043314649,Private room,60,1,26,2015-06-23,2.80,1,351
+6371011,Spacious apt. Best view in town.,9033490,Marcos,,Stadspark,51.20803772474953,4.414204677088733,Entire home/apt,45,1,5,2015-06-27,1.26,1,118
+1324202,Apartment in Antwerp 2018,7187753,Zalm,,Stadspark,51.20315271542591,4.411790490951854,Entire home/apt,85,3,0,,,1,365
+8184722,Studio,30529416,Evy,,Stadspark,51.20850260778691,4.418209059180977,Private room,99,14,0,,,4,365
+723033,Spacy family studio in Antwerp City,3734348,Sylvia,,Stadspark,51.20954869565596,4.4148110702063805,Entire home/apt,85,2,108,2015-09-27,3.03,1,346
+1602066,1BR penthouse w/ awesome roof deck,2987880,Serge,,Stadspark,51.210665231958394,4.411546829409142,Entire home/apt,150,2,3,2015-08-25,0.33,2,350
+1405414,bright apartment with parkview,4870468,Jo - Debora,,Stadspark,51.21388326630485,4.41573355500263,Entire home/apt,90,2,58,2015-07-30,2.22,1,218
+8286099,City centre room with river view,6792792,Kseniia And William,,Sint-Andries,51.21811290170591,4.393834613404983,Private room,40,1,2,2015-09-21,2,1,349
+6824843,Beautiful ap and with enough space,35591461,Abdullah,,Sint-Andries,51.21510836520925,4.399361503843439,Shared room,68,1,0,,,1,365
+6997893,Hartje A'pen nieuw leuk 4pers appt,12140631,Stefan,,Sint-Andries,51.21531084132902,4.398054854124783,Entire home/apt,90,2,0,,,5,306
+5020212,"Villa Monastero, hartje oude stad",14729117,Nadine,,Sint-Andries,51.21574290135297,4.395274572807631,Entire home/apt,100,2,5,2015-08-03,0.65,1,354
+3485260,Appartementje in hartje Antwerpen,9769313,Yentl,,Sint-Andries,51.21635231691905,4.395461037343647,Entire home/apt,40,1,1,2014-09-04,0.08,1,337
+5961475,Antwerp FASHION @ R73 ,19550917,Roxanne,,Sint-Andries,51.214971935947595,4.400348791995436,Entire home/apt,140,3,0,,,1,364
+5810199,"SUPER CENTRAL, Free Parking, Wifi",3324710,Van,,Sint-Andries,51.21762050150929,4.398395768875316,Entire home/apt,60,2,14,2015-07-27,2.32,1,88
+2448815,MAISON NATIONALE City Flats&Suites,12523959,Tom,,Sint-Andries,51.2169948827223,4.4001360535227745,Private room,155,1,0,,,1,364
+7650469,"Beautiful flat, very private",25570760,Ria,,Sint-Andries,51.21375556596522,4.392719044364119,Private room,35,1,4,2015-09-08,2.18,1,339
+7605143,Cozy place in the heart of A,11354314,Thomas,,Sint-Andries,51.216063818419535,4.396070002813162,Entire home/apt,35,2,2,2015-09-14,2,1,121
+4696878,Sunny apartment on a top location!,24281639,Annelies,,Sint-Andries,51.21357270791444,4.392010192892236,Entire home/apt,59,1,22,2015-09-13,2.37,1,295
+4266469,Small apartment in city centre ,22147669,Alain,,Sint-Andries,51.216734152958615,4.400696228091505,Entire home/apt,79,2,59,2015-09-21,4.97,1,282
+6801809,"Cosy, charming apartment",35608024,Peter,,Sint-Andries,51.21211152409457,4.398347470246678,Entire home/apt,90,2,12,2015-09-26,3.43,1,341
+1808782,LOFT 1D  -design loft ,9478810,Keith,,Sint-Andries,51.21274164338684,4.395072658537441,Entire home/apt,119,2,80,2015-09-21,3.66,1,185
+6997563,Nieuw ruim appt 10 pers hartje stad,12140631,Stefan,,Sint-Andries,51.21377120298467,4.396860271357931,Entire home/apt,200,2,3,2015-08-23,1.10,5,335
+6403569,Peaceful environment and nice,33394972,Abdullah,,Sint-Andries,51.216065814173035,4.4002888719415445,Entire home/apt,59,1,0,,,1,114
+5855245,Sunny studio in centre of Antwerp,1752102,Kerrita,,Sint-Andries,51.216364152219185,4.401203764000042,Entire home/apt,54,1,5,2015-09-28,0.83,1,86
+4775393,"Cosy apartment, center/near river",14933509,Goele,,Sint-Andries,51.21301057058949,4.396817852501832,Entire home/apt,75,4,7,2015-09-01,1.37,1,355
+8201461,Peaceful apartment in busy Antwerp,43256879,Gino,,Sint-Andries,51.217322209715775,4.397050668423799,Private room,90,2,0,,,1,363
+4502646,Spacious studio in Antwerp center!,13059720,Yara,,Sint-Andries,51.217692914751936,4.398333178998812,Entire home/apt,75,1,96,2015-09-23,9.57,1,319
+3141823,A perfect hideaway in  citycentre!!,7070838,Els,,Sint-Andries,51.214477586204964,4.398503892705297,Entire home/apt,60,2,51,2015-09-28,3.17,1,348
+3773340,Design Room in City Center,11642928,Lieze,,Sint-Andries,51.21724213036801,4.400018104531246,Private room,40,1,124,2015-09-28,8.79,1,154
+8482469,"Appartement, centrum van Antwerpen.",44673643,Christophe,,Sint-Andries,51.215668172515734,4.400716024080282,Entire home/apt,50,2,0,,,1,342
+4399912,Nice room in Brugge ,22143600,Lena,,Sint-Andries,51.2125335728055,4.398528299398316,Private room,45,1,2,2014-12-29,0.18,1,365
+2376427,Apartment 4pers in heart of Antwerp,12140631,Stefan,,Sint-Andries,51.21566441392504,4.399599749528297,Entire home/apt,90,1,22,2015-07-04,1.14,5,349
+7819865,White Cube Loft with Panorama,12990235,Simon,,Sint-Andries,51.21618859302843,4.396214973650467,Entire home/apt,65,2,1,2015-09-21,1,1,34
+224682,APARTMENT - OLD CENTRE ANTWERP,1263933,Miertje,,Sint-Andries,51.217218613197936,4.39789832880289,Entire home/apt,105,2,97,2015-08-10,2.20,1,342
+5702020,Where living becomes poetry...,29563257,Isabel,,Sint-Andries,51.214914088991385,4.397323175083635,Entire home/apt,88,2,20,2015-09-27,3.17,1,61
+5382509,Apartment with parking place,17075823,Koen,,Sint-Andries,51.21384984980848,4.400350765757375,Entire home/apt,75,2,9,2015-09-06,1.34,1,37
+4403300,Modern rooftop apartment w/ parking,8332203,Quentin,,Sint-Andries,51.212897146502165,4.4001131866439795,Entire home/apt,119,3,13,2015-07-28,1.21,1,102
+2543695,gorgeous flat - fashion district,234077,Karin,,Sint-Andries,51.2176204545684,4.399541065138354,Entire home/apt,150,3,2,2015-05-26,0.19,4,28
+6574783,Charming chalet,34387426,Youri,,Polder,51.360544974767166,4.311766084094547,Entire home/apt,49,1,18,2015-08-30,5.19,1,265
+891355,Sleeping in the heart of Antwerp! ,1366391,Micheline,,Universiteitsbuurt,51.2204291735184,4.405624579964862,Private room,72,2,8,2015-06-07,0.27,1,364
+1038791,Apartment with kitchen and shower.,5717453,Ann,,Universiteitsbuurt,51.22252280012674,4.407507235709104,Entire home/apt,62,1,137,2015-09-18,4.52,1,348
+7849732,Kleine Studio in centrum Antwerpen.,32688849,David,,Universiteitsbuurt,51.22260464528934,4.410828852803012,Entire home/apt,50,1,1,2015-08-27,0.79,2,119
+7879681,Duplex flat in the heart of Antwerp,41536108,Martine,,Universiteitsbuurt,51.223134944878495,4.406112353387485,Entire home/apt,80,2,0,,,1,360
+3857702,Historical House Old Citycenter,19891615,Bart,,Universiteitsbuurt,51.22229701260429,4.4074566793677254,Entire home/apt,180,2,6,2015-09-16,0.52,1,365
+2735518,Charming Appartment,13997072,Sara,,Universiteitsbuurt,51.220484758880175,4.416017772132423,Entire home/apt,60,2,62,2015-09-15,3.50,1,193
+4303323,Den Coninck Achab,22337575,Jerry,,Universiteitsbuurt,51.2223851669561,4.410967482600244,Entire home/apt,135,2,3,2015-08-23,0.29,1,331
+1401817,Cosy bright loft,7567833,Audrey,,Universiteitsbuurt,51.226692087892395,4.411345166090019,Entire home/apt,95,2,45,2015-09-14,1.80,1,363
+5584185,Cosy appartment city centre Antwerp,28911382,Laurens & Hester,,Universiteitsbuurt,51.225657071638146,4.405875860120579,Entire home/apt,70,2,14,2015-09-21,2.07,1,90
+7107548,Romance in the Diamant city,7932064,Odette,,Universiteitsbuurt,51.22017716821083,4.414797275408526,Entire home/apt,89,1,0,,,1,365
+2341317,Zonnig appartement vlakbij het MAS,11957931,Harriëtte,,Universiteitsbuurt,51.224445552742075,4.405310650578659,Entire home/apt,85,2,10,2015-06-02,0.56,1,363
+7506876,Modern studio in city centre,39326291,Kasper,,Universiteitsbuurt,51.22158378344966,4.407458293129801,Entire home/apt,50,1,12,2015-09-17,5.63,1,46
+2194840,Room near CS & citycenter,11087865,Jay&Dirk,,Universiteitsbuurt,51.22298386472687,4.4134177041071405,Private room,34,1,138,2015-09-09,6.70,5,359
+5578067,Design loft in historic building,28920566,Jasper,,Universiteitsbuurt,51.22091368666835,4.416401257051683,Private room,120,1,20,2015-09-26,3.28,1,190
+4574425,Lovely flat + private parking!,22042573,Pieter,,Universiteitsbuurt,51.22239131207704,4.413086370643348,Entire home/apt,75,1,80,2015-09-21,7.59,1,354
+5676229,Apartment +garage in Antwerp center,29429198,Caroline,,Universiteitsbuurt,51.22056341867958,4.407129690231221,Entire home/apt,85,2,23,2015-09-28,3.81,1,52
+6288039,Kleine studio in studentenpand.16m2,32688849,David,,Universiteitsbuurt,51.220838014818,4.410798552284033,Entire home/apt,45,1,48,2015-09-14,10.00,2,93
+8003565,"Unique, modern loft appartment",38212628,Sarah,,Universiteitsbuurt,51.22435671153763,4.405639138391652,Entire home/apt,85,1,5,2015-09-21,4.41,1,331
+4517762,Appartment next to the MAS,21678175,Koen,,Universiteitsbuurt,51.22551681282172,4.407858553510172,Entire home/apt,60,2,52,2015-09-28,6.39,1,296
+7965720,Studio met sauna en chill-outroom,3702238,Annemie,,Universiteitsbuurt,51.220709742436846,4.405835248796191,Entire home/apt,60,1,0,,,2,323
+3992460,Cute studio in the historic centre,20690006,Maggie,,Universiteitsbuurt,51.22129374242639,4.408798952732356,Entire home/apt,54,1,35,2015-09-13,2.67,1,361
+2255740,Room near Station and Historic city,11087865,Jay&Dirk,,Universiteitsbuurt,51.22315560873038,4.4149300428499005,Private room,34,1,61,2015-09-24,2.99,5,351
+7342924,Central apt. with panoramic view,6830519,Jura,,Universiteitsbuurt,51.22077459168848,4.41520620023933,Entire home/apt,79,2,9,2015-09-21,3.86,1,348
+3275069,Renovated apartment in the centre,14795193,Tim,,Universiteitsbuurt,51.22566553141715,4.405992929179694,Entire home/apt,65,1,74,2015-09-18,4.94,1,329
+6046078,Fully equipped apartment,11087865,Jay&Dirk,,Universiteitsbuurt,51.224487546745515,4.413481493178795,Entire home/apt,95,1,10,2015-08-03,1.94,5,358
+8407097,4**** apartment,18745366,Jo,,Universiteitsbuurt,51.225618576880784,4.405231861807578,Entire home/apt,60,2,0,,,2,191
+4983467,Stunning Loft in heart of Antwerp,5601252,Glenn,,Universiteitsbuurt,51.21969412088225,4.410620750463543,Entire home/apt,110,2,4,2015-07-26,0.51,1,244
+4310567,Light & spacious flat with terrace,6939922,Irina,,Universiteitsbuurt,51.22431542109957,4.414923226519348,Entire home/apt,60,2,20,2015-09-26,1.72,1,73
+480831,Antwerp Central Bed and Vintage,2184659,Matti & Lolo,,Universiteitsbuurt,51.22358307497025,4.406158486656406,Entire home/apt,65,1,119,2015-09-14,2.91,2,356
+8660372,Appartment/studio in centre Antwerp,21223991,Ellen,,Universiteitsbuurt,51.221250842032504,4.410253915447258,Entire home/apt,50,1,0,,,2,22
+6280548,musician's apartment in city center,32648035,Hannes,,Universiteitsbuurt,51.220944556070286,4.411525534876783,Entire home/apt,55,1,10,2015-09-28,2.17,1,331
+7333432,Charming house centre of antwerp,2429377,Jef,,Universiteitsbuurt,51.222295805242325,4.412004511465686,Private room,49,1,1,2015-09-28,1,1,364
+4490123,Unique cottage of 1506!,23292541,Georgine,,Universiteitsbuurt,51.22108208704845,4.414195282462908,Entire home/apt,175,2,7,2015-06-09,0.70,1,349
+800017,Cosy flat @ center of Antwerp Wifi!,4211892,Maarten,,Universiteitsbuurt,51.22113576344877,4.416445439562768,Entire home/apt,50,1,140,2015-09-27,4.08,6,215
+2930310,Mini Backpackersroom,11087865,Jay&Dirk,,Universiteitsbuurt,51.22251007775698,4.414468313106633,Private room,29,1,108,2015-09-28,6.35,5,353
+2774244,Private Studio in Center of Antwerp,11087865,Jay&Dirk,,Universiteitsbuurt,51.22502332702123,4.412682597178322,Private room,38,1,141,2015-09-11,7.94,5,339
+6657248,Private room with bathroom & sauna,3702238,Annemie,,Universiteitsbuurt,51.22071563369908,4.405381174628999,Private room,50,1,20,2015-09-24,5.31,2,299
+7226438,安特卫普市中心,37832547,Yuxin,,Universiteitsbuurt,51.226269180617415,4.412913857164227,Private room,28,1,0,,,1,61
+6267827,Unique apartment in heart of Antw.,16197376,Martin,,Universiteitsbuurt,51.220890076147484,4.410794735517611,Entire home/apt,97,2,4,2015-08-16,0.86,1,206
+7848869,Duplex in the centre of Antwerp,41359032,Wali,,Universiteitsbuurt,51.22147480096495,4.4051365429505545,Entire home/apt,58,1,2,2015-09-11,2,1,25
+3359613,Cosy private room heart of the city,16949793,Jan,,Universiteitsbuurt,51.22025377499762,4.40640860046214,Private room,35,1,33,2015-09-25,2.51,1,0
+8561223,Tiny House city centre of Antwerp,40342550,Natanya,,Universiteitsbuurt,51.22293552786951,4.412620687785128,Entire home/apt,78,1,1,2015-09-27,1,1,346
+1406383,"Historical center Antwerp, Belgium",3777682,Bart,,Universiteitsbuurt,51.22397847681494,4.412919651530361,Entire home/apt,53,1,0,,,1,56
+4726962,Private room with ensuite bathroom!,7685022,Nathan,,Universiteitsbuurt,51.219971603114914,4.407904787254884,Private room,49,3,12,2015-09-06,1.25,1,71
+2507353,Cosy private room near station/town,2330818,Annemie,,Stuivenberg,51.22092158940986,4.429420337448394,Private room,45,2,87,2015-09-28,4.65,1,342
+7041474,privé kamer op tweede verdieping,34106356,Jim,,Stuivenberg,51.221208265078566,4.4305241567650855,Private room,25,1,21,2015-09-28,7.00,2,336
+6463582,Private room in spacious penthouse,30519050,Bart,,Stuivenberg,51.21950408007965,4.43526922413666,Private room,44,2,9,2015-09-14,2.27,1,1
+1785355,Cosy room behind the zoo!,5537956,Héloïse,,Stuivenberg,51.22265694678008,4.4350183327658,Private room,36,1,92,2015-08-25,3.86,1,91
+6252753,Most charming annex,4742247,Timothy,,Stuivenberg,51.22376616096949,4.431248474863016,Entire home/apt,65,2,4,2015-07-19,1.21,1,320
+5032373,Cosy Artist Home central location,1812320,Frederik W.,,Stuivenberg,51.22026927346667,4.428725159531656,Entire home/apt,60,1,1,2015-08-07,0.52,1,321
+1577011,New and bright apartment in center,8382721,Rien,,Stuivenberg,51.22104764272827,4.428090586123548,Entire home/apt,60,1,13,2015-07-13,0.53,1,272
+3600266,Cosy workershome in private street,5543700,Marrigje,,Stuivenberg,51.22090499339614,4.431470151683589,Entire home/apt,45,1,18,2015-07-27,1.22,1,273
+963789,Leuk gezellig appartementje,5252306,Paul,,Stuivenberg,51.22369428058543,4.43234921057179,Entire home/apt,50,4,77,2015-02-16,2.52,1,229
+6077622,Gezellig huisje (Antwerpen centrum),30758110,Peter,,Stuivenberg,51.22025982855732,4.436399725925524,Entire home/apt,79,1,4,2015-06-21,0.79,3,362
+5245803,cute and cosy roof apartment ,27147764,Klara,,Stuivenberg,51.22284051056026,4.432001470989626,Shared room,45,1,3,2015-08-31,0.43,1,198
+8600063,Apartment with rooftop terrace,45257384,Veronique,,Stuivenberg,51.21985840786851,4.430459297616947,Entire home/apt,50,1,0,,,1,285
+6804868,xl privé kamer in herenhuis,34106356,Jim,,Stuivenberg,51.22134932937092,4.4297829368101755,Private room,40,1,17,2015-09-19,5.20,2,348
+4265913,Charmant 19e eeuws huis bij station,22144864,Greet,,Stuivenberg,51.21906410583668,4.430223616527596,Entire home/apt,140,2,5,2015-06-27,0.48,1,332
+6821808,Appartement near Central Station,6833101,Dorith,,Stuivenberg,51.22017961425837,4.42918637109851,Entire home/apt,45,2,10,2015-09-09,4.69,1,13
+6248339,Vriend(inn)en kamer / Friends room,30758110,Peter,,Stuivenberg,51.22012731655733,4.436912365491622,Private room,29,1,1,2015-09-13,1,3,359
+7081768,A flat  in center of Antwerp,29753658,Vitali,,Stuivenberg,51.222753941812336,4.439445214193897,Entire home/apt,30,1,0,,,1,121
+4834212,Near Park Spoor Noord & Sportpaleis,901463,Stefanie,,Stuivenberg,51.226100707242196,4.431023900901917,Entire home/apt,30,1,21,2015-09-28,2.25,1,357
+5215110,Room close to Central Station.,3767005,Peter,,Stuivenberg,51.226270740425605,4.435739085028569,Private room,28,2,15,2015-09-21,2.23,3,360
+4383511,"2p room, living area & bathroom",13237490,Antoinette,,Stuivenberg,51.22727983777892,4.4266553874578705,Private room,39,2,60,2015-09-17,5.25,1,0
+3805948,"Charming, sunny studio",9874184,Greet,,Stuivenberg,51.22133879599097,4.436412945344878,Private room,28,3,42,2015-09-15,3.08,1,122
+6247042,Spacious room near Central station.,3767005,Peter,,Stuivenberg,51.22443534934168,4.436289237727432,Private room,35,2,1,2015-05-20,0.22,3,365
+6247373,Apartment near Central Station,3767005,Peter,,Stuivenberg,51.22562198991383,4.436816763467254,Entire home/apt,72,5,0,,,3,363
+2433570,cosy private room in a unique loft,12411315,Sophie,,Stuivenberg,51.221537893676825,4.438295061699672,Private room,45,2,18,2015-09-14,0.97,1,364
+5923185,Mooie  kamer met zonnig terras,30758110,Peter,,Stuivenberg,51.219849898606405,4.434930701996886,Private room,45,1,5,2015-09-18,0.97,3,365
+6117557,Cozy travelers' room,1813697,Arnout,,Tentoonstellingswijk,51.192134127770444,4.390505465202788,Private room,34,1,6,2015-09-29,3.21,1,28
+1126478,Quiet room next to Antwerp Expo,6180006,Stéphane,,Tentoonstellingswijk,51.18857060128618,4.392354058049947,Private room,36,1,28,2014-04-30,1.00,1,244
+779789,Cosy & Comfortable in Antwerp,4111664,Ria,,Tentoonstellingswijk,51.19139072620516,4.389641096361844,Entire home/apt,60,5,6,2015-03-28,0.23,1,351
+2863748,"Cosy, comfortable apartment for 2 ",14637444,Petra,,Tentoonstellingswijk,51.190679835031276,4.391321511278947,Entire home/apt,97,2,2,2014-09-08,0.12,1,358
+335449,Room in Amazing Loft,1707788,Haye,,Theaterbuurt-Meir,51.211774176944004,4.406509304783094,Private room,45,10,0,,,1,336
+4487678,Leuke duplex op fantastische liggin,23282653,Maayke,,Theaterbuurt-Meir,51.211574810445285,4.405978680000928,Entire home/apt,120,1,2,2015-01-02,0.22,1,307
+7571621,Duplex/ heart of the city 108 m2,37008652,Roland,,Theaterbuurt-Meir,51.21532485736755,4.402444462492807,Entire home/apt,74,2,9,2015-09-27,5.87,1,358
+7281870,Modern Privet Apartment Room,21405955,Amir,,Theaterbuurt-Meir,51.217686908309396,4.414598558755219,Private room,47,2,0,,,1,364
+4563880,SPACIOUS CENTRIC APPARTEMENT ,10918512,Sandra,,Theaterbuurt-Meir,51.219021471877646,4.405799168765802,Entire home/apt,60,2,12,2015-07-30,1.14,1,362
+6355558,St James city center loft,33109671,Reinout,,Theaterbuurt-Meir,51.21944581017994,4.409282945289509,Entire home/apt,89,1,9,2015-10-03,3.00,1,310
+7730646,Gezellig Appartementje,40617404,Suzy,,Theaterbuurt-Meir,51.2133113568209,4.408619846489196,Entire home/apt,70,2,4,2015-09-21,2.93,1,338
+2427717,Cosy vintage flat ° center Antwerp,12409903,Annick,,Theaterbuurt-Meir,51.21658537643909,4.407295111714362,Entire home/apt,110,1,84,2015-09-19,4.34,1,347
+936704,Bohemian apartment in Antwerp Town,5056868,Nick,,Theaterbuurt-Meir,51.21644417056378,4.413959245593801,Entire home/apt,99,1,66,2015-09-12,2.08,1,360
+5114334,Bright 1 bedroom apt in city centre,26424945,Sven,,Theaterbuurt-Meir,51.21559740747524,4.412458090559914,Entire home/apt,65,2,15,2015-05-25,1.84,1,17
+5922786,Smartflats Meir 301,2792958,Tarik,,Theaterbuurt-Meir,51.21901608940972,4.4090917540566865,Entire home/apt,159,1,2,2015-09-11,2,3,328
+8029867,Sir Richard Suite Antwerp,15946355,Steven,,Theaterbuurt-Meir,51.211312693256666,4.408007669199552,Entire home/apt,140,2,0,,,1,365
+6889478,AAA EVERDIJSTRAAT,34416465,Seth,,Theaterbuurt-Meir,51.21696417970158,4.401487063143335,Entire home/apt,125,3,0,,,4,0
+5923754,Smartflats Meir 501,2792958,Tarik,,Theaterbuurt-Meir,51.21837227246754,4.408682240858656,Entire home/apt,139,1,1,2015-09-21,1,3,345
+6793911,Modern en gezellig appartement,34084414,Irene,,Theaterbuurt-Meir,51.21524989861555,4.411884159182908,Entire home/apt,73,3,8,2015-09-22,2.73,1,342
+8302863,arty house in the centre of antwerp,6592825,Flora,,Theaterbuurt-Meir,51.214725730338564,4.402238953107766,Private room,33,2,0,,,1,0
+6139374,Appartement in het hartje Antwerpen,31847737,Lisa,,Theaterbuurt-Meir,51.21495803377827,4.408459676101661,Private room,30,2,6,2015-07-28,1.98,1,96
+5754296,Cosiest home in historic Centre!!,14787155,Ken,,Theaterbuurt-Meir,51.21775448588194,4.404369345507553,Entire home/apt,87,1,21,2015-10-01,3.91,2,313
+7192160,When in Antwerp; this is the place!,37665728,Saskia,,Theaterbuurt-Meir,51.21862474623797,4.415030890041014,Private room,63,1,15,2015-09-17,7.50,1,320
+8465701,studio in middle of Antwerp City,44581247,Rabia,,Theaterbuurt-Meir,51.21633202608998,4.414009533343655,Entire home/apt,55,2,0,,,1,303
+4690351,"Light, cosy & very central studio ♛",24250249,Lies,,Theaterbuurt-Meir,51.21643266140842,4.410111388666352,Entire home/apt,65,2,10,2015-08-24,1.16,1,1
+7977980,Guest Studio@Centrum with a view.,42104546,Matthijs,,Theaterbuurt-Meir,51.217992091056956,4.414860270251975,Entire home/apt,50,2,0,,,1,101
+5020599,Beautiful Rooftop next to CHANEL,13357011,Liselotte,,Theaterbuurt-Meir,51.21687123278899,4.4070885070170265,Entire home/apt,99,2,17,2015-08-23,2.09,1,338
+6900541,120m²App/loft as centre as it gets,36160191,Nick,,Theaterbuurt-Meir,51.21868979025659,4.411488980836614,Entire home/apt,120,2,5,2015-09-21,3.13,1,142
+3815746,Spacious 1950’s penthouse,19620207,Capitan,,Theaterbuurt-Meir,51.21247855974179,4.408743756054214,Entire home/apt,190,2,23,2015-09-13,1.79,1,289
+6670508,cozy appt in main shopping district,34913046,Laila,,Theaterbuurt-Meir,51.218314791441856,4.407428519141905,Entire home/apt,85,1,20,2015-09-29,5.13,1,350
+8509587,Apartment in the heart of Antwerp!,44354557,Alexander,,Theaterbuurt-Meir,51.21770944137896,4.413485517220478,Shared room,20,1,0,,,2,354
+6051973,Tempor'area,3970988,Arthur,,Theaterbuurt-Meir,51.213359634236376,4.404146983868544,Entire home/apt,150,2,3,2015-07-27,0.56,1,319
+7613703,Luxe Studio w/ Terras in Antwerp,39929849,Daniel,,Theaterbuurt-Meir,51.21648662082704,4.413139104463371,Private room,50,2,0,,,1,40
+2280185, Spacious and light in city center,4488062,Marjolijn,,Theaterbuurt-Meir,51.21060803647706,4.40173546972251,Entire home/apt,80,4,4,2015-01-28,0.20,2,275
+1260022,Room @ toplocation in Antwerp,6798757,Karen,,Theaterbuurt-Meir,51.21425255436316,4.406893778940499,Entire home/apt,50,2,18,2015-05-30,0.65,1,105
+674262,"if you visit Antwerp, come along!!!",2748780,Floris,,Theaterbuurt-Meir,51.21706020446161,4.41382985559139,Private room,58,1,118,2015-08-14,3.17,1,91
+738796,GREAT APP IN QUARTIER LATIN ANTWERP,3862707,Line,,Theaterbuurt-Meir,51.21610645178911,4.403096064292377,Entire home/apt,80,2,19,2015-09-04,0.55,1,244
+6670656,Duplex  in centre of Antwerp,15628431,Rasha,,Theaterbuurt-Meir,51.21515339444891,4.4081981897196645,Entire home/apt,80,1,0,,,7,355
+7686010,Room with terrace @ centrum Antwerp,40366120,Siard,,Theaterbuurt-Meir,51.216574748008014,4.412412902241123,Private room,39,2,6,2015-09-20,3.27,1,149
+3918130,Awesome apartment in City Centre!,9867102,Ruben,,Theaterbuurt-Meir,51.212192209181296,4.40207786527097,Entire home/apt,45,3,60,2015-09-17,4.59,1,297
+6670122,VERY SPACIOUS APARTMENT CENTRAL ANT,15628431,Rasha,,Theaterbuurt-Meir,51.21294209696759,4.406345093034453,Shared room,88,1,4,2015-09-04,1.03,7,365
+3864316,Bright & Spacious Loft/Apartment,19947026,Visack,,Theaterbuurt-Meir,51.212256500173865,4.4030451048770685,Entire home/apt,95,1,14,2015-04-06,1.02,1,365
+6624921,Renovated city apartment,34207016,Arne,,Theaterbuurt-Meir,51.21175696039741,4.401807973257137,Entire home/apt,77,1,10,2015-09-25,3.06,1,290
+1742005,Cosy studio appartment and mini-spa,9170669,Dyveke,,Theaterbuurt-Meir,51.210764279358806,4.404903156707479,Entire home/apt,75,1,43,2015-09-13,1.89,1,359
+4985922,Sfeervolle studio in hartje Antwerp,25701603,Nadereh,,Theaterbuurt-Meir,51.2101114493793,4.40581244281809,Entire home/apt,60,2,5,2015-09-07,1.15,1,364
+2147388,New apartment in heart of Antwerp,10961263,Hilde,,Theaterbuurt-Meir,51.21951381362078,4.413880540811029,Entire home/apt,99,2,25,2015-09-17,1.71,1,66
+5089249,Design apartment - heart of Antwerp,10972937,Pieter,,Theaterbuurt-Meir,51.216356809377864,4.403894961750772,Entire home/apt,120,2,12,2015-08-20,1.52,1,351
+3065181,Creative apartment,5548049,Jonathan,,Theaterbuurt-Meir,51.215709650137946,4.413561335631855,Entire home/apt,65,2,51,2015-08-24,3.13,1,293
+5879138,Ruim appartement naast de Bourla,30529416,Evy,,Theaterbuurt-Meir,51.21478026538901,4.406360906529143,Entire home/apt,89,14,0,,,4,310
+512684,Design city center appartment,2406256,Jorg,,Theaterbuurt-Meir,51.21751845735294,4.4020478610921145,Entire home/apt,120,1,11,2015-01-02,0.30,1,365
+4858832,Bright loft with rooftop terrace,15293605,Dries,,Theaterbuurt-Meir,51.210943599787825,4.403484721365099,Entire home/apt,115,2,9,2015-09-21,0.98,1,350
+6206035,Romantic flat close to center,23762654,Mari,,Theaterbuurt-Meir,51.21059216556164,4.4066542757925875,Entire home/apt,55,13,0,,,1,359
+2978359,Great room in the center of Antwerp,15191017,Koen & Jens,,Theaterbuurt-Meir,51.2134602054283,4.4099542243696295,Private room,58,1,31,2015-09-28,1.85,1,353
+7692808,wonderful light & cozy appartment,40409673,Rams,,Theaterbuurt-Meir,51.216684125192785,4.402390928521621,Private room,39,1,3,2015-08-30,1.84,1,357
+5923210,Smartflats Meir 401,2792958,Tarik,,Theaterbuurt-Meir,51.2185687112258,4.408984801905819,Entire home/apt,149,1,1,2015-08-16,0.61,3,322
+8421761,Duplex in the heart of Antwerp,44354557,Alexander,,Theaterbuurt-Meir,51.2182520889713,4.412536543270756,Private room,20,1,3,2015-09-27,3,2,304
+3318122,Cosy and Quirky Attic Studio Flat,2781078,Eileen,,Theaterbuurt-Meir,51.211437250156166,4.404108522736227,Entire home/apt,35,6,7,2015-05-13,0.73,2,182
+8024200,Trendy studio in shopping area,40374339,Katia,,Theaterbuurt-Meir,51.212124742527635,4.4078961927832685,Entire home/apt,85,7,0,,,1,345
+6656058,Spacious modern close 2 citycentr,10117688,Caroline,,Wilrijk Centrum,51.17260074869018,4.394896906567464,Entire home/apt,65,1,12,2015-09-28,3.46,1,337
+4633850,Student room near campus Wilrijk,23995483,Jo,,Wilrijk Centrum,51.17162578769476,4.404797847369513,Private room,35,2,0,,,1,93
+3541852,Cosy place in centre of trendy area,17829143,Ruth,,Zuid,51.20813483011069,4.397188303404983,Private room,43,1,118,2015-09-19,7.94,1,173
+1266636,CMB58 STUURHUT - OBSERVATIETOREN,6770003,Cmb58,,Zuid,51.20980132667623,4.395492523348424,Private room,250,1,1,2014-07-22,0.07,2,365
+6770064,Cosy rooftop studio Antwerp South,35447132,Anne,,Zuid,51.206663967301274,4.39113632795217,Entire home/apt,55,5,3,2015-09-09,1.55,1,316
+4322521,Duplex 160m² with sauna & piano,15216532,Pascal,,Zuid,51.20581991208744,4.387713140342889,Entire home/apt,110,1,30,2015-09-21,3.20,1,344
+1986344,Whitebox loft with a VIEW!!!,3149952,Isabelle,,Zuid,51.21094032005468,4.397560918665021,Entire home/apt,155,2,72,2015-09-13,3.29,1,306
+7892353,spacious apartment @trendy Zuid,29142151,Suzy,,Zuid,51.2100028410666,4.3881983072981265,Entire home/apt,120,2,1,2015-09-13,1,1,308
+5187760,A-South Luxury Penthouse Living,24007242,Bep,,Zuid,51.21239999561733,4.393282179509318,Entire home/apt,375,2,9,2015-09-06,1.22,1,338
+3581864,Cosy apartment at the SOUTH,7386200,Mathieu,,Zuid,51.2069856190983,4.389408956820881,Entire home/apt,80,1,25,2015-08-30,1.79,1,356
+2030717,Great Appartment,10427662,Dietrich,,Zuid,51.21092456678793,4.390612364424199,Entire home/apt,90,1,11,2015-08-19,1.81,1,365
+736645,The Soul Antwerp  403,529276,Jeanette,,Zuid,51.21066317895723,4.396070736158867,Entire home/apt,82,1,1,2014-12-30,0.11,11,334
+6041539,"Lovely & charming, city of Antwerp",18186142,Jonas,,Zuid,51.2106340603802,4.398077872525505,Entire home/apt,57,2,9,2015-08-03,1.74,1,352
+5951291,in love with the ZUID',24413582,Fanny,,Zuid,51.210591031190674,4.401038680907941,Entire home/apt,75,2,10,2015-09-26,4.23,1,357
+736602,The Soul Antwerp 103,529276,Jeanette,,Zuid,51.20962551313709,4.398231253642799,Entire home/apt,83,1,1,2014-12-09,0.10,11,342
+7868397,The Soul Apartment 201,529276,Jeanette,,Zuid,51.20929301957228,4.3982455330364765,Entire home/apt,103,1,0,,,11,344
+7876678,The soul Apartment 301,529276,Jeanette,,Zuid,51.208916617567944,4.397758183474369,Entire home/apt,105,1,1,2015-09-06,1,11,300
+1134686,SouthSideRouge @A'Zuid,5072926,Aziza,,Zuid,51.209124397236735,4.393917374299769,Entire home/apt,130,3,9,2015-07-31,0.34,2,93
+3785015,b & b industrie,19425274,Yannick,,Zuid,51.20614614482208,4.388344615742489,Private room,75,1,8,2015-07-28,0.67,1,364
+6229608,Privékamer Antwerpen Zuid,9086034,Sanne,,Zuid,51.20924919887127,4.390399970123661,Private room,48,1,5,2015-09-21,1.74,1,1
+6733242,Lovely Apartment @District Zuid,6999042,Douwe&Niki,,Zuid,51.21166482753304,4.396483209994674,Entire home/apt,70,3,0,,,1,0
+736632,The Soul Studio Antwerp 302,529276,Jeanette,,Zuid,51.210969866140125,4.398127544709643,Entire home/apt,82,1,0,,,11,342
+1274533,Spacious and light in city center,4488062,Marjolijn,,Zuid,51.20968498895418,4.400829808808297,Private room,65,1,18,2014-12-31,0.75,2,273
+5087082,"Charming apartment on ""Het Zuid""",511187,Julie,,Zuid,51.208528164357105,4.3905062007083435,Entire home/apt,80,2,31,2015-09-28,4.17,1,48
+2191139,Small house with a cosy garden,11174420,Julie,,Zuid,51.211291911463846,4.393824288530948,Entire home/apt,100,2,19,2015-09-28,1.01,1,352
+7130873,Fantastic 2 bedr app great location,8907223,Marceline,,Zuid,51.209681812224474,4.391421471455604,Entire home/apt,69,2,1,2015-08-24,0.73,1,355
+5536783,Lovely Flat at centre of 't Zuid,10843073,Charly,,Zuid,51.2117400455933,4.397446722447422,Entire home/apt,80,2,8,2015-09-10,1.71,1,176
+1330113,Luxe city apartement @ trendy south,4763678,Erik& Gino,,Zuid,51.20992377614857,4.395044698650645,Entire home/apt,145,2,5,2014-11-17,0.21,2,0
+813969,150 sqm loft (terrace & river view),4277604,Christophe,,Zuid,51.212640974224726,4.390979583757918,Entire home/apt,249,2,1,2015-06-17,0.28,1,336
+8379186,Stijlvol appartement op toplocatie,26296854,Vero En Alban,,Zuid,51.21010558900894,4.395816857560889,Private room,70,1,1,2015-09-27,1,1,363
+731941,"Lovely, classy A'pen Zuid apartment",3810023,CokesCo Limited,,Zuid,51.20866315137322,4.390793836652361,Entire home/apt,60,7,0,,,1,301
+3025227,BEDRoom-SHOWER&BATH :-) cosy & cute,4586965,Mariona,,Zuid,51.20601242193578,4.389471660654488,Private room,42,1,20,2015-09-22,1.24,1,337
+321466,The Soul Studio Antwerp 102,529276,Jeanette,,Zuid,51.21113072776964,4.39633269996809,Entire home/apt,83,1,1,2014-09-30,0.08,11,345
+2902274,"Upcycled apartment in trendy ""Zuid""",14785984,Carl,,Zuid,51.20522993647501,4.388928940962292,Entire home/apt,75,1,8,2014-09-21,0.46,1,288
+7109647,central light duplex apartment,4006670,Clara& Silvia,,Zuid,51.210982164548454,4.395781071458793,Entire home/apt,95,1,7,2015-09-13,2.69,1,64
+6844007,Antwerp Museum Suites Guesthouse,35863270,Antwerp Museum Suites,,Zuid,51.2081902641753,4.39596501680978,Private room,139,1,0,,,1,364
+897977,Where Stanley meets Livingstone,4763678,Erik& Gino,,Zuid,51.208779661660344,4.399452231830981,Private room,135,1,5,2015-04-10,0.18,2,338
+2480869,Apartement Antwerp South,12691364,Wim,,Zuid,51.209815972409075,4.39159585904758,Entire home/apt,100,1,1,2014-11-24,0.10,1,365
+7793016,Cosy apartment in Antwerp (central),67132,Guido,,Zuid,51.2111066410792,4.4011844910930575,Entire home/apt,61,2,2,2015-08-23,1.22,1,33
+4367900,Beautiful apartment in Antwerp Zuid,4093034,Sphurti,,Zuid,51.20965658202262,4.397890557894529,Shared room,60,1,0,,,1,365
+5316147,Relax and enjoy Antwerp,23734981,Dolf,,Zuid,51.208475461203314,4.384845344814237,Entire home/apt,120,2,29,2015-09-13,4.01,1,347
+6642324,Amazing Apartment @AntwerpenZuid,34416465,Seth,,Zuid,51.209917071937085,4.3958737159002625,Entire home/apt,70,3,9,2015-09-14,2.45,4,110
+4581377,cosy house in trendy neighbourhood,23747785,Tinne,,Zuid,51.21006578348313,4.399480716482899,Entire home/apt,99,1,33,2015-09-13,3.60,1,345
+6428527,Studio in eigenzinnig herenhuis,740428,Nina,,Zuid,51.210450822939166,4.40046621084905,Entire home/apt,150,2,3,2015-08-04,0.67,1,305
+1001223,SouthSideBlack&White @ A'Zuid,5072926,Aziza,,Zuid,51.20854034915481,4.392609155468521,Entire home/apt,120,3,0,,,2,333
+7861972,The Soul Antwerp 203,529276,Jeanette,,Zuid,51.210859168602795,4.39802022221482,Entire home/apt,83,1,0,,,11,338
+6183201,Duplex Studio,31447903,Marjolijn,,Zuid,51.20648578968105,4.392839120706637,Entire home/apt,80,1,16,2015-09-13,3.10,1,338
+7836919,Cozy place in trendy south-Antwerp,41280934,Leen,,Zuid,51.211159433141866,4.3969648115864945,Private room,55,1,0,,,1,289
+3778349,The Soul Apartment 101,529276,Jeanette,,Zuid,51.210488857413445,4.396010400807547,Entire home/apt,103,1,1,2015-06-13,0.27,11,341
+6988851,Cozy New 65m2 Apt Hip Antwerp-Zuid,4371798,Nina,,Zuid,51.21149698019919,4.398794871240474,Entire home/apt,115,2,0,,,1,289
+1172507,"Number22Antwerp ,street Floor",6068286,Frederic Luca,,Zuid,51.21104772732278,4.401316524431923,Entire home/apt,81,1,120,2015-09-25,4.81,1,347
+1242026,CMB 58 ROOM - KAMER,6770003,Cmb58,,Zuid,51.20951278209528,4.394067510823613,Private room,150,1,1,2014-12-22,0.10,2,365
+7078674,"Herenhuis uit 1900, 2 verdiepingen",25292930,Marijke,,Zuid,51.20652413270313,4.389568905727699,Entire home/apt,120,1,3,2015-09-22,1.43,2,306
+3609370,Perfectly located bright loft!,10038260,Christophe,,Zuid,51.2125338469359,4.3923461265329955,Private room,39,1,7,2015-08-29,4.04,1,317
+6804076,spacious & light appartement,21410548,Dalilah,,Zuid,51.2078871705241,4.389175325256282,Entire home/apt,65,1,7,2015-09-06,2.73,1,68
+3425304,Nice apartment in heart of Antwerp,4134544,Jules,,Zuid,51.211180900768895,4.399128236196533,Entire home/apt,80,2,5,2015-08-12,0.37,1,0
+4903873,Time Out - Luxe Duplex Penthouse,25246840,Philip,,Zuid,51.21294662568678,4.39116063355737,Entire home/apt,325,2,2,2015-09-28,1.67,1,339
+6833081,"Cosy appartment, just renovated",35491133,Michel,,Zuid,51.20696754384097,4.385978374843936,Entire home/apt,55,2,11,2015-09-01,3.40,1,246
+4911686,Apartement vlak bij t centrum,25292930,Marijke,,Zuid,51.204949691213464,4.389561811107259,Entire home/apt,90,1,2,2015-09-07,0.22,2,364
+2265465,"Patine, rooms with a nice view",11203878,William,,Zuid,51.207702633111154,4.391472822911452,Entire home/apt,100,1,16,2015-09-13,0.80,1,336
+7864558,The Soul Studio Antwerp 402,529276,Jeanette,,Zuid,51.21116164618343,4.397304498352546,Entire home/apt,93,1,0,,,11,337
+4599957,The Soul Antwerp Studio 202,529276,Jeanette,,Zuid,51.20979963720055,4.398067876038933,Entire home/apt,93,1,0,,,11,346
+3268690,Light appartement in South Antwerp,13665161,Jozefien,,Zuid,51.20494875975666,4.38977331106365,Entire home/apt,109,2,25,2015-09-13,1.67,1,101
+4603991,"Spacious apartment, 't Zuid",23858014,Alexandra,,Zuid,51.20837583475766,4.385964099909142,Entire home/apt,80,1,1,2014-12-20,0.10,1,294
+948972,"Studio TANGO, your Antwerp suite",5145320,Ine,,Historisch Centrum,51.21813715787921,4.400551751343911,Private room,70,2,5,2015-09-28,0.98,1,360
+3135777,Casa cathedrala in the city centre!,3117433,Filip,,Historisch Centrum,51.22097797181651,4.400129478875298,Private room,49,2,9,2015-08-19,0.56,1,275
+1311784,1 pers.1st Floor Antwerp Ctr. month,797300,Phineas,,Historisch Centrum,51.22186197376644,4.403107118121396,Private room,29,14,2,2015-04-22,0.09,1,365
+7814882,Licht duplex appartement,19889207,Alexander,,Historisch Centrum,51.22413086661408,4.402733693607667,Entire home/apt,75,2,4,2015-09-14,2.61,1,344
+6384755,Old city authentic apartment,14379126,Oliver,,Historisch Centrum,51.21917448792825,4.3997025372219145,Entire home/apt,49,1,35,2015-09-18,9.21,1,312
+6213366,Bright Space in Heart of Antwerp,32140614,Lieve,,Historisch Centrum,51.22312562157073,4.399733228578088,Entire home/apt,40,2,5,2015-07-28,1.67,1,74
+7437306,Cute apartment near the river.,38958339,Bnb,,Historisch Centrum,51.22529991845119,4.399802589394008,Entire home/apt,99,1,5,2015-09-14,3.13,1,185
+5071495,3floor apartment next to city hall,13579830,Job,,Historisch Centrum,51.22074464554277,4.399323373803158,Entire home/apt,85,1,19,2015-06-28,2.33,1,307
+2733422,Deluxe flat with FREE PARKING+WiFi,4211892,Maarten,,Historisch Centrum,51.21794958095828,4.4012413148085985,Entire home/apt,60,1,104,2015-09-27,6.00,6,330
+1245834,Spacious and bright city apartment,6789115,Nicola,,Historisch Centrum,51.22256718294716,4.401945936437067,Entire home/apt,60,2,8,2015-01-03,0.29,1,311
+3171874,Cosy apartment on Great Market!,8072083,Elise,,Historisch Centrum,51.22126089693088,4.400674178386974,Entire home/apt,250,2,4,2015-05-14,0.37,1,317
+4733497,"Louise Marie, romantisch huisje",24249803,Isabelle,,Historisch Centrum,51.217845491734835,4.3992710888492175,Entire home/apt,190,2,8,2015-09-01,0.93,1,333
+5381154,Beautiful place+ perfect location! ,27893976,Inge,,Historisch Centrum,51.22020381479796,4.402490887625077,Entire home/apt,65,2,0,,,1,272
+7759657,Modern flat,40801441,Jonas,,Historisch Centrum,51.22425629378668,4.405086238172009,Entire home/apt,71,1,12,2015-09-27,7.20,1,342
+6777515,Charming City Centre Apartment,19591267,Idris,,Historisch Centrum,51.21942554071484,4.402963089887453,Entire home/apt,65,1,48,2015-09-24,13.46,2,319
+4444232,Charming room in center of Antwerp,23065924,Christopher,,Historisch Centrum,51.221430249941974,4.402833349144834,Private room,45,1,16,2015-09-29,1.64,1,364
+5247305,"Modern loft & wifi, centre  Antwerp",1788268,Kate,,Historisch Centrum,51.21933955710141,4.399558418189279,Entire home/apt,139,1,25,2015-09-15,3.71,1,126
+6013267,Urban loft in the center of Antwerp,13589359,Deborah,,Historisch Centrum,51.22360914829229,4.4013776750825375,Entire home/apt,89,2,11,2015-09-17,4.02,1,218
+4308689,LUXURY APARTMENT IN ANTWERPEN ,22364880,Stephane,,Historisch Centrum,51.22078929187944,4.398471180361545,Entire home/apt,150,1,66,2015-10-02,6.56,1,311
+6889148,Lovely Apt with garden@ City Centre,34416465,Seth,,Historisch Centrum,51.2235690241036,4.402758261502209,Entire home/apt,67,2,7,2015-09-07,2.76,4,100
+3228916,Trendy flat @ Antwerp hotspot WI-FI,4211892,Maarten,,Historisch Centrum,51.21951561782357,4.4013887516619725,Entire home/apt,60,1,57,2015-09-14,3.70,6,319
+736626,The Soul Loft Antwerp,529276,Jeanette,,Historisch Centrum,51.22562704555712,4.398787188283625,Entire home/apt,253,2,4,2015-03-31,0.41,11,339
+7210876,Leuke appartement op de grote markt,22255212,Suhil,,Historisch Centrum,51.22203620066852,4.401574177033927,Entire home/apt,85,1,2,2015-09-13,0.95,1,364
+355520,In Antwerp 2,1204519,Marivi,,Historisch Centrum,51.2185492858019,4.403798083180442,Entire home/apt,69,1,157,2015-09-23,3.87,2,359
+7658667,Private bedroom in Antwerpen center,30701127,Ana,,Historisch Centrum,51.2242189337385,4.4032403377134015,Private room,65,1,0,,,1,341
+892031,"KoolKaai,  in historic centre ",4739710,Sarah  & Perry,,Historisch Centrum,51.22373452406889,4.400873338412476,Entire home/apt,115,2,13,2015-07-27,0.51,1,361
+2911281,Best home to discover hist. center,14787155,Ken,,Historisch Centrum,51.21945640644148,4.399637282289118,Entire home/apt,76,2,16,2015-07-07,1.07,2,272
+3293160,Casa Cathedrala #rightunderherwings,16637286,Bob,,Historisch Centrum,51.22083268115265,4.401073224137523,Private room,35,1,22,2015-09-18,1.58,1,272
+5713833,B&B in the heart of Old Antwerp,29623972,Jan,,Historisch Centrum,51.22218949079986,4.402571757913921,Private room,99,1,27,2015-09-28,4.45,1,349
+7909292,"medieval house, couple(s) or groups",19290998,Jo,,Historisch Centrum,51.223800638544276,4.402386793945084,Entire home/apt,250,1,0,,,2,224
+5574536,Central studio in historic center,28902892,AchA,,Historisch Centrum,51.22018884109948,4.40000083284955,Entire home/apt,85,2,26,2015-09-28,4.48,2,347
+6889299,Traditional&Modern Apt@ City Centre,34416465,Seth,,Historisch Centrum,51.22323419379837,4.401894985676853,Entire home/apt,67,2,8,2015-08-17,2.50,4,100
+891907,super homey flat - fashion district,234077,Karin,,Historisch Centrum,51.21797487245515,4.3998957020670515,Entire home/apt,160,5,3,2015-05-30,0.19,4,21
+891884,Square view suite -fashion district,234077,Karin,,Historisch Centrum,51.21874379744515,4.39834969422227,Private room,130,2,0,,,4,38
+4364294,"""Old city centre"" apartment",19591267,Idris,,Historisch Centrum,51.21858106434495,4.396542287290252,Entire home/apt,60,1,104,2015-09-30,10.26,2,149
+6531704,Trendy house @ Antwerp nearby MAS,34162360,Lisa,,Historisch Centrum,51.22608356745952,4.403699565012124,Entire home/apt,95,2,1,2015-07-31,0.46,1,103
+2259452,Dirk Suites,11519719,Dirk,,Historisch Centrum,51.22211136212207,4.398793451936261,Entire home/apt,149,1,1,2015-02-15,0.13,1,365
+522693,Ahome Awayfromhome,2562294,Ahome,,Historisch Centrum,51.22001336451253,4.398131953277696,Entire home/apt,100,2,0,,,1,322
+5122495,B&B ATELIER20 Luxury Suite,11478544,Daniel,,Historisch Centrum,51.22553293145107,4.40275761523674,Private room,142,2,0,,,1,365
+7485876,Cosy 16 century house.,39207119,Frederic,,Historisch Centrum,51.22135594146858,4.403631990534875,Entire home/apt,75,2,10,2015-10-01,4.48,1,12
+5994895,Cosy apartment in historic house,11857224,Christel,,Historisch Centrum,51.220763536593665,4.398551571743318,Entire home/apt,118,2,6,2015-09-30,1.36,1,364
+1762612,"Bright apartment Location, the best",4092981,Ireen,,Historisch Centrum,51.218538697978694,4.396365175944139,Entire home/apt,85,2,28,2015-09-14,1.85,1,311
+5388942,Cute Room with Private Terras,27935415,Saks,,Historisch Centrum,51.21958836010837,4.398685497959354,Private room,42,1,6,2015-09-21,2.40,1,362
+7354045,Antwerpen Centre,38533510,Oksana,,Historisch Centrum,51.21928962493165,4.404776881419312,Entire home/apt,50,2,7,2015-08-26,2.76,1,66
+50904,super cosy suite - fashion district,234077,Karin,,Historisch Centrum,51.21857879200472,4.398496445123233,Private room,125,2,1,2015-05-06,0.20,4,40
+6051525,"Lucy in the Sky, Lucy's room",10213435,Lucy In The Sky,,Historisch Centrum,51.22469593238126,4.4036703762418945,Private room,90,1,9,2015-09-02,1.84,2,282
+2069688,Cosy studio in authentic centre,10583986,Christian,,Historisch Centrum,51.22641798704352,4.4010019929247175,Entire home/apt,64,2,64,2015-09-21,2.95,1,359
+230492,In Antwerp,1204519,Marivi,,Historisch Centrum,51.21852464772623,4.403739434054139,Entire home/apt,69,1,236,2015-09-30,4.84,2,355
+4150381,Room in 17th C. loft in the center,10982204,Trinka,,Historisch Centrum,51.22134464207471,4.397120957400887,Private room,68,1,3,2015-08-13,0.56,2,363
+6669206,HOTEL DIAMONDS AND PEARLS,30524577,Maarten,,Historisch Centrum,51.22030763382636,4.399534201843325,Private room,125,1,0,,,3,365
+8434467,big attic room in city centre,21726263,Frederik En Pien,,Historisch Centrum,51.21948499593417,4.405133640287883,Private room,70,1,0,,,1,364
+7189215,Sunny appartment,10519955,Jessie,,Historisch Centrum,51.218879137603366,4.396136302031406,Entire home/apt,85,1,2,2015-07-26,0.71,1,244
+6394590,cosy duplex on historic courtyard,33341437,Ingrid,,Historisch Centrum,51.222391785447115,4.405644064062677,Entire home/apt,85,3,2,2015-09-06,0.55,1,116
+5223125,Modern flat in CENTRUM Antwerp+WIFI,27027069,Sander,,Historisch Centrum,51.21835454396233,4.400183228749494,Entire home/apt,70,1,63,2015-09-29,7.97,1,299
+6050501,"Lucy in the Sky, Diamond room",10213435,Lucy In The Sky,,Historisch Centrum,51.22341394183822,4.403878665516937,Private room,90,1,9,2015-08-01,1.68,2,256
+5026455,Triplex apt in the heart of Antwerp,4492282,Lies,,Historisch Centrum,51.2180439140977,4.398942113366613,Entire home/apt,160,2,11,2015-08-04,1.34,1,315
+8639528,4**** apartment (private room),18745366,Jo,,Historisch Centrum,51.223426338435864,4.405539974128211,Private room,30,1,0,,,2,89
+8360000,Cosy flat in the historic centre,44063080,Katja,,Historisch Centrum,51.22360765293689,4.403504278813517,Entire home/apt,85,2,1,2015-09-21,1,1,171
+4223916,"Flat in Antwerp, FREE Parking",11124121,Gunter,,Historisch Centrum,51.22090357368559,4.400421965034643,Entire home/apt,95,1,76,2015-09-30,6.39,1,254
+569956,2p Flat in Antwerp's City Center,2804839,Nele,,Historisch Centrum,51.222872952843936,4.404044508933783,Entire home/apt,45,2,5,2015-08-30,0.34,1,93
+5274380,Studio max 4 pers in Antwerp Centre,12140631,Stefan,,Historisch Centrum,51.22138586771753,4.3981700837342945,Entire home/apt,82,1,1,2015-07-27,0.43,5,364
+5144561,A cosy 17th C. loft in the centre,10982204,Trinka,,Historisch Centrum,51.21920876512952,4.398289815903865,Entire home/apt,98,2,13,2015-09-07,1.76,2,359
+3318330,Modern flat @ Antwerp hotspot!WI-FI,4211892,Maarten,,Historisch Centrum,51.220767918256854,4.401741985896898,Entire home/apt,60,1,62,2015-09-22,4.16,6,336
+2376215,Appartement 8 pers aan Grote Markt,12140631,Stefan,,Historisch Centrum,51.221410385557554,4.398622555602146,Entire home/apt,90,1,42,2015-08-22,2.20,5,338
+5575185,Central apartment w/ exclusive view,28902892,AchA,,Historisch Centrum,51.21873394079178,4.399627443701196,Entire home/apt,115,2,34,2015-09-22,5.40,2,315
+5878055,SLEEPING ON GROTE MARKT 50-3,30524577,Maarten,,Historisch Centrum,51.2214859210493,4.4007052199096615,Entire home/apt,99,1,13,2015-09-21,2.38,3,364
+7078120,delightful room with a view,28671903,Astrid,,Historisch Centrum,51.22410448917496,4.4034276302066795,Private room,32,1,23,2015-09-21,7.75,1,354
+3518676,Charmant appartement op toplocatie!,17717089,Leonie En Ahmed,,Historisch Centrum,51.22392012145714,4.402375637381906,Entire home/apt,45,2,13,2015-09-14,1.14,1,350
+2437242,Hip flat @ center of Antwerp Wifi!,4211892,Maarten,,Historisch Centrum,51.21846800742123,4.401565864072479,Entire home/apt,60,1,79,2015-09-02,4.09,6,286
+4612214,Best Place to Stay!!!,405661,Andreas,,Historisch Centrum,51.225865415628036,4.400393807210505,Entire home/apt,89,2,14,2015-09-21,1.34,1,266
+6832171,Beautiful Appartment in the Centre,35792570,Jacky,,Historisch Centrum,51.220716692253866,4.399457768622984,Entire home/apt,69,8,16,2015-08-17,4.57,1,294
+692237,Relax & enjoy the heart of Antwerp!,3539017,Laura,,Historisch Centrum,51.221266020596865,4.401711418696335,Entire home/apt,69,2,158,2015-09-27,4.32,1,332
+6441788,Extra Room,15628431,Rasha,,Groenenhoek,51.201038126430504,4.43752581809754,Private room,25,1,8,2015-09-08,1.82,7,363
+6234098,Room in 2 bedroom apartment,15628431,Rasha,,Groenenhoek,51.19910256983774,4.437989990444273,Private room,30,1,7,2015-09-07,1.50,7,365
+6420968,2 ROOMS,15628431,Rasha,,Groenenhoek,51.1999438497546,4.437735680089564,Private room,25,1,4,2015-08-13,0.91,7,365
+8247504,Hot old feeling  sensation .,26739935,Sam,,Groenenhoek,51.202322889014624,4.439091571488708,Entire home/apt,60,3,1,2015-09-27,1,1,90
+3063861,Charming house in cosy area,8667645,Ria & Gerry,,Groenenhoek,51.19715525922096,4.44170392837871,Entire home/apt,50,5,3,2015-08-07,0.21,1,0
+8215741,Room with double bed,15628431,Rasha,,Groenenhoek,51.197143593441155,4.443779657738504,Private room,30,1,0,,,7,276
+7034442,Skyview over Antwerp city,5280724,Julien,,Groenenhoek,51.201395458172975,4.440752216022873,Private room,40,2,0,,,1,363
+2086302,Cozy apartment in Antwerp-Berchem,4218557,Anke,,Groenenhoek,51.19580370664509,4.439195209599399,Entire home/apt,45,2,8,2015-01-05,0.37,1,365
+6546713,Nice&Light near centrum apartment,33880351,Yana,,Groenenhoek,51.19628982081394,4.4420419001150435,Entire home/apt,65,1,18,2015-09-21,4.58,1,361
+5972350,Cozy Studio,29492834,Stef,,Groenenhoek,51.20198559932126,4.441594248857768,Entire home/apt,45,1,6,2015-08-22,1.12,1,58
+3555622,Calm residential area 10 min center,17902738,Jose,,Groenenhoek,51.20075662354424,4.440436851720315,Private room,35,1,11,2015-09-23,0.76,1,334
+746729,A room in a great art-deco house !,3888321,Vincent,,Markgrave,51.1935889831577,4.409076576721677,Private room,80,1,71,2015-08-24,2.87,1,360
+3757067,A place called home.  ,11294102,Jacky,,Markgrave,51.20051576903127,4.403223726539429,Private room,75,1,0,,,2,365
+4332020,Marleen's cosy first floor flat,1754396,Marleen,,Markgrave,51.200957444350614,4.401717865547714,Entire home/apt,50,2,1,2015-08-21,0.68,2,101
+5292068,A quiet room in Antwerp south,27356065,Olivia,,Markgrave,51.20121826380687,4.400072353720532,Private room,50,1,10,2015-09-13,1.37,1,339
+7250005,"Cute, charming apartment; 1st floor",37962121,Noa,,Markgrave,51.195558550726865,4.400448850672906,Entire home/apt,57,2,2,2015-08-03,0.88,1,306
+3973262,Cosy Duplex in Antwerp,20593405,Ruben And Frankie,,Markgrave,51.20197662168307,4.401553648621832,Entire home/apt,49,1,14,2015-09-27,1.30,1,115
+3502416,Room with private Bathroom,17634264,Jacky,,Markgrave,51.20089912810407,4.403056445478848,Private room,90,1,0,,,1,365
+5718503,Cozy and stylish app in Antwerp,29647055,Caressa,,Markgrave,51.194687183964945,4.405882524004972,Entire home/apt,135,1,6,2015-07-22,0.96,1,365
+7117962,Appartement the centre of Antwerp,28087661,Rafaël,,Markgrave,51.19967585496425,4.405892588658934,Entire home/apt,120,1,0,,,2,11
+3525722,A room with a touch of Afrika...,11294102,Jacky,,Markgrave,51.19906303079359,4.4036512180978775,Private room,90,1,0,,,2,365
+7360276,Private Room in house with garden.,18451839,Geoffrey,,Markgrave,51.20050461682283,4.40253323379776,Private room,34,2,1,2015-08-02,0.48,1,63
+8207355,Cosy Duplex Apartment,41063562,Gregory,,Markgrave,51.20026177551683,4.405823671586237,Entire home/apt,78,1,2,2015-09-13,2,1,349
+7756757,Charming flat in Belle-époque area,3658234,Maarten,,Markgrave,51.196013670663085,4.4053111557405495,Entire home/apt,63,1,0,,,1,337
+5417909,Antwerp Centre,28087661,Rafaël,,Markgrave,51.199181709799284,4.4069304129268465,Private room,50,1,12,2015-09-28,2.35,2,358
+7649576,Trendy appartment with view,40140067,Katrien,,Markgrave,51.19786338726998,4.4067454683328195,Entire home/apt,70,1,2,2015-08-23,1.36,1,353
+6694519,Spacious villa in Antwerp South,35044858,Arthur,,Markgrave,51.19546933276375,4.400877614287901,Entire home/apt,289,1,1,2015-07-27,0.43,1,100
+8420070,Charming apartment with 2 floors,12853823,Nancy,,Markgrave,51.19330625586769,4.411519101371982,Entire home/apt,49,1,1,2015-09-21,1,1,46
+7199196,Super gezellig 1 slaapkamer app.,37643550,Jeroen,,Markgrave,51.19897416396838,4.396404981315001,Entire home/apt,80,1,0,,,1,365
+1353027,Luxury three bedroom penthouse,7344239,Marianne,,Markgrave,51.19885501792462,4.400636915875065,Entire home/apt,200,2,63,2015-09-01,2.37,1,113
+4281915,Designer townhouse near South side,4210717,Nathan,,Markgrave,51.196883976439025,4.398377752017048,Entire home/apt,150,1,0,,,1,335
+8599570,NEW!Light & central app w child bed,4734271,Pauline,,Markgrave,51.195513026154345,4.410472550215555,Entire home/apt,60,1,0,,,1,365
+345959,Marleen's home in Antwerp city,1754396,Marleen,,Markgrave,51.19935475307382,4.4015423293651965,Entire home/apt,50,3,21,2015-07-15,0.51,2,132
+6795575,cosy house in the south of Antwerp,6875236,Wibke,,Markgrave,51.20162764482106,4.401038309855911,Private room,50,1,1,2015-08-31,0.88,1,244
+6866898,Bohémian 200m² app with garden,24566781,Cleo,,Markgrave,51.20098710364714,4.405542175392568,Entire home/apt,80,1,2,2015-09-07,1.09,1,344
+1549048,Large Appartment in Antwerp,8252758,Thomas,,Markgrave,51.20041095253939,4.404988079310939,Entire home/apt,85,1,3,2015-01-05,0.12,1,364
+2629849,Luxury Guesthouse - Junior Suite,13471620,Philip,,Markgrave,51.19604325232977,4.404299012500116,Private room,145,1,0,,,2,80
+5451980,Beautiful Room with Garden View!,741719,Be,,Markgrave,51.197412729580705,4.408233580620618,Private room,38,2,9,2015-09-05,1.40,1,340
+2629848,Luxury Guesthouse - Double Room,13471620,Philip,,Markgrave,51.19728223831065,4.404548810049796,Private room,130,1,0,,,2,0
+6656321,Spacious room in modern flat,34838055,An,,Middelheim,51.1893524320062,4.396072727826146,Private room,40,2,7,2015-09-28,2.31,1,165
+7498565,"Cosy room near ""het Zuid""",9221578,Sebastiaan,,Nieuw - Zuid,51.197412679417006,4.392845904136642,Private room,34,2,3,2015-09-01,1.88,1,319
+5695040,Antwerp Skyline Overview,7667999,Matthias,,Nieuw - Zuid,51.20771466685877,4.38369953243323,Private room,60,1,2,2015-09-21,2,1,365
+6884029,1001 Nights at B&B Bayt al-Andalus,36071151,Francis,,Oud - Berchem,51.196477716213316,4.412276019936732,Private room,85,1,2,2015-09-01,0.61,1,236
+2518780,Fairy tale House in City Hotspot!!!,10847482,Wim,,Oud - Berchem,51.203170819119,4.430317976056052,Private room,40,3,8,2015-05-26,0.45,1,277
+5307451,€ deal: design penthouse in Antwerp,2298735,Marit,,Oud - Berchem,51.197160773986596,4.4246571891545114,Entire home/apt,85,2,9,2015-09-21,1.17,2,329
+3426775,100 year old renovated home,14793024,Jorge,,Oud - Berchem,51.19815782104149,4.418979068930474,Entire home/apt,110,2,8,2015-08-12,1.18,2,298
+4918305,top floor with private bathroom,7945179,Gitte,,Oud - Berchem,51.19739326064002,4.430846574905844,Entire home/apt,50,2,37,2015-09-17,4.30,1,159
+2469456,Contemporary House w Sauna and Gym,1761830,Sandra,,Oud - Berchem,51.19763653565242,4.4154115169019965,Entire home/apt,99,3,2,2015-07-13,0.11,1,295
+4771763,Gezellig appartement in Berchem,24614082,Xanthe,,Oud - Berchem,51.2016794543012,4.433013181434947,Entire home/apt,75,1,8,2015-06-22,0.86,2,361
+3070729,2 rooms in apartment,15628431,Rasha,,Oud - Berchem,51.19969736926139,4.432588229574512,Entire home/apt,70,1,22,2015-09-14,4.26,7,365
+3602361,"Flat with garden,very nice location",13176780,Daphné,,Oud - Berchem,51.1997057213426,4.4235727052648315,Entire home/apt,38,3,10,2015-09-11,0.71,1,261
+3845059,Spacious apartment for two,4502590,Josefien,,Oud - Berchem,51.197120603049065,4.415482291715661,Entire home/apt,60,1,5,2015-05-17,0.39,1,352
+2563762,"Space, style, quiet and a terrace!",138163,Dieter,,Oud - Berchem,51.19702606699162,4.413639268168198,Entire home/apt,80,2,45,2015-09-10,2.42,1,325
+6335853,Studio in Art-nouveau area,32986878,Ayla,,Oud - Berchem,51.202704405957846,4.436138487315629,Entire home/apt,43,2,10,2015-09-21,5.45,1,245
+2682808,Cosy room in a charming house,13733939,An,,Oud - Berchem,51.19759591275912,4.429546931398274,Private room,36,1,85,2015-09-14,4.66,1,354
+5042137,the HanjamInn - room 4,26032387,Benjamin & Hanne,,Oud - Berchem,51.195874763637974,4.420287485898356,Private room,63,1,1,2015-06-23,0.29,7,338
+8605552,the HanjamInn - top deal,26032387,Benjamin & Hanne,,Oud - Berchem,51.19467270407915,4.420455969204456,Entire home/apt,350,1,0,,,7,338
+5695794,the HanjamInn - room 3,26032387,Benjamin & Hanne,,Oud - Berchem,51.19506575388839,4.422425106583292,Private room,53,1,5,2015-09-03,1.56,7,338
+6846771,Private room with double bed,14793024,Jorge,,Oud - Berchem,51.19909568335917,4.423502588001518,Private room,35,2,3,2015-09-27,1.03,2,335
+4253811,kamer,6538641,Judith,,Oud - Berchem,51.194436719413666,4.417505156144295,Private room,30,1,74,2015-09-20,6.18,1,330
+8223338,Cabinet de Curiosité wunderkammer,10973935,Jeroen,,Oud - Berchem,51.19724487328307,4.425793635914495,Private room,38,2,0,,,1,334
+2386391,Art Nouveau house in city hotspot!,12189326,Sam,,Oud - Berchem,51.201871891281435,4.430893479237429,Private room,29,4,12,2015-07-11,0.76,1,90
+5695757,the HanjamInn - apartment,26032387,Benjamin & Hanne,,Oud - Berchem,51.195966833433026,4.42231593633703,Entire home/apt,133,1,0,,,7,361
+5678636,the HanjamInn - room 1,26032387,Benjamin & Hanne,,Oud - Berchem,51.1961059252104,4.420964261870565,Private room,73,1,5,2015-08-29,0.82,7,291
+8028602,Spacious and bright room for two,10805130,Christine,,Oud - Berchem,51.205621528936206,4.432557029390344,Private room,65,1,0,,,1,365
+7292180,Private room in cosy house,25033455,Thomas,,Oud - Berchem,51.197389145072684,4.425746389806942,Private room,25,1,11,2015-09-09,4.93,1,57
+6060702,Gezellig Berchem,24614082,Xanthe,,Oud - Berchem,51.20058604871543,4.433059047331889,Private room,40,1,2,2015-06-09,0.47,2,364
+2266918,nice rooftop appartment  zurenborg,7313099,Elke,,Oud - Berchem,51.20353681374837,4.434957926191212,Entire home/apt,52,2,60,2015-08-26,3.03,1,282
+5678756,the HanjamInn - room 2,26032387,Benjamin & Hanne,,Oud - Berchem,51.196279244621806,4.420930376766899,Private room,63,1,14,2015-08-18,2.31,7,336
+5637306,"Spacious townhouse, anno 1907",10741476,Jan,,Oud - Berchem,51.19548552874196,4.428619534547288,Entire home/apt,130,2,2,2015-07-28,0.34,1,88
+7934136,woonhuis vlak bij Antwerpen,39097890,Steven,,Oud - Berchem,51.19430744786459,4.418329963401446,Entire home/apt,90,1,0,,,1,347
+1897272,Loft in historical building,9174116,Rob Javier Sascha,,Oud - Berchem,51.19857272579751,4.418251714058685,Entire home/apt,250,2,24,2015-09-22,1.13,1,360
+6091520,the HanjamInn - combo deal,26032387,Benjamin & Hanne,,Oud - Berchem,51.19461231365551,4.422013912403155,Entire home/apt,240,1,15,2015-09-27,3.06,7,348
+7578277,Charming room+own bathroom Antwerp,26232860,Vanesa,,Oud - Berchem,51.194892983029966,4.427290778145065,Private room,38,1,17,2015-09-28,10.63,1,347
+5306540,€€ deal! Design flat in Antwerp,2298735,Marit,,Oud - Berchem,51.196800101395176,4.424453120977968,Entire home/apt,80,2,8,2015-08-31,1.10,2,30
+685049,"BED""without""BREAKFAST-QUATRE20CINQ ",3493319,Glenn,,Oud - Berchem,51.1958901862814,4.414432128097195,Private room,85,2,2,2014-09-06,0.13,1,330
+5087813,1 Bedroom i a beautiful mansion,26282920,Kirsi,,Oud - Berchem,51.196166006390094,4.415746324613522,Private room,50,1,12,2015-07-11,1.52,1,359
+2765361,Room in charming art nouveau house,14145287,Greet,,Oud - Berchem,51.20163967169192,4.430221062107817,Private room,35,2,2,2015-09-11,0.58,1,91
+5664999,Cosy 2-bedroom appartment,18153848,Hind,,Oud - Berchem,51.1936924253631,4.419787855861614,Entire home/apt,60,1,3,2015-08-18,0.58,1,176
+649319,"Nice, cosy apartment in Antwerp",3258363,Pieter,,Petroleum - Zuid,51.19337164739946,4.3973466195620405,Entire home/apt,74,2,24,2015-05-23,0.66,1,365
+3352747,80 m2 apt in quiet neighborhood.,3388050,Teun,,Deurne Noord,51.22937732596474,4.457839972481874,Entire home/apt,44,1,3,2015-06-29,0.21,1,365
+1534890,Caravan(Pavilion)in Theatre-Atelier,8185571,Atelier11,,Deurne Noord,51.232474509013336,4.449825213390784,Private room,35,1,93,2015-09-21,3.70,2,46
+2230592,Loft near Sportpaleis,3488121,Jan,,Deurne Noord,51.22979197597357,4.4446366977632605,Private room,40,1,8,2015-04-19,0.39,1,363
+1773726,Caravan(The Nest)in Theatre-Atelier,8185571,Atelier11,,Deurne Noord,51.229674759624906,4.452766966690825,Private room,35,1,14,2015-07-29,0.58,2,20
+2107364,Room near Sportpaleis/Antwerp city,2528396,Shana,,Deurne Noord,51.227865315717246,4.465104239826573,Private room,28,1,27,2015-09-07,1.37,1,349
+3776206,Fantastic Summer appart in Antwerp!,11633503,Herwin,,Deurne Dorp - Gallifort,51.22659352622427,4.468869331660782,Private room,49,2,1,2014-11-10,0.09,1,360
+2251106,Loft Suite for a relaxed stay :-),8446724,Vera,,Deurne Dorp - Gallifort,51.22484643524738,4.468074651543963,Entire home/apt,55,2,40,2015-09-29,2.04,2,338
+7513572,Oasis,31747141,Tom,,Deurne Dorp - Gallifort,51.22190644596589,4.461886413542931,Entire home/apt,60,1,14,2015-09-29,6.18,1,340
+1585405,Relax and enjoy Antwerp :-),8446724,Vera,,Deurne Dorp - Gallifort,51.22337019380994,4.469234814277635,Private room,30,2,62,2015-09-25,2.44,2,338
+6617561,"Beautiful studio , balcony& garden",34634439,Marie  Paule,,Koornbloem,51.16784471928695,4.38575211354586,Private room,30,1,3,2015-07-28,0.83,1,365
+3951821,Charming Room in Antwerp South,20482419,Medina En Pieter,,Nieuw - Kwartier West,51.17985809983497,4.424916036398737,Private room,45,1,8,2015-06-17,0.87,1,365
+3787066,Studio-loft PANORAMIC VIEW+terras!,19436713,Isabel,,Nieuw - Kwartier West,51.18361270670277,4.429103847995412,Entire home/apt,45,1,10,2015-09-11,0.73,1,353
+7027563,Studio aan de rand van Antwerpen,36841645,Ann,,Nieuw - Kwartier West,51.18985500170664,4.424907421723711,Entire home/apt,40,2,5,2015-09-05,3.06,1,301
+7484312,Maison de Maître dans la verdure,28014545,Stephane,,Nieuw - Kwartier West,51.18856160423027,4.4223335941779975,Private room,71,1,0,,,1,365
+648446,Spacious apartment Antwerp,3253666,Jan,,Kruininge - Bremweide,51.233966762311866,4.465396036177763,Entire home/apt,115,2,0,,,2,300
+6127766,Licht app net buiten de stadsdrukte,31790515,Deborah,,Kruininge - Bremweide,51.23437675462055,4.469563501850588,Entire home/apt,70,1,12,2015-09-12,2.35,1,83
+6000928,Arendshof,29134589,Guido,,Deurne Oost,51.223190652451194,4.483467751982486,Entire home/apt,130,1,0,,,1,365
+1333558,Theatre LOFT in the city Antwerp,7194415,Lot,,Deurne Zuid West,51.19851132614514,4.457159463981966,Entire home/apt,80,1,100,2015-09-21,3.83,1,255
+7003263,Spacious Studio with big terrace,36712486,Shahrulnizam,,Deurne Zuid West,51.208060715816345,4.4544231639900005,Entire home/apt,50,1,1,2015-09-07,1,1,352
+6196626,licht app in groene omgeving,11201026,Sarah,,Deurne Zuid West,51.20294364366302,4.457632409520351,Entire home/apt,45,1,2,2015-09-14,2,1,299
+7964892,room Antwerp. incl. breakfast @park,42024170,Kris,,Deurne Zuid West,51.20945425939972,4.464140563004731,Private room,25,1,6,2015-09-28,6,1,169
+1050693,Colourful Inspiration In Every Room,5446991,Magali,,Deurne Zuid West,51.202949917961575,4.459302048528407,Private room,77,1,3,2015-07-19,0.12,2,354
+8685911,"Vintage, spacious, sunny apartment",45608260,Fred,,Deurne Zuid West,51.19856846514188,4.4579245597484976,Entire home/apt,125,1,0,,,1,365
+991824,Colourful Inspiration In Every Room,5446991,Magali,,Deurne Zuid West,51.20385525721411,4.459370390839747,Entire home/apt,77,1,77,2015-09-27,2.58,2,353
+7365174,Cosy classical mansion,30007259,Carlo En Johnny,,Deurne Zuid West,51.209154047402436,4.454264374460053,Private room,40,1,8,2015-09-27,3.38,3,332
+7363964,Charming renovated mansion,30007259,Carlo En Johnny,,Deurne Zuid West,51.211079284928026,4.45453919143937,Private room,50,1,5,2015-09-26,2.14,3,334
+3827176,Guest room near station & airport!,19693260,Nele,,Borgerhout Extra Muros,51.19951646908369,4.449385787333469,Private room,55,1,1,2015-09-27,1,1,322
+216323,"Travolta, a cosy, spacious loft ",784223,Travolta,,Borgerhout Extra Muros,51.212436254502,4.450222725270314,Entire home/apt,95,2,10,2015-04-29,0.20,1,336
+5745638,Vintage appartement in Berchem,13101997,Bas,,Borgerhout Extra Muros,51.20074941993006,4.443864952735445,Entire home/apt,75,2,2,2015-07-27,0.46,1,363
+4692890,Luminous & spacious apartment,7374529,Marijke,,Borgerhout Extra Muros,51.20682496248144,4.450759890767578,Private room,50,2,2,2015-08-11,0.34,1,363
+3947370,View of Antwerp,20458036,Jurgen,,Borgerhout Extra Muros,51.220222528039024,4.452213270199205,Entire home/apt,95,2,0,,,1,351
+8366368,Gezellige Klassiek woning S,30007259,Carlo En Johnny,,Borgerhout Extra Muros,51.20984356224464,4.453057688406158,Private room,35,1,1,2015-09-25,1,3,352
+8235107,Clean 'n' Cosy appartment Antwerp,27830316,Frauke,,Borgerhout Extra Muros,51.21138385864312,4.4471538398222785,Entire home/apt,45,1,3,2015-10-02,3,1,351
+1338036,Ruime stadswoning,4067344,Siri,,Borgerhout Extra Muros,51.197961090593644,4.456316866546929,Entire home/apt,149,1,0,,,1,27
+488947,Private room near train station ,2184659,Matti & Lolo,,Borgerhout Extra Muros,51.20024095386627,4.449251590437197,Private room,40,1,17,2015-08-30,0.64,2,365
+2282418,Appartement met 1 slaapkamer,11633996,Samira,,Borgerhout Extra Muros,51.21218591415978,4.453827380976463,Entire home/apt,40,1,25,2015-09-28,5.68,1,304
+2082773,Cosy appartment with terras,10639073,Veerle,,Borgerhout Extra Muros,51.21017197729077,4.449032588280548,Entire home/apt,60,1,13,2015-08-03,1.93,1,275
+1146375,Cozy private room in Antwerpen,1764235,Isa,,Borgerhout Intra Muros Noord,51.21750936434451,4.4297963877178725,Private room,35,1,40,2015-09-28,1.43,1,287
+268704,A cosy studio apartment,1408209,Sandro,,Borgerhout Intra Muros Noord,51.21597652196989,4.4360452295661705,Private room,58,1,21,2015-09-28,0.62,1,300
+7568803,In augustus naar A’pen?,21832848,Anton,,Borgerhout Intra Muros Noord,51.21864531049145,4.438643066595228,Private room,40,1,0,,,1,300
+445201,ROOM in FAMILY HOME near C.Station,1820186,Fronk & Lieve,,Borgerhout Intra Muros Noord,51.21578785014582,4.432653722240572,Private room,33,1,43,2015-09-16,1.06,6,353
+8567018,Bijhorende extra kamer bij 'RUST'.,12915391,Sonja,,Borgerhout Intra Muros Noord,51.219734772383994,4.44223154421907,Private room,27,1,2,2015-10-01,2,2,358
+8244521,David' humble abode,14365144,Roxanne,,Borgerhout Intra Muros Noord,51.215695487808524,4.440846839558486,Entire home/apt,30,5,0,,,1,9
+2602613,Light and spacious duplex apartment,13330269,Joelle,,Borgerhout Intra Muros Noord,51.216105683550126,4.432343744981,Entire home/apt,65,1,60,2015-09-17,3.30,1,117
+1836654,Cosy home: welcome at Laar18!,9590288,Indra,,Borgerhout Intra Muros Noord,51.21541095650765,4.433468407628743,Entire home/apt,140,3,18,2015-09-14,0.84,1,341
+5238132,2nd floor in nice private house,5564708,Anna,,Borgerhout Intra Muros Noord,51.22146210464342,4.441163318788916,Entire home/apt,95,2,0,,,2,365
+639013,The chill place to explore Antwerp,3189018,Cathy,,Borgerhout Intra Muros Noord,51.21747587707607,4.445598467550062,Private room,80,1,24,2015-07-26,0.64,1,364
+221711,B&B BAKELIET Antwerp. Billie room,1150677,Tim,,Borgerhout Intra Muros Noord,51.21627978446958,4.432907196677305,Private room,90,1,0,,,2,358
+986756,cosy studio with city garden ,5415017,Tineke,,Borgerhout Intra Muros Noord,51.21604315070671,4.439394807676361,Private room,45,1,26,2015-06-08,0.88,1,356
+2522491,RUST,12915391,Sonja,,Borgerhout Intra Muros Noord,51.2198905161991,4.440396029334497,Entire home/apt,27,1,18,2015-10-01,0.97,2,342
+3218767,Welcome to our home!!!,16271234,Jan,,Borgerhout Intra Muros Noord,51.218028041457174,4.434611562698085,Private room,49,1,29,2015-09-28,1.99,1,365
+6458600,Cozy house close to center,33729376,Valerie,,Borgerhout Intra Muros Noord,51.21587050022835,4.441000573288955,Entire home/apt,70,1,6,2015-09-07,1.36,1,217
+7552929,Gezellig appartement,10832813,Freya,,Borgerhout Intra Muros Noord,51.21912681007198,4.445055790898242,Entire home/apt,60,2,6,2015-09-28,2.86,1,121
+5083787,Central located Flat!,508039,Najat,,Borgerhout Intra Muros Noord,51.218181912644816,4.431563984145532,Entire home/apt,85,3,3,2015-08-31,0.57,1,337
+6582052,Charming and cozy flat @ Boho,7567961,Chiara,,Borgerhout Intra Muros Noord,51.21924113810061,4.434700402579116,Entire home/apt,62,2,19,2015-08-31,4.79,1,291
+5950484,Stay at my loft / studio,30886574,Willem,,Borgerhout Intra Muros Noord,51.21475569955825,4.437949578741328,Entire home/apt,75,3,12,2015-09-01,2.75,1,333
+959200,NEST,4715596,Tina,,Borgerhout Intra Muros Noord,51.21595743973501,4.437643383404046,Entire home/apt,55,2,29,2015-08-24,1.27,2,291
+4909212,Light 2P Bedroom w Private Bathroom,13856197,Bram,,Borgerhout Intra Muros Noord,51.21782952866351,4.4318793678368555,Private room,65,2,13,2015-09-29,2.14,1,361
+3765860,Beautiful house for groups,19290998,Jo,,Borgerhout Intra Muros Noord,51.217060866882704,4.439991047821242,Entire home/apt,450,1,3,2015-09-06,2.57,2,10
+6556268,A nice house in a great area,32470451,Karolien,,Borgerhout Intra Muros Noord,51.21662105195102,4.438769374907968,Entire home/apt,70,1,2,2015-07-10,0.63,1,104
+1791465,Lovely flat in trendy neighborhood,9399334,Dirk & Leen,,Borgerhout Intra Muros Noord,51.21406372868245,4.439069125493407,Entire home/apt,40,2,24,2015-09-25,1.02,1,353
+6964513,"Charming, spacious, cosy appartment",36517157,Freija,,Borgerhout Intra Muros Noord,51.22228215802994,4.44064929260847,Entire home/apt,75,1,13,2015-08-31,4.38,1,291
+4429657,Light! Space! Air! private bathroom,21324667,Reineke,,Borgerhout Intra Muros Noord,51.21411587795992,4.43882955486065,Private room,35,1,29,2015-09-29,5.47,1,49
+366324,PIETER'S ROOM INTERNATIONAL,1820186,Fronk & Lieve,,Borgerhout Intra Muros Noord,51.21730507283905,4.444111953447209,Private room,25,2,20,2015-04-06,0.88,6,360
+366252,ROOM IN FAMILY HOME near C. Station,1820186,Fronk & Lieve,,Borgerhout Intra Muros Noord,51.21587808548208,4.433458176319287,Private room,33,1,79,2015-08-15,1.85,6,363
+3048594,Unique loft with swimming pool,11534275,Jande,,Borgerhout Intra Muros Noord,51.21571402209391,4.4331131738156575,Entire home/apt,250,2,68,2015-09-15,4.11,3,338
+4900847,Lovely house great location,15529473,Liesbeth,,Borgerhout Intra Muros Noord,51.21794004823898,4.432740872089026,Entire home/apt,125,2,1,2015-09-27,1,1,266
+5646286,NESTT,4715596,Tina,,Borgerhout Intra Muros Noord,51.214635177761664,4.437110445513112,Entire home/apt,55,2,5,2015-09-07,0.84,2,321
+7029412,Penthouse near Central Station,838789,Sarah,,Borgerhout Intra Muros Noord,51.21721709048242,4.435974706366704,Entire home/apt,55,3,1,2015-07-19,0.39,1,72
+8251494,Your home in Antwerp,4906197,Julie,,Borgerhout Intra Muros Noord,51.21860237350289,4.43430868532413,Entire home/apt,65,2,0,,,1,297
+221716,B&B Bakeliet Antwerp. Charlie room.,1150677,Tim,,Borgerhout Intra Muros Noord,51.216861644986935,4.43284704988022,Private room,90,1,0,,,2,360
+4808747,House + garage near the center,24767961,Sofie,,Borgerhout Intra Muros Noord,51.21722581405413,4.44101027442999,Entire home/apt,60,1,15,2015-09-21,1.64,1,281
+4591775,Cosy room in cultural district.,21349793,Ira,,Borgerhout Intra Muros Noord,51.22029555677724,4.443570800181026,Private room,65,1,11,2015-07-28,1.05,1,365
+5238911,STUDIO-JAKUZZI 4PERS center of Antw,5564708,Anna,,Borgerhout Intra Muros Noord,51.22291836591208,4.440925641055607,Entire home/apt,55,2,1,2015-04-28,0.19,2,364
+8611929,comfortable studio,45299420,Joran,,Borgerhout Intra Muros Zuid,51.212270323717235,4.440489522964609,Private room,32,1,0,,,1,362
+5984172,Licht appartement in Antwerpen,6753366,Ester,,Borgerhout Intra Muros Zuid,51.2136829686668,4.439910339809766,Private room,50,1,0,,,1,365
+5967023,✪✪✪ Charm and light! ✪✪✪,18313442,Anneleen,,Borgerhout Intra Muros Zuid,51.21047263327084,4.428386163130114,Entire home/apt,69,2,21,2015-09-21,4.60,1,132
+1255519,"Cosy, sunny place",3042583,Michel,,Borgerhout Intra Muros Zuid,51.20967563821575,4.432826378877718,Entire home/apt,76,1,94,2015-09-27,3.36,1,227
+636664,"sunny rooftop apartment, sleeps 2-4",462975,Els,,Borgerhout Intra Muros Zuid,51.21618093501523,4.430372746876318,Entire home/apt,90,2,28,2015-09-05,0.75,1,350
+6120019,Charming apartment nr.train station,8810728,Ellen,,Borgerhout Intra Muros Zuid,51.2118931612397,4.430496146984398,Entire home/apt,64,1,11,2015-09-29,2.16,1,350
+7298059,appartement achter centraal station,38226316,Josee,,Borgerhout Intra Muros Zuid,51.21182265197203,4.4339030441827045,Entire home/apt,40,1,0,,,1,57
+7251301,Cosy apartment with terrace &garden,8527586,Gert,,Borgerhout Intra Muros Zuid,51.21462579779909,4.427409258552253,Entire home/apt,50,2,2,2015-09-23,0.86,1,32
+5379855,Classy and spacious 19th cent loft,11534275,Jande,,Borgerhout Intra Muros Zuid,51.214643871175504,4.434462153395237,Entire home/apt,200,2,17,2015-09-14,2.82,3,337
+7724259,green paradise near central station,24189736,Paul,,Borgerhout Intra Muros Zuid,51.213338760288096,4.431754334292359,Entire home/apt,500,1,1,2015-09-21,1,2,350
+4562418,Cozy apartment in Antwerp!,21603341,Thomas,,Borgerhout Intra Muros Zuid,51.21074839961062,4.431174758843407,Entire home/apt,55,1,3,2015-05-04,0.33,1,285
+5040147,+++blancoooHENRI+++ balcony,3185214,A'Mie,,Borgerhout Intra Muros Zuid,51.21046329673318,4.430269113452149,Entire home/apt,90,2,1,2015-07-28,0.44,3,181
+5942880,Nice cosy house ,15095996,Nans,,Borgerhout Intra Muros Zuid,51.21112176479132,4.441879972001414,Entire home/apt,120,2,8,2015-09-27,1.43,1,338
+7736899,Secluded bright gardenloft,24189736,Paul,,Borgerhout Intra Muros Zuid,51.212868038044256,4.434394990407623,Entire home/apt,150,1,3,2015-09-27,1.84,2,363
+5741728,"""la casa di Frà""",29779875,La Casa Di Frà,,Borgerhout Intra Muros Zuid,51.214839112064425,4.431686521612154,Entire home/apt,70,1,9,2015-09-13,1.68,1,363
+6953274,Room near centre with own terrace,10657775,Lennert,,Borgerhout Intra Muros Zuid,51.213759586196254,4.436367846603926,Private room,35,1,2,2015-09-14,2,1,308
+4032738,"Leuk dak appartement, 2 slaapkamers",20906634,Sirene,,Borgerhout Intra Muros Zuid,51.214324017694956,4.436197268870604,Entire home/apt,84,2,2,2014-10-13,0.16,1,280
+5908615,Peaceful oasis with swimming pool,11534275,Jande,,Borgerhout Intra Muros Zuid,51.21470439681498,4.433548025289765,Entire home/apt,565,1,0,,,3,0
+8104534,Art Tout Yurt,20572492,JackieJ,,Borgerhout Intra Muros Zuid,51.210959898309916,4.441966115500009,Private room,20,1,3,2015-09-27,3,3,349
+3025379,+++ sunnyJOY +++ terrace & pool,3185214,A'Mie,,Borgerhout Intra Muros Zuid,51.21017757891618,4.429832297516722,Entire home/apt,135,2,47,2015-09-28,3.07,3,330
+2819412,"laterrebleue-'my house, your house'",14423888,Fatima,,Borgerhout Intra Muros Zuid,51.209756222748375,4.435820691332917,Private room,28,1,13,2015-08-26,3.25,1,347
+6150016,private vintage room in Antwerp,21648784,Samuel,,Borgerhout Intra Muros Zuid,51.21330890242309,4.432858504471579,Private room,45,1,16,2015-08-27,3.12,1,362
+2877275,Light - Spacious - Central location,9500786,Elena,,Borgerhout Intra Muros Zuid,51.214473405494964,4.433475652723909,Entire home/apt,90,2,1,2014-05-04,0.06,1,326
+1406719,Large apartment close to Station,2159291,Cyriel,,Borgerhout Intra Muros Zuid,51.21694992720532,4.42885100721536,Entire home/apt,60,7,0,,,1,272
+5859070,leuk appartement net buiten de stad,30420585,Patrick,,Borgerhout Intra Muros Zuid,51.21122576364822,4.43722695616902,Entire home/apt,60,2,8,2015-09-21,1.74,1,298
+366325,"The Blue, The Pink, The Yelow Room",1820186,Fronk & Lieve,,Borgerhout Intra Muros Zuid,51.21397875107142,4.432797683908665,Private room,33,1,27,2015-06-25,0.85,6,359
+582834,Room in nice cosy house Borgerhout,833417,Isabelle,,Borgerhout Intra Muros Zuid,51.212158431139294,4.442123376193459,Private room,35,2,2,2015-08-12,0.05,1,76
+4621441,M's Mansion/Marleen's Herenhuis,1820186,Fronk & Lieve,,Borgerhout Intra Muros Zuid,51.2127356404187,4.432736783851059,Private room,33,1,4,2015-07-28,0.41,6,364
+7455466,Room blue heaven 5' from central st,7563601,Ona,,Borgerhout Intra Muros Zuid,51.21541856941267,4.426770991132987,Private room,45,2,3,2015-09-17,3,1,337
+1209063,Room with a view!,6596883,Martine,,Borgerhout Intra Muros Zuid,51.21052535450447,4.433081203057546,Entire home/apt,77,1,12,2015-09-28,0.46,1,364
+8572907,Ruim huis vlak bij centrum,5240164,Jonas,,Borgerhout Intra Muros Zuid,51.20950515666862,4.4370143846300305,Private room,65,2,0,,,1,89
+3894091,Lovely bright apartment for 2,12010306,Hans & Maïté,,Borgerhout Intra Muros Zuid,51.21154425415299,4.4309643719277245,Entire home/apt,68,3,2,2015-08-16,0.19,1,365
+3969576,kamer te huur,20572492,JackieJ,,Borgerhout Intra Muros Zuid,51.21183456116897,4.440192149822905,Private room,20,1,3,2015-09-18,2.20,3,362
+6271039,place whit a spirit,20572492,JackieJ,,Borgerhout Intra Muros Zuid,51.211337436995315,4.440732401529473,Private room,20,1,24,2015-09-28,5.22,3,359
+742787,Private Room in an appartement,3888541,Nelli,,Luchtbal,51.24649498566592,4.4205055846363095,Private room,25,1,13,2015-09-18,2.50,1,360
+7586830,Room for 2,38080871,Lisbeth,,Zurenborg,51.20653474407239,4.432038149989739,Private room,40,1,2,2015-08-11,1.09,1,41
+1138959,Nice house in nice area,6247867,Lut,,Zurenborg,51.20755055559227,4.431754428022872,Private room,35,1,91,2015-09-21,3.19,1,348
+4703827,Spacious loungeroom w/ garden&piano,3015779,Yuri,,Zurenborg,51.20923793920736,4.425103404334585,Private room,36,1,14,2015-09-27,1.47,1,314
+6698216,Beautiful Belle Epoque house 1907,12315975,Hanne,,Zurenborg,51.20919995397371,4.42663688180619,Entire home/apt,120,2,4,2015-08-24,1.76,1,336
+5089594,Authentic apartment with garden,1133133,Cecilia,,Zurenborg,51.20736524714024,4.429522305243357,Entire home/apt,80,1,0,,,3,244
+3203133,Cosy flat in trendy neighbourhood,13572444,Vincent,,Zurenborg,51.20658298930045,4.426135423118325,Entire home/apt,70,1,6,2014-12-11,0.41,1,284
+5795112,Cosy stay in Antwerp (2 to 4p)!,29100613,Mieke,,Zurenborg,51.208424417677485,4.433064101281087,Private room,70,2,19,2015-09-14,3.88,1,351
+8423451,Cosy apartment Zurenborg,8323768,Anke,,Zurenborg,51.2070169715364,4.430581422006817,Entire home/apt,35,1,0,,,1,33
+1444602,Ground floor appartment with garden,7755956,Sabien,,Zurenborg,51.20794078311101,4.428386382153737,Entire home/apt,50,1,8,2014-12-25,0.30,1,0
+6593097,6 pers. kamer Ambassador Antwerpen,12559122,Be-Housing,,Zurenborg,51.20953870888366,4.423233754755003,Entire home/apt,99,1,0,,,8,202
+218916,Vintage Apartment with terrace,1133133,Cecilia,,Zurenborg,51.206327342085764,4.429419363900239,Entire home/apt,80,2,20,2015-09-14,0.42,3,226
+4056237,Fully equipped loft 65 m²,3767280,Mik,,Zurenborg,51.20552165219188,4.429184065644844,Entire home/apt,60,1,36,2015-09-25,2.86,1,346
+2456170,Studio Ambassador Suites Antwerpen,12559122,Be-Housing,,Zurenborg,51.20916900694972,4.42355144161396,Entire home/apt,59,1,3,2015-08-12,0.41,8,208
+5317448,Studio,27546201,Andrei,,Zurenborg,51.208167899737575,4.431805694320173,Entire home/apt,25,10,0,,,1,199
+4178600,"Room in house, free parking + bikes",21679611,Tom,,Zurenborg,51.20879835478287,4.427007640221512,Private room,50,2,49,2015-09-29,5.51,1,325
+4620967,Nice studio in lively neighbourhood,11626541,Ann,,Zurenborg,51.209022851597005,4.428367853542075,Entire home/apt,30,1,1,2015-02-22,0.13,1,234
+5103032,Big private room in authentic style,1133133,Cecilia,,Zurenborg,51.206393955754756,4.42854055074155,Private room,35,1,4,2015-08-06,0.78,3,244
+8609113,Gelijkvloers met ruime tuin,41193488,Maarten,,Nieuw - Kwartier Oost,51.18216011315434,4.442464860421163,Entire home/apt,70,1,0,,,1,215
+1002009,An entire modern home in Antwerpen,5510751,Evertjan,,Nieuw - Kwartier Oost,51.18364293109635,4.433465080918361,Entire home/apt,59,3,20,2015-09-13,0.76,2,351
+1004062,Special Offers!!,5510751,Evertjan,,Nieuw - Kwartier Oost,51.183730313236346,4.432718898998521,Entire home/apt,59,3,17,2015-09-08,0.68,2,362
+7190140,LOFT  SPECTACULAR VIEW free parking,14883582,Jeannette,,Linkeroever,51.20361223345336,4.3511909100696515,Private room,125,1,0,,,1,355
+3998772,*quiet*nature*swimmingpool*tramstop,20596455,Luc,,Linkeroever,51.22349747754643,4.337465181033726,Private room,39,1,26,2015-09-23,2.10,2,355
+6728964,'t Vliethuys  vlakbij Antwerpen,25398119,Brigitte,,Linkeroever,51.22498299545587,4.340662580525657,Private room,43,1,2,2015-09-25,0.57,1,365
+6846782,Knusse maisonette met zonnig terras,24394356,Diana,,Mariaburg,51.29431972326729,4.449040292178282,Entire home/apt,69,2,7,2015-08-24,2.96,1,173
+3352465,Studio Antwerp Historic Centre,5957452,Katie,,Historisch Centrum,51.22399170031354,4.396976321152215,Entire home/apt,49,2,42,2015-09-21,2.87,1,292
+6369448,quiet*nature*pool*public transport,20596455,Luc,,Linkeroever,51.222904599622424,4.339003794806068,Private room,55,1,11,2015-09-28,2.36,2,306
+1111242,B&B Plantin in the heart of antwerp,6099731,Faty,,Zuid,51.212932237510806,4.388652745990675,Entire home/apt,84,2,34,2015-07-26,1.37,1,364

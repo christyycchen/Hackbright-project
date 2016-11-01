@@ -1,0 +1,61 @@
+code,city,name,latitude_deg,longitude_deg
+ATL,Atlanta,Hartsfield–Jackson Atlanta International Airport,33.63669968,-84.42810059
+LAX,Los Angeles,Los Angeles International Airport,33.94250107,-118.4079971
+ORD,Chicago,O'Hare International Airport,41.97859955,-87.90480042
+DFW,Dallas,Dallas/Fort Worth International Airport,32.89680099,-97.03800201
+JFK,New York,John F. Kennedy International Airport,40.63980103,-73.77890015
+DEN,Denver,Denver International Airport,39.86169815,-104.6729965
+SFO,San Francisco,San Francisco International Airport,37.61899948,-122.375
+CLT,Charlotte,Charlotte Douglas International Airport,35.2140007,-80.94309998
+LAS,Las Vegas,McCarran International Airport,36.08010101,-115.1520004
+PHX,Phoenix,Phoenix Sky Harbor International Airport,33.43429947,-112.012001
+MIA,Miami,Miami International Airport,25.79319954,-80.29060364
+IAH,Houston,George Bush Intercontinental Airport,29.9843998,-95.34140015
+SEA,Seattle,Seattle–Tacoma International Airport,47.44900131,-122.3089981
+MCO,Orlando,Orlando International Airport,28.42939949,-81.30899811
+EWR,Newark,Newark Liberty International Airport,40.69250107,-74.16870117
+MSP,Minneapolis,Minneapolis–Saint Paul International Airport,44.88199997,-93.22180176
+BOS,Boston,Logan International Airport,42.36429977,-71.00520325
+DTW,Detroit,Detroit Metropolitan Airport,42.21239853,-83.35340118
+PHL,Philadelphia,Philadelphia International Airport,39.87189865,-75.2410965
+LGA,New York,LaGuardia Airport,40.77719879,-73.87259674
+FLL,Fort Lauderdale,Fort Lauderdale–Hollywood International Airport,26.07259941,-80.15270233
+BWI,"Washington, D.C.",Baltimore–Washington International Airport,39.17539978,-76.66829681
+DCA,"Washington, D.C.",Ronald Reagan Washington National Airport,38.85210037,-77.03769684
+MDW,Chicago,Midway International Airport,41.7859993,-87.75240326
+SLC,Salt Lake City,Salt Lake City International Airport,40.78839874,-111.9779968
+IAD,"Washington, D.C.",Washington Dulles International Airport,38.94449997,-77.45580292
+SAN,San Diego,San Diego International Airport,32.73360062,-117.1900024
+HNL,Honolulu,Honolulu International Airport,21.31870079,-157.9219971
+TPA,Tampa,Tampa International Airport,27.97550011,-82.53320313
+PDX,Portland,Portland International Airport,45.58869934,-122.5979996
+DAL,Dallas,Dallas Love Field,32.8470993,-96.85179901
+STL,St. Louis,St. Louis International Airport at Lambert Field,38.74869919,-90.37000275
+HOU,Houston,William P. Hobby Airport,29.64539909,-95.27890015
+AUS,Austin,Austin-Bergstrom International Airport,30.19449997,-97.66989899
+BNA,Nashville,Nashville International Airport,36.12450027,-86.67819977
+OAK,Oakland,Oakland International Airport,37.72129822,-122.2210007
+MSY,New Orleans,Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323
+MCI,Kansas City,Kansas City International Airport,39.2976,-94.713898
+RDU,Raleigh/Durham,Raleigh-Durham International Airport,35.87760162,-78.78749847
+SNA,Santa Ana,John Wayne Airport,33.67570114,-117.8679962
+SJC,San Jose,Norman Y. Mineta San José International Airport,37.36259842,-121.9290009
+SMF,Sacramento,Sacramento International Airport,38.69540024,-121.5910034
+SJU,San Juan,Luis Muñoz Marín International Airport,18.43939972,-66.00180054
+RSW,Fort Myers,Southwest Florida International Airport,18.43939972,-66.00180054
+SAT,San Antonio,San Antonio International Airport,29.53370094,-98.46980286
+CLE,Cleveland,Cleveland Hopkins International Airport,41.4117012,-81.84980011
+PIT,Pittsburgh,Pittsburgh International Airport,40.49150085,-80.23290253
+IND,Indianapolis,Indianapolis International Airport,39.7173,-86.294403
+CMH,Columbus,John Glenn Columbus International Airport,39.9980011,-82.89189911
+MKE,Milwaukee,General Mitchell International Airport,42.94720078,-87.89659882
+OGG,Kahului,Kahului Airport,20.89859962,-156.4299927
+PBI,West Palm Beach,Palm Beach International Airport,26.68320084,-80.09559631
+CVG,Cincinnati,Cincinnati/Northern Kentucky International Airport,39.04880142,-84.6678009
+BDL,Hartford,Bradley International Airport,41.93889999,-72.68319702
+JAX,Jacksonville,Jacksonville International Airport,30.49410057,-81.68789673
+ANC,Anchorage,Ted Stevens Anchorage International Airport,61.17440033,-149.9960022
+BUF,Buffalo,Buffalo Niagara International Airport,42.94049835,-78.73220062
+ABQ,Albuquerque,Albuquerque International Sunport,35.04019928,-106.6090012
+ONT,Ontario,Ontario International Airport,34.05599976,-117.6009979
+OMA,Omaha,Eppley Airfield,41.30319977,-95.89409637

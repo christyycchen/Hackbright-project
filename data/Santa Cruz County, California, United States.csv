@@ -1,0 +1,815 @@
+id,name,host_id,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+7716463,"Surf, Bed & Desk",31920354,Liz,City of Capitola,36.96140293451407,-121.96493164275338,Private room,100,2,0,,,5,358
+7501360,"Private Room - Capitola, California",14508019,Andrew,City of Capitola,36.97889335962496,-121.95629726761315,Private room,62,1,21,2015-10-09,7.78,1,63
+2816725,Pleasure Point Surf and Relaxation,14408550,Siobhan,City of Capitola,36.95763628431033,-121.97325075394048,Private room,90,5,1,2014-07-28,0.07,1,125
+6784210,Santa Cruz Simple - Master Bedroom,13873697,Dana,City of Capitola,36.97480724615936,-121.97200727617104,Private room,95,1,1,2015-06-14,0.24,4,103
+1587117,Luxury condo by the beach,8143067,Tara,City of Capitola,36.975472783149726,-121.95134824443853,Private room,165,1,34,2015-10-04,1.32,1,348
+6852467,Tranquil Master Bdrm w Private Bath,21567557,Amy & Eli,City of Capitola,36.97411467191129,-121.97165729888516,Private room,95,1,0,,,2,116
+1187783,Modern Designer: Amazing Location,4123746,Lilian,City of Capitola,36.95955623633421,-121.97234829702299,Entire home/apt,500,2,64,2015-10-12,2.27,1,66
+31721,PrivatePleasurePtBeachCottageHottub,136376,Annie,City of Capitola,36.959265063449024,-121.97281790694775,Entire home/apt,190,3,10,2015-09-22,0.28,1,329
+2886981,Nice room close to beach,14754077,Paul,City of Capitola,36.97089254566483,-121.96138099094513,Private room,95,1,5,2014-08-18,0.30,3,362
+2958258,Nice Condo close to beach,14754077,Paul,City of Capitola,36.97032513887619,-121.9615392057583,Entire home/apt,175,1,15,2015-06-12,0.89,3,361
+2989767,Nice 2 bedroom blocks from beach!,14754077,Paul,City of Capitola,36.970186859037646,-121.95988436647103,Entire home/apt,275,1,49,2015-09-27,2.96,3,358
+7716822,Beach Villa with Coworking Space,31920354,Liz,City of Capitola,36.95984846972154,-121.965776402497,Shared room,70,2,0,,,5,365
+1538480,Charming Home in Heart of Capitola,8202897,Beth,City of Capitola,36.977431323616706,-121.96120328817639,Entire home/apt,600,2,16,2015-09-08,0.62,1,88
+8114570,Pleasure Point Beach Sanctuary,810247,Kimberly,City of Capitola,36.95920264325955,-121.9777566822155,Private room,125,1,2,2015-09-21,1.43,1,280
+3033398,Capitola condo near beach ,15451957,Bonnie,City of Capitola,36.97187863198652,-121.96248432655297,Entire home/apt,155,4,20,2015-09-17,1.28,1,349
+4252106,Best View In Town! Capitola Condo.,22065775,Kelli,City of Capitola,36.97294059698222,-121.94969667187353,Entire home/apt,245,1,57,2015-09-26,4.70,1,353
+2710745,Santa Cruz Simple - Queen,13873697,Dana,City of Capitola,36.97552659861969,-121.97147690796098,Private room,75,1,23,2015-10-01,3.40,4,274
+5762935,Santa Cruz Simple - Single bed,13873697,Dana,City of Capitola,36.97497497646338,-121.97303379526556,Private room,65,1,29,2015-10-02,4.42,4,274
+6646581,Santa Cruz Simple - Whole House,13873697,Dana,City of Capitola,36.97548676345209,-121.97193438753078,Entire home/apt,350,2,6,2015-10-04,1.70,4,275
+1762159,Fantastic Pleasure Point Location!,2886424,Abigail,City of Capitola,36.95514385846634,-121.97304525918439,Entire home/apt,100,1,0,,,1,258
+604281,Opal Cliff Beach House ,911803,Joyce,City of Capitola,36.96506802588104,-121.96339096202829,Entire home/apt,395,2,1,2014-06-21,0.06,1,331
+8084113,Spacious Capitola Condo,42695858,Juliana,City of Capitola,36.97732039039132,-121.96078882076966,Entire home/apt,280,1,4,2015-10-11,3.33,1,54
+1401967,Capitola Treasured Island Suite,6188518,Sheryl,City of Capitola,36.978968203234324,-121.94972394621276,Private room,85,1,35,2015-09-27,2.35,1,2
+7936459,Beautiful Ocean View Home,41851633,Ashley,City of Capitola,36.97327117349398,-121.95171522422396,Entire home/apt,500,2,0,,,1,286
+4663027,Capitola Apartment Near Everything,24128325,Jason & Anali,City of Capitola,36.97729226525038,-121.95832194499502,Entire home/apt,100,6,0,,,1,32
+2159387,Christine's Cottage,11018734,Christine,City of Capitola,36.97338549768125,-121.97150014737277,Entire home/apt,109,1,111,2015-10-11,5.67,1,323
+231750,Twin Palms B & B at Pleasure Point,1211802,Tara,City of Capitola,36.961026694015914,-121.98106330353514,Private room,119,2,130,2015-09-28,2.75,1,341
+739515,Capitola Beach House  on River,3859873,Bridget,City of Capitola,36.973482539972956,-121.95316999764142,Entire home/apt,175,2,44,2015-10-05,1.39,1,299
+649925,Secluded Studio in Pleasure Point ,3263060,Jewlia,City of Capitola,36.95956077915497,-121.97140221338938,Entire home/apt,195,3,33,2015-09-22,0.90,1,345
+4455187,The Gray Whale Beach House,23047828,Kathleen,City of Capitola,36.97207770794419,-121.94929066051063,Entire home/apt,250,3,35,2015-10-13,3.07,1,310
+6324562,"Stunning  2 bed, 2 bath in Capitola",15867956,Jody,City of Capitola,36.97406223489263,-121.95190265225469,Entire home/apt,395,1,3,2015-09-08,1.10,1,341
+4936413,Clean Home | Amazing Hosts & Locale,21567557,Amy & Eli,City of Capitola,36.97297460857287,-121.97169328772591,Private room,85,1,38,2015-10-05,4.19,2,362
+6467712,Beach Town Getaway,33786602,Bruce,City of Capitola,36.97181082735605,-121.96244300551638,Entire home/apt,140,2,0,,,1,119
+3559652,Small garden studio by the beach,4579854,Leslie,City of Capitola,36.97945426722577,-121.95320530745641,Private room,87,1,119,2015-10-15,7.97,1,333
+5309031,Beautiful Home in Pleasure Point,5238718,Daniela,City of Capitola,36.95795448994326,-121.97391265206626,Entire home/apt,225,2,23,2015-09-13,2.82,1,352
+5371064,Beach side studio at Pleasure Point,17694511,Kristen,City of Capitola,36.95932443525963,-121.97590201635592,Entire home/apt,100,2,20,2015-10-13,2.80,1,335
+5507482,Blocks from the Beach & Village!,27673598,Sam,City of Capitola,36.97569463195788,-121.95542404336514,Entire home/apt,200,1,12,2015-09-21,2.16,1,139
+1360563,Enjoy Amber the RV: Rent or Deliver,7385604,Jamie,City of Capitola,36.95813366050108,-121.97852794280777,Entire home/apt,165,3,0,,,1,344
+6625420,"Warm Bungalow, Steps to the Beach!",33475959,Jennifer,City of Capitola,36.954998442840285,-121.97645290351522,Entire home/apt,250,1,5,2015-10-04,2.11,1,358
+6199468,Great House in Pleasure Point,32149853,Neill,City of Capitola,36.962116578063686,-121.96975251720396,Entire home/apt,650,5,1,2015-06-03,0.22,1,364
+8407928,Room by the Sea,44291662,Lisa,City of Capitola,36.97442011211664,-121.95109455315404,Private room,95,1,0,,,1,365
+1378370,Cozy camper with private patio,7466493,Dara,City of Capitola,36.97594587145413,-121.97214521542975,Entire home/apt,85,1,212,2015-10-05,7.78,1,351
+7841913,"1Bd, Pool,Blocks to Beach & Village",41314388,Bianca,City of Capitola,36.971040231735905,-121.96041581308133,Private room,125,1,2,2015-09-07,0.94,1,340
+4718829,Pleasure Point,4348078,Krisanne,City of Capitola,36.95824758478631,-121.96892537290098,Private room,250,1,0,,,1,287
+8571711,Lovely beach home with Jacuzzi,9720386,Bertha,City of Capitola,36.957441218099596,-121.9704686767525,Entire home/apt,350,1,0,,,1,22
+810394,Cute & Cozy Pleasure Point Cottage ,4261488,Hallie,City of Capitola,36.9595517979625,-121.97388451291268,Entire home/apt,200,3,22,2015-09-21,0.64,5,315
+600136,"GREAT HM AND SPOT, OCT/NOV SPECIAL!",2968451,Livia,City of Capitola,36.96524841765685,-121.97009435778067,Entire home/apt,185,3,8,2015-07-19,0.24,1,318
+690857,Kid-friendly Surfer's Paradise,3530542,Sonja,City of Capitola,36.960371313964544,-121.96698153961603,Entire home/apt,150,7,0,,,1,27
+3765833,Capitola Oceanfront 2 Bedroom,19290771,Robert,City of Capitola,36.971481071789555,-121.95359805741037,Entire home/apt,499,1,21,2015-09-06,1.48,3,362
+3882361,Capitola Village Oceanfront,19290771,Robert,City of Capitola,36.973253757058714,-121.95317813383552,Entire home/apt,599,1,28,2015-09-07,2.00,3,364
+5705288,Capitola Oceanfront ,19290771,Robert,City of Capitola,36.97153334331309,-121.9520614426867,Entire home/apt,399,1,3,2015-09-27,2.65,3,365
+5369496,Bohemian Beach House ,7613816,Julie,City of Capitola,36.973778399877155,-121.95647896100884,Entire home/apt,225,2,9,2015-10-04,1.17,1,332
+6258060,Home Sweet Home,1194082,Aviva,City of Capitola,36.979921860248076,-121.96971630568903,Entire home/apt,190,3,5,2015-07-27,1.03,1,298
+690397,Secluded Santa Cruz Beach Hideaway,238088,Dore,City of Capitola,36.95947144889472,-121.97019710681882,Entire home/apt,175,2,110,2015-10-04,3.13,1,312
+5048831,Capitola Village Studio Unit C,24413952,Lindemann & Sloan,City of Capitola,36.97271080561108,-121.94990809705912,Entire home/apt,172,2,6,2015-10-04,1.35,8,352
+6423559,Capitola Village Living!,24413952,Lindemann & Sloan,City of Capitola,36.97571628183429,-121.95364175657481,Entire home/apt,214,2,6,2015-09-13,1.71,8,349
+6434246,Capitola Village Getaway!,24413952,Lindemann & Sloan,City of Capitola,36.974143483883296,-121.95354439474144,Entire home/apt,247,2,6,2015-09-13,1.51,8,350
+5050189,The Mermaid House at Pleasure Point,24413952,Lindemann & Sloan,City of Capitola,36.95810457474162,-121.97138537576893,Entire home/apt,343,2,17,2015-09-27,2.14,8,338
+604183,Serene Oceanfront Surf Retreat,2206201,Wendy,City of Capitola,36.973881526896875,-121.95229156355082,Private room,122,2,176,2015-10-05,4.49,1,31
+6476975,3 bedroom in Santa Cruz/Capitola,31477803,Cora,City of Capitola,36.97952269659544,-121.97034741762306,Entire home/apt,168,7,0,,,1,124
+6761344,Pleasure Point Beach Bungalow,32134414,Wilder,City of Capitola,36.961127374136765,-121.97998285632568,Entire home/apt,130,1,19,2015-10-13,6.33,1,348
+7091856,SantaCruz PleasurePoint 2bd sleeps4,1317057,Tushar,City of Capitola,36.959956033023275,-121.96826178369568,Entire home/apt,199,3,3,2015-08-02,0.87,2,319
+7113242,SantaCruz PleasurePoint 3bd sleeps6,1317057,Tushar,City of Capitola,36.96119829059088,-121.96693327759422,Entire home/apt,189,1,13,2015-09-28,4.70,2,319
+5415143,Ideal Pleasure Point Beach Bungalow,28072217,Alex,City of Capitola,36.95922543940149,-121.96881131983228,Entire home/apt,290,2,3,2015-09-08,1.76,1,365
+5618873,Bright Bedroom near the Beach,29125005,Ryan,City of Capitola,36.9669741842185,-121.97281008804906,Private room,90,1,8,2015-10-12,1.70,2,341
+5618886,"Bright, Relaxing Home near Beach",29125005,Ryan,City of Capitola,36.96642064446296,-121.9721728851903,Entire home/apt,300,1,14,2015-10-04,3.13,2,360
+5444278,Holidays at Seahaven in Santa Cruz!,28238426,Robin,City of Capitola,36.956958332616175,-121.97455530873117,Entire home/apt,350,2,6,2015-10-05,3.67,1,337
+6832224,Capitola's Little Diamond,312421,Ms. M,City of Capitola,36.97844169885391,-121.94751733324831,Entire home/apt,595,2,2,2015-10-04,0.58,5,321
+63934,Casa Marcella,312421,Ms. M,City of Capitola,36.976404793507086,-121.94650410357586,Entire home/apt,650,4,1,2015-07-16,0.32,5,329
+6807721,Sweet Room Near Beach,312421,Ms. M,City of Capitola,36.97687323358857,-121.9482634182842,Private room,145,2,6,2015-08-16,1.58,5,326
+6290400,King Suite Near Beach & Village,312421,Ms. M,City of Capitola,36.976565352689825,-121.94735187771442,Private room,195,2,1,2015-09-07,0.70,5,323
+6289216,Deluxe Queen Suite Near Beach!,312421,Ms. M,City of Capitola,36.976572877558,-121.94851979152456,Private room,160,2,11,2015-09-27,2.73,5,321
+7715745,Pelican Cottage Seaside Escape,40535385,Teri,City of Capitola,36.9792995967796,-121.95370619332147,Entire home/apt,250,2,1,2015-10-05,1,1,352
+3711559,Monterey Bay View Room,15504133,Monty,City of Capitola,36.96703887095483,-121.96384606597763,Private room,155,1,58,2015-09-28,3.94,1,355
+2096410,Capitola Garden Retreat,9889226,Lisa,City of Capitola,36.98264110309779,-121.94072177410851,Private room,129,2,64,2015-09-28,3.15,1,365
+7695732,Capitola Beachfront Studio for Two!,28981316,Sharon,City of Capitola,36.973431517512616,-121.95145425782539,Entire home/apt,259,1,0,,,1,342
+4737586,Surf & Beach House Retreat Oasis,186172,Ankur,City of Capitola,36.961066026360754,-121.9684178574902,Entire home/apt,350,2,20,2015-10-15,5.00,1,306
+7515729,Pleasure Point Beach Hideaway,16839432,Courtney,City of Capitola,36.96145467632648,-121.97226935072702,Entire home/apt,160,1,2,2015-10-13,2,1,352
+1615942,"Private room - Capitola, California",8600588,Dale,City of Capitola,36.9683735984277,-121.9591803919088,Private room,110,1,36,2015-10-12,1.42,2,365
+1615910,"Private Home - Capitola, California",8600588,Dale,City of Capitola,36.964821294755644,-121.96157681289414,Entire home/apt,225,2,0,,,2,74
+2176473,Pleasure Point Beach House,11100853,Patrick,City of Capitola,36.9563657547738,-121.97154260028613,Entire home/apt,322,2,17,2015-07-15,0.82,1,339
+8774310,Capitola Condo,45997547,Paul,City of Capitola,36.96671160017503,-121.9633119454058,Entire home/apt,155,1,0,,,1,365
+8646304,Spacious Capitola Beach Cottage,45450059,Marjorie,City of Capitola,36.97621210694835,-121.94777515742514,Entire home/apt,450,1,0,,,1,16
+5443596,Lovely Views & Short Walk to Beach,20495088,De Anna,City of Capitola,36.960299589363245,-121.97434332886843,Entire home/apt,355,3,4,2015-06-22,0.64,1,347
+7369585,Sunny Capitola Home,36583810,Emily,City of Capitola,36.979362243791556,-121.96197177045931,Entire home/apt,249,1,2,2015-10-05,2,1,75
+8520524,Cozy apartment and great location!,32714961,Danielle,City of Capitola,36.97363348680371,-121.97210770061747,Shared room,60,1,2,2015-10-04,2,1,365
+196131,Sweet Room in Great Live Oak Local,35930,Denise,City of Capitola,36.972528317446084,-121.97143915936381,Private room,75,1,276,2015-09-27,5.45,2,288
+816929,Master Suite with Private Balcony,35930,Denise,City of Capitola,36.96956534386832,-121.96898572186338,Private room,125,2,27,2015-10-12,1.73,2,365
+7502542,"One Room, Shared Beach House",39303914,Jeff,City of Capitola,36.975433874423686,-121.96171026235375,Private room,100,1,4,2015-10-03,2.86,2,311
+7503193,"Beach House, walk to beach/village",39303914,Jeff,City of Capitola,36.97668570989147,-121.96168317916171,Entire home/apt,200,1,5,2015-09-21,2.11,2,317
+8053627,Room near Pleasure Point w/ parking,42533197,Mary,City of Capitola,36.96592899227864,-121.97433532863033,Private room,65,1,11,2015-10-12,6.47,1,294
+7857321,Gorgeous 2BR by Capitola Village!,41202500,Jennifer,City of Capitola,36.97163298344799,-121.96315636065219,Entire home/apt,200,1,6,2015-09-30,2.81,1,350
+1280808,Beach Cottage / hang your towel!,6969359,Vanessa,City of Santa Cruz,36.9746065196546,-122.01474753393218,Entire home/apt,260,1,48,2015-10-05,1.73,1,365
+8780419,Cozy Santa Cruz Getaway,46008305,Yasmina,City of Santa Cruz,36.9860918535538,-122.02881866200038,Private room,77,2,0,,,1,365
+1759425,Charming Studio Close to Beach,9249751,Colleen And Dann,City of Santa Cruz,36.961779650963564,-122.03427480247159,Entire home/apt,115,1,173,2015-10-04,8.10,1,288
+5571762,Lovely townehome on UCSC campus,23530020,Dion,City of Santa Cruz,36.990932964403484,-122.05999477917216,Entire home/apt,164,3,2,2015-09-15,1.50,2,20
+8239848,Quiet Getaway on the Upper Westside,16023185,Yvonne,City of Santa Cruz,36.9800322023331,-122.03900780927563,Entire home/apt,185,2,0,,,2,135
+6492396,Westside Beach Bungalow,33932299,Veda,City of Santa Cruz,36.957676414817,-122.0416635340944,Entire home/apt,338,2,0,,,1,239
+1271216,Enterprise Ironworks: S/V Minnow,3095808,Christine,City of Santa Cruz,36.97705606449934,-122.02989153732094,Entire home/apt,250,2,4,2015-10-12,0.22,5,350
+3987105,Midtown Studio,12009795,Gloria,City of Santa Cruz,36.97870980097446,-122.01576911128262,Private room,120,2,46,2015-10-12,3.34,1,338
+7474325,Sunny Private Downtown Studio,38189119,Dianne,City of Santa Cruz,36.96768277153515,-122.02488277102904,Private room,115,1,32,2015-10-13,13.91,1,329
+5728995,Beach Hill Garden Apt at Main Beach,29703938,Michael,City of Santa Cruz,36.96346613862441,-122.02160839533785,Entire home/apt,125,1,46,2015-09-18,6.80,2,336
+6434158,"Newly Renovated Seabright Home, 3BR",33585137,Hal,City of Santa Cruz,36.977178855940224,-122.0108563709802,Entire home/apt,225,2,15,2015-09-30,3.33,1,300
+4574952,Cozy Studio four houses to Ocean,23714597,Barbara,City of Santa Cruz,36.95927443753331,-122.02701605567901,Entire home/apt,100,2,37,2015-09-15,3.52,1,326
+5970337,Ocean View on Beach Hill,29703938,Michael,City of Santa Cruz,36.96384576132754,-122.02157859415632,Entire home/apt,149,1,32,2015-09-29,5.52,2,348
+264450,Charming Westside Beach Bungalow,1387567,Brit,City of Santa Cruz,36.96156370202045,-122.0268799464775,Entire home/apt,259,2,42,2015-10-11,0.88,1,209
+8339575,8 minute walk to the Beach.,43958823,Gregory,City of Santa Cruz,36.96978385783125,-122.01774665280675,Entire home/apt,75,5,0,,,1,250
+1459083,5th Haven: A Beachside Chic Cottage,7821973,Ryan,City of Santa Cruz,36.9655416710524,-122.00272657198778,Entire home/apt,245,2,47,2015-09-28,1.75,1,344
+7150817,"Basic cottage, blks to beach, dwntn",36947352,Steven,City of Santa Cruz,36.96416721170988,-122.02617110992738,Entire home/apt,149,1,6,2015-08-16,1.82,1,253
+1089732,Quiet and Serene in Santa Cruz! ,4261488,Hallie,City of Santa Cruz,36.980761006897836,-122.01351578510189,Entire home/apt,185,3,15,2015-08-27,0.51,5,307
+3217362,Beachy Home in Sunny Seabright,16293412,Kelly,City of Santa Cruz,36.975968194329795,-122.00686109164961,Entire home/apt,350,3,5,2015-06-15,0.35,1,120
+1971588,Casa de Alta Loma Vacation Rental,10180211,Carolyn,City of Santa Cruz,36.96986191997745,-121.99809721852367,Entire home/apt,400,2,24,2015-09-21,1.09,2,326
+6317519,Sunny Westside Beach Bungalow,3292195,Susanjayn,City of Santa Cruz,36.95791051471554,-122.03629206904262,Entire home/apt,300,2,0,,,1,172
+531445,Beautiful Garden Cottage By The Sea,2611139,Shemeika,City of Santa Cruz,36.96291451845131,-122.03118126980141,Entire home/apt,180,2,219,2015-09-28,5.49,1,239
+5069867,Private unit in downtown Victorian,7615736,Andy & Maria,City of Santa Cruz,36.97202357104814,-122.02261332186961,Private room,100,1,117,2015-10-14,13.25,1,318
+555545,Guest wing w/ direct garden access,2538055,Marlene And Daryl,City of Santa Cruz,36.97450033241312,-122.04777696314622,Private room,149,2,23,2015-10-12,0.87,2,365
+7921497,Westside Wonderful!,9061812,Douglas & Allison,City of Santa Cruz,36.96013694504019,-122.03948967686048,Entire home/apt,115,1,11,2015-10-13,11,1,339
+4296085,Beach Villa with Coworking Space,4440278,Emmanuel,City of Santa Cruz,36.9547008623181,-122.0421313257403,Private room,95,2,14,2015-10-06,1.15,8,360
+8237608,Beach Access Bungalow Master BR,42898689,Laina,City of Santa Cruz,36.96749959843272,-121.99938150023016,Private room,150,1,1,2015-09-13,0.86,4,353
+25107,Craftsman in the Cruz,103469,Amy And Rob,City of Santa Cruz,36.98801628324707,-122.01532088816558,Entire home/apt,190,2,41,2015-09-21,0.63,1,238
+8593792,"Comfortable, Convenient Townhouse",35883353,Keith,City of Santa Cruz,36.96589856511996,-122.03105228081098,Entire home/apt,175,2,2,2015-10-11,2,1,192
+1072272,Victorian Beach House Santa Cruz,5177794,Diana,City of Santa Cruz,36.97062924043973,-122.02778416135088,Entire home/apt,225,2,18,2015-09-14,0.66,1,118
+3382609,Beautiful Westside Beach Home,16640626,Molly,City of Santa Cruz,36.961994088959564,-122.03239558623679,Entire home/apt,450,2,21,2015-10-11,1.50,1,355
+7095460,Beach & Boardwalk - Large room,36268971,John,City of Santa Cruz,36.97275906495172,-122.01860173283761,Private room,109,1,39,2015-10-08,10.93,2,364
+8794312,Peach Room w/Nature Views & Queen,2326282,Eric,City of Santa Cruz,36.976634301815466,-122.03680655985518,Private room,75,1,3,2015-10-16,3,7,364
+1332501,Peaceful & Sunny Guest House ,7227330,Everet & Mary,City of Santa Cruz,36.97802386483133,-122.00180641100636,Entire home/apt,100,3,41,2015-09-12,1.47,1,124
+747421,"Clean, comfortable, close to Beach!",3923516,Sean,City of Santa Cruz,36.957003667344516,-122.04201756837578,Private room,79,1,132,2015-10-03,4.68,1,318
+5030677,Sunny Seabright Santa Cruz Cottage,10491065,Renee And Jeff,City of Santa Cruz,36.9656688546503,-122.00817697748118,Entire home/apt,225,1,64,2015-10-11,7.01,1,341
+1965802,Cute Studio Garden Cottage,10154449,Ginger,City of Santa Cruz,36.98563942528357,-122.00743397205801,Entire home/apt,125,2,61,2015-09-26,2.66,1,16
+1415182," Beautiful, open, light, and airy~",4261488,Hallie,City of Santa Cruz,36.995254856990115,-122.01222154510607,Entire home/apt,350,3,10,2015-07-29,0.38,5,202
+8778879,Majestic SC Panoramic w/Queen bed,2326282,Eric,City of Santa Cruz,36.97804572134317,-122.03639186936371,Private room,90,2,1,2015-10-12,1,7,365
+8368365,COZY 1-BDRM APT. NEAR THE BEACH,41316145,Dawn,City of Santa Cruz,36.95541547009347,-122.0303032573184,Entire home/apt,106,2,0,,,1,303
+4831433,Santa Cruz Beach Cottage Getaway,16023185,Yvonne,City of Santa Cruz,36.96682520820032,-122.00919380218167,Entire home/apt,250,2,26,2015-10-12,3.08,2,298
+8306184,Downtown Santa Cruz Walk Up,4622744,Ahnalisa,City of Santa Cruz,36.97195060645242,-122.02480910266684,Entire home/apt,158,1,4,2015-09-27,3.24,2,283
+8343589,Sunny Room in Beautiful Victorian,37508556,Megan,City of Santa Cruz,36.97765980922092,-122.01158670388753,Private room,65,3,0,,,1,360
+8294916,"Midtown Santa Cruz, Sunny, Spacious",43737019,Nana,City of Santa Cruz,36.98155641047194,-122.02062373646278,Entire home/apt,120,2,0,,,1,173
+3138486,Santa Cruz Beach escape ,15935207,Heather,City of Santa Cruz,36.956108612329956,-122.03417389281296,Private room,195,1,24,2015-10-12,1.41,1,364
+6285260,Bright Home Near Beach & Boardwalk,10293347,Kristin,City of Santa Cruz,36.9585033502911,-122.041899386371,Entire home/apt,280,2,10,2015-09-14,2.38,1,74
+2722531,Beachtown Studio Near University,13931907,Bart & Nena,City of Santa Cruz,36.969616699957406,-122.0424252688922,Private room,110,1,22,2014-10-16,1.23,1,252
+7854435,Relaxing family getaway!,41388287,Oystein,City of Santa Cruz,36.95677202444895,-122.02773107644907,Entire home/apt,350,2,3,2015-08-30,1.58,1,40
+3124018,Slice of Heaven in the Honey House,15868022,Mareth,City of Santa Cruz,36.975738875447036,-122.01503515074936,Private room,135,2,53,2015-10-14,3.24,1,340
+3049500,2 Bedroom 2 Bathroom Condo,15524905,Kandice,City of Santa Cruz,36.97690099941038,-122.00367562013973,Entire home/apt,200,7,2,2015-06-20,0.13,1,364
+8673483,Newly constructed luxury home,20331727,Peter,City of Santa Cruz,36.969733072949744,-122.05695979482975,Entire home/apt,475,2,0,,,1,172
+519543,Santa Cruz Private Bedroom and Bath,2547484,Justin,City of Santa Cruz,36.97578066579814,-122.01400978984961,Private room,99,3,59,2015-10-02,1.45,1,364
+6693263,Artisan Beach House,35035768,Marie,City of Santa Cruz,36.95873421412526,-122.03098289698961,Entire home/apt,295,2,15,2015-10-11,3.78,1,234
+3513489,A Room in a CoHousing community,17691016,Ruth,City of Santa Cruz,36.97135596535404,-122.05836280514005,Private room,50,1,3,2014-10-06,0.23,1,289
+980748,Vintage/Modern Westside Home ,2851909,Gina,City of Santa Cruz,36.97187486999166,-122.04173246802621,Entire home/apt,150,2,8,2014-11-16,0.25,1,290
+6643947,Happy Hen Garden Cottage in Midtown,34775074,Lori,City of Santa Cruz,36.98402864422997,-122.01278222985141,Entire home/apt,110,2,14,2015-09-15,3.39,1,300
+6156661,Private Room WestCliff Santa Cruz,31920354,Liz,City of Santa Cruz,36.95373517019651,-122.04431447752745,Private room,97,2,6,2015-09-10,1.22,5,358
+6186543,Perfect House for Company Retreat,31920354,Liz,City of Santa Cruz,36.953579609642595,-122.0422489791382,Entire home/apt,900,3,1,2015-07-15,0.31,5,359
+6186357,Shared Room WestCliff Santa Cruz,31920354,Liz,City of Santa Cruz,36.95388129089354,-122.04227953251836,Shared room,65,2,7,2015-09-18,1.35,5,351
+3028553,Charming Westside Bungalow ,15426486,Geoffrey And Colleen,City of Santa Cruz,36.96964314628182,-122.03425521888367,Entire home/apt,139,2,62,2015-10-12,3.65,1,336
+5560076,Little Red Barn,18424469,Katharina,City of Santa Cruz,36.98374934035926,-122.01222830060233,Private room,85,1,32,2015-09-27,4.30,1,356
+3768985,Spacious Family Home-Hot Tub ,19983373,Carol,City of Santa Cruz,36.96594396380488,-121.99607954732444,Entire home/apt,575,3,2,2015-04-19,0.16,1,358
+4978065,Comfortable Westside Santa Cruz,17986322,Renee,City of Santa Cruz,36.956278948366325,-122.03540005011602,Entire home/apt,350,2,11,2015-08-03,1.66,1,134
+7367622,"Walk to beach, boardwalk, downtown!",38575093,Stephen,City of Santa Cruz,36.97075323631357,-122.01774114581251,Entire home/apt,250,2,2,2015-08-17,0.81,1,267
+1271218,Weddings-Events-Family Reunion-,3095808,Christine,City of Santa Cruz,36.97502753015782,-122.03024161309592,Entire home/apt,780,1,10,2015-08-03,0.38,5,364
+1271217,7 Squid Row- Events/Offsites/Dinner,3095808,Christine,City of Santa Cruz,36.97663313815749,-122.0282775396271,Entire home/apt,700,1,0,,,5,365
+1295113,Stage Coach Apt: Historic Charm,3095808,Christine,City of Santa Cruz,36.97556426555849,-122.02875606749849,Entire home/apt,250,2,65,2015-10-01,2.32,5,363
+4537926,Lovely room in large beautiful home,23530020,Dion,City of Santa Cruz,36.992305893587584,-122.06010482059735,Private room,85,2,10,2015-09-28,1.51,2,232
+5153010,Cozy house near the beach,25908646,Sally,City of Santa Cruz,36.9550942955442,-122.03009320384541,Entire home/apt,215,2,18,2015-09-27,2.31,1,306
+1649986,Private Seabright Garden Apartment,1803583,Jonathan,City of Santa Cruz,36.98204969232,-122.01625434089807,Entire home/apt,105,1,205,2015-10-13,8.61,1,352
+8292943,West Side Bungalow,8094165,Cori,City of Santa Cruz,36.97129228627354,-122.03968206298775,Entire home/apt,225,2,0,,,2,336
+515348,West Side 2 Bdroom Suite w/own bath,2538055,Marlene And Daryl,City of Santa Cruz,36.97550080890708,-122.04873343834632,Private room,149,2,7,2015-09-08,0.19,2,365
+792790,En suite room in shared household,4177121,Kathryn,City of Santa Cruz,36.971790202469485,-122.0421581730501,Private room,58,2,0,,,1,49
+8503607,Westside Room 2 blocks from Beach.,44761257,Tamara,City of Santa Cruz,36.9555019266091,-122.04708469721962,Private room,85,1,0,,,1,364
+1664689,"Sunny, beautiful loft in Seabright!",4970411,Tracy,City of Santa Cruz,36.968200897559136,-122.00797719084714,Private room,115,1,3,2015-09-01,1.43,1,344
+8608353,1 mi. to beach & 2 mi. to Redwoods,2025001,Regina,City of Santa Cruz,36.982958052365376,-122.02466850734451,Private room,70,1,0,,,1,281
+238020,"Sunny, private Westside room",1243831,Abbie,City of Santa Cruz,36.96308360639477,-122.04544592077494,Private room,65,2,76,2015-08-29,1.56,1,305
+2407602,Beach-down-the-Street Rm & Parking,881107,Stacy,City of Santa Cruz,36.966227224586326,-122.02749393770924,Private room,89,2,32,2015-07-27,1.85,1,345
+6318224,Charming Seabright Beach Bungalow,31309636,Colleen,City of Santa Cruz,36.97112263209396,-122.00782403398965,Entire home/apt,241,4,15,2015-09-28,3.13,1,128
+3562891,10 min walk to beach/surf/boardwalk,17938546,Adam,City of Santa Cruz,36.95819358060948,-122.0343026884871,Private room,109,2,10,2015-10-12,3.30,1,89
+54948,Modern Beach House,258675,Terry & Clint,City of Santa Cruz,36.96669791862446,-122.01264325230531,Entire home/apt,225,2,79,2015-10-01,1.31,1,353
+8541842,Palmetta Beach Bungalow,32361122,138,City of Santa Cruz,36.95921607869418,-122.03558014424662,Entire home/apt,290,2,0,,,1,362
+1582729,Spacious sunny home in Santa Cruz!,8425042,Jennifer,City of Santa Cruz,36.99839332590866,-122.01384672632447,Entire home/apt,200,1,4,2015-08-10,0.16,1,283
+415250,"Beautiful Home, Beach + Downtown",21453,Katy,City of Santa Cruz,36.969989202807696,-122.02834033168844,Entire home/apt,285,2,23,2015-09-14,0.53,1,365
+5371595,Affordable Cozy Downtown Hideaway,22982830,Shalom And Vito,City of Santa Cruz,36.9736175746906,-122.02472040329127,Private room,75,2,28,2015-10-10,3.65,1,123
+7695660,Cozy Room 2 Blks to Pacific Ocean!,40419760,Archer,City of Santa Cruz,36.956637541927904,-122.03403647812851,Private room,60,1,7,2015-10-02,3.68,1,52
+7679897,Amazing Loft in an Artist Workshop,40331914,Dave,City of Santa Cruz,36.95811160743895,-122.04870540726368,Private room,95,1,4,2015-09-29,2.14,1,346
+4582955,Cozy Studio Apartment in Santa Cruz,15963192,Scott,City of Santa Cruz,36.953864578877074,-122.04486532198173,Entire home/apt,149,2,43,2015-10-15,4.10,1,354
+4211864,Sunny and Private Garden Cottage,21857932,Rebecca,City of Santa Cruz,36.9792451835565,-122.00149535467096,Entire home/apt,178,2,19,2015-09-07,3.03,2,95
+5160065,Private Sun-Drenched Seabright Home,21857932,Rebecca,City of Santa Cruz,36.97865321754429,-122.00307275388495,Entire home/apt,300,1,4,2015-07-12,0.52,2,0
+5991405,Beautiful Home Under the Redwoods,11367017,Eric,City of Santa Cruz,37.00157379916028,-122.02015170443481,Entire home/apt,400,5,0,,,1,175
+2483297,"New, clean & cozy cottage Westside ",12705485,Beth,City of Santa Cruz,36.97406083121663,-122.03907195002304,Entire home/apt,165,1,120,2015-09-28,6.20,1,260
+101755,Great Family Home for S.C. Vacation,532855,Daniel,City of Santa Cruz,36.97797548362145,-122.01156516836264,Entire home/apt,249,5,12,2015-08-04,0.23,1,124
+8136015,Beautiful home by UCSC and Beaches,16783920,Malia And Dan,City of Santa Cruz,36.97922114514307,-122.04424381487827,Entire home/apt,300,2,2,2015-09-21,1.43,1,89
+512145,Swanky Westside Studio by the Beach,339129,Michelle,City of Santa Cruz,36.96684210720835,-122.03734762080337,Entire home/apt,150,1,129,2015-10-13,3.18,2,146
+7458464,Ricketts' Retreat,39061742,Liza,City of Santa Cruz,36.967684720636,-121.99945522412425,Entire home/apt,275,2,1,2015-09-14,0.88,1,352
+4204322,Brand New House on the Westside,18483603,April,City of Santa Cruz,36.97013128747352,-122.0522766192546,Entire home/apt,157,1,16,2015-10-05,3.14,1,274
+8068185,Green Architectural Gem Near Ocean,15792660,Erika,City of Santa Cruz,36.95567058308634,-122.03855620157526,Entire home/apt,500,2,2,2015-10-12,1.28,1,42
+8780391,Heavenly Ocean View Room w/Queen,2326282,Eric,City of Santa Cruz,36.978473176326254,-122.03497702227276,Private room,80,1,0,,,7,364
+8784494,Big Blue Room+Priv Bath+Ocean View,2326282,Eric,City of Santa Cruz,36.97805923134686,-122.03656680145389,Private room,95,1,1,2015-10-11,1,7,364
+8759434,Mission View Room with Queen,2326282,Eric,City of Santa Cruz,36.978218973245006,-122.03681809775073,Private room,75,2,3,2015-10-16,3,7,359
+8287761,Cozy Garden Cottage w/Enclosed Deck,2326282,Eric,City of Santa Cruz,36.9788354383817,-122.03543743320039,Private room,100,2,4,2015-10-16,4,7,358
+8288218,Private studio w/King + Ocean Views,2326282,Eric,City of Santa Cruz,36.97660486077591,-122.03463271131885,Private room,100,2,4,2015-10-16,4,7,352
+769642,Sweet Market Street Farm House,4060026,Beth,City of Santa Cruz,36.986186118009876,-122.01385638735275,Entire home/apt,425,2,29,2015-09-21,1.08,1,59
+3960072,Cozy Guest Bedroom with pool view,20497494,Ronnie,City of Santa Cruz,36.97878801671492,-122.00494566514578,Private room,90,1,33,2015-10-11,2.49,1,363
+2461650,Private Room with garden view,12586608,Caro,City of Santa Cruz,36.98716296059212,-122.01214489923822,Private room,60,2,78,2015-10-11,3.99,1,344
+3301009,Charming Beach Cottage ,8860785,Karen And Dave,City of Santa Cruz,36.978008887779154,-122.01843941634995,Entire home/apt,200,2,6,2014-08-11,0.38,1,38
+1277111,Riverside Ranch: Sun Stucco,6169314,Charlotte,City of Santa Cruz,36.97010670201549,-122.02188625721344,Entire home/apt,141,1,37,2015-09-27,1.36,3,140
+3512448,Riverside Ranch: Lil Loafer,6169314,Charlotte,City of Santa Cruz,36.970472012919295,-122.02012175061981,Private room,65,1,59,2015-09-30,3.79,3,241
+3512699,Riverside Ranch: Simple Studio,6169314,Charlotte,City of Santa Cruz,36.97004075319805,-122.02028168557507,Private room,125,1,53,2015-09-27,3.44,3,139
+4968832,Charming Studio at Seabright Beach,25616709,Annie,City of Santa Cruz,36.96504288056331,-122.00678732371352,Entire home/apt,150,2,9,2015-07-18,0.99,1,288
+2098485,Beach villa with coworking space SC,4440278,Emmanuel,City of Santa Cruz,36.95253777584456,-122.04858709172348,Shared room,65,2,14,2015-09-15,1.13,8,365
+2131622,Cozy room on West Cliff,4440278,Emmanuel,City of Santa Cruz,36.954668192371535,-122.04189828356012,Private room,95,2,10,2015-08-24,0.81,8,350
+4335720,Beach Villa with coworking space,4440278,Emmanuel,City of Santa Cruz,36.954338671983336,-122.04227631243783,Shared room,65,2,19,2015-09-28,1.67,8,344
+4533477,Beach Villa - Ideal Company Retreat,4440278,Emmanuel,City of Santa Cruz,36.95472794466635,-122.04186638654097,Entire home/apt,900,2,10,2015-07-12,0.88,8,360
+4549728,"Surf, Bed and Desk!",4440278,Emmanuel,City of Santa Cruz,36.953359048374686,-122.04366736166655,Private room,100,2,8,2015-09-29,0.73,8,359
+5173949,"Surf, Bed and Desk on West Cliff",4440278,Emmanuel,City of Santa Cruz,36.95378420175607,-122.04333196459565,Shared room,65,2,11,2015-09-29,1.75,8,365
+6748445,"Surf, Bed and Desk",4440278,Emmanuel,City of Santa Cruz,36.9546610254201,-122.04316144418843,Shared room,65,2,5,2015-10-06,1.79,8,365
+8169268,Sunny SC near UCSC trails & Beach,197621,Maria,City of Santa Cruz,36.980329901863904,-122.04223949449398,Private room,70,1,3,2015-10-04,2.50,1,191
+459901,Oceanfront Cottage at Sand's Edge,2286738,Athena,City of Santa Cruz,36.962373343555626,-121.99908534490773,Entire home/apt,395,2,17,2015-09-21,0.45,1,342
+6919996,"Close to Downtown, Beach Boardwalk!",36268971,John,City of Santa Cruz,36.97304170316484,-122.01792090324943,Private room,99,1,31,2015-09-30,8.77,2,358
+8592592,"Surf's Up! Bedroom, Bath,Prvt Entry",1299914,Julie,City of Santa Cruz,36.96078522399332,-122.02898219494972,Private room,125,1,0,,,1,67
+8128566,Garden bungalo a block to the ocean,42924429,Wendy,City of Santa Cruz,36.9535768639256,-122.03636544101494,Entire home/apt,100,1,11,2015-10-12,11,1,0
+7071301,La Casita,13109799,Barry,City of Santa Cruz,36.97221861263497,-122.00923177611926,Entire home/apt,150,3,9,2015-09-29,2.84,1,291
+7581570,Mederteranian Villa by the Beach!,39753936,Jill,City of Santa Cruz,36.96864689979777,-121.99554149052757,Private room,85,1,14,2015-10-04,7.12,1,344
+6544964,Sweet Westside Garden Cottage,15636027,Larissa,City of Santa Cruz,36.961843927081844,-122.0404332313597,Entire home/apt,262,1,20,2015-10-11,4.65,1,293
+8239772,Beach Access Bungalow Queen BR!,42898689,Laina,City of Santa Cruz,36.967370170059496,-121.99866099747831,Private room,125,1,2,2015-09-27,1.40,4,324
+8327364,3BR Beach Access Bungalow!!!!!,42898689,Laina,City of Santa Cruz,36.968524678303716,-121.99929909804216,Entire home/apt,400,1,0,,,4,337
+8124003,Beach Access Bungalow Suite!,42898689,Laina,City of Santa Cruz,36.96814703197722,-121.99884235574456,Private room,175,1,4,2015-09-27,2.79,4,82
+7956054,Eclectic Victorian in Downtown,15621080,Sabina,City of Santa Cruz,36.97382443449161,-122.0218702974143,Entire home/apt,179,2,3,2015-09-21,2.20,3,31
+5970821,Amazing Seabright Beach Cottage,15621080,Sabina,City of Santa Cruz,36.96509910559313,-122.0090703144354,Entire home/apt,412,1,50,2015-10-15,8.33,3,339
+5591226,Adorable Bungalow Close to Beach,15621080,Sabina,City of Santa Cruz,36.96805637249243,-122.04166500894421,Entire home/apt,231,1,65,2015-10-12,9.24,3,109
+8207698,"GARDEN COTTAGE ROOM, BEACH, HARBOR",43221406,Jeff,City of Santa Cruz,36.96875548996755,-121.99599437558483,Private room,159,2,0,,,1,18
+6598289,Walk Downtown and 2 the Beach!!,183118,Amber,City of Santa Cruz,36.970831067204735,-122.0225833869569,Entire home/apt,166,2,2,2015-06-14,0.47,1,0
+1173435,Wonderful Westside Bungalow,615090,Nancy,City of Santa Cruz,36.96415818803888,-122.03994435176458,Entire home/apt,225,2,24,2014-09-14,0.84,1,289
+5826034,Cozy private room on the westside,27018411,Toni,City of Santa Cruz,36.966802829849215,-122.0347071489376,Private room,85,2,43,2015-10-12,6.55,1,335
+6494803,West Cliff Beach Cottage,7429892,Sarah,City of Santa Cruz,36.9528996400992,-122.04088725321472,Entire home/apt,299,2,7,2015-08-17,1.88,1,107
+1873477,Absolute Oceanfront House WestCliff,9761785,Liz,City of Santa Cruz,36.9507437138234,-122.04708784451199,Entire home/apt,450,7,4,2015-08-17,0.41,1,337
+7146209,"Cozy 1BD Apt, Desirable Seabright",37280492,Wendy,City of Santa Cruz,36.97552734521971,-122.01480651288217,Entire home/apt,125,1,20,2015-10-13,6.25,1,315
+4277573,A Holiday Beach Lover’s Delight!,22205329,Roxanne,City of Santa Cruz,36.95579586160768,-122.04462157683434,Entire home/apt,400,5,5,2015-08-08,0.47,1,19
+783264,Sunny Private Room & Bath in SC!,2767719,Barak,City of Santa Cruz,36.976547625196645,-122.01138016412192,Private room,85,1,54,2014-10-22,1.53,1,213
+2970271,Beautiful Victorian Style 4 Bedroom,3005708,Leilani,City of Santa Cruz,36.98414091424939,-122.01149039294882,Entire home/apt,275,3,3,2015-07-09,0.21,1,291
+6316239,THE ULTIMATE S.C. BEACH HOUSE DEAL,4843982,Geoff,City of Santa Cruz,36.9538444161798,-122.05321682821098,Entire home/apt,410,2,3,2015-09-19,1.70,1,316
+1707933,Beach House Bungalow ,4357608,Debra,City of Santa Cruz,36.958278800044745,-122.02712268081306,Entire home/apt,333,2,19,2015-09-15,0.77,1,291
+1671115,Quiet Downtown Cottage ,8847022,Erin,City of Santa Cruz,36.9673080501079,-122.03745455027213,Entire home/apt,120,1,53,2015-09-29,3.12,1,297
+7618654,"Room, kitchen, Bathroom, Patio",5578625,Sophia,City of Santa Cruz,36.961562717458264,-122.0552706788398,Entire home/apt,170,1,9,2015-09-28,3.86,1,365
+1426294,HARBOR/SEABRIGHT BEACH ROOMY STUDIO,3849831,Courtney,City of Santa Cruz,36.96432053632884,-122.00622540601744,Entire home/apt,145,2,61,2015-10-12,2.26,1,263
+3193555,Historic Landmark Walk to Beach,16186915,Nicole,City of Santa Cruz,36.96569109229242,-122.02317399396965,Entire home/apt,495,5,2,2015-08-21,0.88,1,118
+6848562,Comfy Cruz Cottage,1631651,Kim,City of Santa Cruz,36.97293898141076,-122.01466077431878,Entire home/apt,97,1,19,2015-10-12,4.83,1,309
+6871700,Casita Feliz room with view,4460572,Carol,City of Santa Cruz,36.97843071739524,-122.0344338877908,Private room,100,1,13,2015-08-14,3.64,1,82
+4548614,Sea Crest Ocean View Villa,14995134,Derek,City of Santa Cruz,36.9644215273391,-122.02395356359501,Entire home/apt,575,2,11,2015-09-21,1.07,1,301
+6868564,Room near Harbor/Beach,35992744,Kelly,City of Santa Cruz,36.97738136183017,-121.99417089181793,Private room,120,1,20,2015-08-31,5.04,1,118
+65891,5 Min Walk to Ocean! Private Bath,322213,Nicki,City of Santa Cruz,36.95485410344159,-122.03395641520778,Private room,75,1,26,2015-09-28,0.52,2,88
+7419440,Beachy Space for Easy-Going Folks,322213,Nicki,City of Santa Cruz,36.95716072808328,-122.03570868411893,Private room,60,1,18,2015-10-10,6.00,2,42
+3504131,Modern & Cozy Cottage in Seabright,1422840,Mary Beth,City of Santa Cruz,36.975739496756624,-122.01499460662457,Entire home/apt,240,2,32,2015-10-05,2.17,1,355
+5211185,Cozy Private Guest Cottage,23350661,Clifford & Dixie,City of Santa Cruz,36.97452478227445,-122.03734101737254,Entire home/apt,100,1,44,2015-10-12,5.43,1,93
+6823948,Urban Homestead,35606113,Janna,City of Santa Cruz,36.970339016903175,-122.04990380253501,Entire home/apt,223,1,1,2015-07-13,0.31,1,98
+7842149,Centrally located beach cottage,41318343,Stacie,City of Santa Cruz,36.967949026250295,-122.00585477255254,Entire home/apt,105,1,6,2015-10-13,4.19,1,316
+5443660,Downtown 3Bed House Near Boardwalk!,2431602,Nancy,City of Santa Cruz,36.97069967683978,-122.0261339748105,Entire home/apt,300,2,26,2015-09-28,3.80,1,343
+7005026,Studio Cottage at Fairytale Farm,1000105,Debora,City of Santa Cruz,36.971817671435126,-122.02221802986925,Entire home/apt,130,2,8,2015-09-13,2.31,1,119
+1100109,"Beach house, kids will love it!",1188082,Marc,City of Santa Cruz,36.96215486742912,-122.0365971351101,Entire home/apt,275,2,10,2015-08-04,0.37,1,340
+7297333,Relaxing 2BD Downtown Beach Retreat,38043035,Rex & Briana,City of Santa Cruz,36.96831530027099,-122.02496046145251,Entire home/apt,150,1,26,2015-10-13,8.57,3,322
+7297027,Wonderful 4B Downtown Beach Getaway,38043035,Rex & Briana,City of Santa Cruz,36.96854596962285,-122.02497260674406,Entire home/apt,365,1,14,2015-10-07,4.88,3,338
+7265782,Spacious 6 BD Beach Vacation Home,38043035,Rex & Briana,City of Santa Cruz,36.96807519769419,-122.02511335645177,Entire home/apt,485,1,4,2015-10-12,2.07,3,323
+2717838,"Quiet, Green, Great Location",7378635,Jared & Nelly,City of Santa Cruz,36.964400223271745,-122.04045960042292,Private room,88,1,34,2015-10-16,3.83,2,91
+1844326,"Entire House: Beautiful, Convenient",7378635,Jared & Nelly,City of Santa Cruz,36.964708454403066,-122.03829524310345,Entire home/apt,225,2,23,2015-10-11,1.03,2,65
+8743051,Casa de Playa Cozy Cottage!,4142191,Carol,City of Santa Cruz,36.957868917521104,-122.03754282208851,Entire home/apt,75,2,0,,,1,140
+2169315,Private Getaway Beach Cottage,10180211,Carolyn,City of Santa Cruz,36.96730616713915,-121.99947412911213,Entire home/apt,125,1,5,2015-07-06,0.27,2,349
+2539443,Charming Cottage - Walk to Beach!,292341,Rich,City of Santa Cruz,36.95959889668413,-122.03799462577659,Entire home/apt,125,3,3,2015-08-02,0.20,1,251
+7819481,Midtown to All Things Santa Cruz,7016179,Jocelyn,City of Santa Cruz,36.98202284008325,-122.01300286708154,Entire home/apt,145,2,8,2015-10-12,5.71,1,109
+720801,The Coop,10973114,Bruce,City of Santa Cruz,36.9723261029644,-122.00756928831936,Entire home/apt,250,4,25,2015-09-27,0.71,1,237
+6802341,"Hip, Happy, Clean and Cozy Midtown",30016073,LuAnne,City of Santa Cruz,36.97384882334906,-122.02999085045747,Entire home/apt,145,1,1,2015-09-08,0.73,2,32
+3963015,Textile/tea maven's front room,19392318,Pat,City of Santa Cruz,36.97755682000183,-122.03444127981444,Private room,103,1,64,2015-10-12,4.81,1,85
+1720522,Lovely Central Santa Cruz Westside,179559,Nicole & Sam,City of Santa Cruz,36.971604205800155,-122.03855742025011,Entire home/apt,330,8,30,2015-08-31,1.55,1,229
+709637,Sunny Comfy Bedroom in Paradise,3651542,Cathy & Haim,City of Santa Cruz,36.98460780470713,-122.01771331847857,Private room,80,2,76,2015-08-25,2.06,1,273
+2791453,Beautiful Ocean View 1 Bedroom Cott,9038781,Michelle,City of Santa Cruz,36.97906521801028,-122.03661419590254,Entire home/apt,135,2,54,2015-10-14,2.95,1,344
+7150490,Comfortable room near Ocean/Beach,37445037,Sean,City of Santa Cruz,36.972210380807304,-122.05462855290652,Private room,65,1,0,,,1,80
+500754,Whale watching 4 blocks away!,2470681,Laura,City of Santa Cruz,36.95772270857602,-122.04226284855288,Entire home/apt,114,2,76,2015-10-11,1.92,1,277
+4052057,Close to Everything Seabright!,4261488,Hallie,City of Santa Cruz,36.98041248441017,-122.01422144257118,Entire home/apt,245,3,4,2015-09-14,0.34,5,326
+5406135,Cute and Sunny Bungalow,4261488,Hallie,City of Santa Cruz,36.98557036314277,-122.0010825374462,Entire home/apt,325,3,2,2015-07-26,0.55,5,305
+8174101,West Side Santa Cruz Air Mattress,8027024,Jackie,City of Santa Cruz,36.97481968546357,-122.053895757117,Shared room,54,1,5,2015-10-17,3.66,1,362
+5116107,4bd/3ba Seabright Home,26437125,Courtney And Erik,City of Santa Cruz,36.97509865574134,-122.00398426510192,Entire home/apt,325,5,6,2015-08-11,1.73,1,44
+7242559,Santa Cruz Cottage,37921009,Ethan,City of Santa Cruz,36.97146594063036,-122.02096399796886,Entire home/apt,140,1,1,2015-07-27,0.36,1,76
+3210074,"Retreat by the Sea,Family & Pets OK",16264860,Daisy,City of Santa Cruz,36.97310388179937,-122.00616944618648,Entire home/apt,175,3,40,2015-10-13,2.45,1,118
+5355206,Mahalo Cottage,3401444,Ami Chen,City of Santa Cruz,36.9678450218477,-122.04947947683947,Entire home/apt,185,2,29,2015-09-27,3.64,1,14
+7805227,To the Lighthouse,41084896,Kristin,City of Santa Cruz,36.96538761073959,-121.99821701323431,Entire home/apt,275,2,2,2015-09-29,1.22,1,358
+6212543,Sunny Spacious Studio,6349803,Jeannie,City of Santa Cruz,36.97633890476312,-122.0390462180946,Entire home/apt,125,2,14,2015-10-04,3.23,2,166
+5960128,A West Side Beauty for All,6349803,Jeannie,City of Santa Cruz,36.975370860564645,-122.03903829451203,Entire home/apt,210,1,20,2015-09-28,3.17,2,321
+7596419,Beach Studio Close to EVERYTHING,39728971,Paul,City of Santa Cruz,36.965071648797085,-122.01121213392139,Entire home/apt,120,2,8,2015-09-28,3.48,1,307
+4416206,Santa Cruz Beach/Boardwalk Cottage,12554140,Barry,City of Santa Cruz,36.96884917632806,-122.01160262475337,Entire home/apt,250,1,11,2015-08-09,1.21,1,291
+193973,Harbor Studio near Beach Boardwalk,926563,Kirk,City of Santa Cruz,36.965653116577265,-121.99794499471209,Entire home/apt,99,2,111,2015-09-26,2.31,1,329
+2777595,"Boardwalk Beach Oasis, 2bd/2bth",14175116,Laura,City of Santa Cruz,36.96447565124336,-122.02162950254551,Entire home/apt,149,1,53,2015-10-12,3.62,2,335
+4729293,"Boardwalk Beach Boathouse, 1bd/1bth",14175116,Laura,City of Santa Cruz,36.96578545197066,-122.02333802167949,Entire home/apt,185,2,20,2015-09-07,5.04,2,135
+8342650,Nice bedroom near ocean,12296541,Christy,City of Santa Cruz,36.97704518870627,-122.01352881799659,Private room,85,1,1,2015-09-30,1,1,365
+6761103,Sunny room with private bath,35390238,Erin,City of Santa Cruz,36.982175058674486,-122.02393714785008,Private room,85,1,21,2015-09-28,5.16,1,363
+6623286,Central Modern Cottage,6002,Lora,City of Santa Cruz,36.97723858708615,-122.01690471873249,Entire home/apt,162,1,7,2015-08-28,1.74,1,114
+3084796,Seabright Contemporary Studio,4549298,Anina,City of Santa Cruz,36.9753672002103,-122.00488473442981,Entire home/apt,155,3,8,2015-09-21,0.47,1,309
+2256771,Natural Bridges Beach House,11524829,Sue,City of Santa Cruz,36.95310895529505,-122.05375061366826,Entire home/apt,450,3,0,,,1,126
+8550870,"Private Room in Sunny, Modern Home",45011303,Christopher,City of Santa Cruz,36.97773307069809,-122.04876382215687,Private room,41,1,1,2015-09-27,1,1,356
+4461365,"Great home, great location.",17645300,Ron,City of Santa Cruz,36.98103013556316,-122.04336001077887,Private room,95,2,5,2015-07-25,0.99,1,363
+6115705,Sweet studio close to the surf,1699085,Sharon,City of Santa Cruz,36.958151545587945,-122.0453761474878,Entire home/apt,110,1,46,2015-09-26,8.41,1,356
+7970086,Cozy room in a convenient location,36450897,Neva,City of Santa Cruz,36.98756213115111,-122.01456066134918,Private room,89,2,10,2015-10-10,6.25,1,75
+735899,Santa Cruz Oasis with garden jacuzi,3839772,Brooke,City of Santa Cruz,36.981491952955345,-122.00122738441841,Entire home/apt,125,3,0,,,1,9
+6887599,Casita Santa Cruz,34048980,Jaime,City of Santa Cruz,36.961216535890514,-122.03664286164523,Entire home/apt,150,1,21,2015-10-05,5.29,1,328
+885461,Studio Cottage near Cowells Beach,4693031,"Chad, Jodi, Levi & Judah",City of Santa Cruz,36.96573136201154,-122.02259043826908,Entire home/apt,121,1,63,2015-10-04,1.89,2,347
+1043145,Amazing Location blocks to Beach!,4693031,"Chad, Jodi, Levi & Judah",City of Santa Cruz,36.96545247377955,-122.02171493510784,Entire home/apt,275,2,12,2015-07-28,0.44,2,358
+7114567,Modern Sunny Cottage Close to UCSC,277139,Erin,City of Santa Cruz,36.98005757477603,-122.04519753034535,Entire home/apt,175,1,2,2015-10-10,2,1,351
+8473369,Romantic Organic Private Room,34652102,Lisbeth,City of Santa Cruz,36.97229457701295,-122.03888442767119,Private room,115,2,2,2015-10-04,2,1,82
+1088851,The little studio that could.,3848824,Zachary,City of Santa Cruz,36.96506728266291,-122.04097330670419,Entire home/apt,150,2,11,2015-09-08,0.47,1,355
+5670753,Seabright Bungalow,29400443,Kristen,City of Santa Cruz,36.97042218582619,-122.0112212328853,Entire home/apt,130,2,34,2015-10-12,5.02,1,136
+5172298,West Side beach bungalow ,26751111,Ashleigh,City of Santa Cruz,36.96125774135414,-122.03653191183257,Entire home/apt,115,2,41,2015-10-14,4.73,1,133
+558146,Beautiful Santa Cruz Craftsman  ,1368824,Mara,City of Santa Cruz,36.970200837775046,-122.04444061012681,Entire home/apt,300,5,13,2014-09-01,0.34,2,357
+260857,"Santa Cruz, Sanctuary w/ hot tub",1368824,Mara,City of Santa Cruz,36.96851740034842,-122.04461365209333,Entire home/apt,150,2,29,2015-10-01,0.68,2,323
+6852371,"Quiet, Modern, Retreat on Westside",17184038,Julia,City of Santa Cruz,36.974277998106245,-122.04405659469043,Entire home/apt,280,2,0,,,3,330
+6187887,Modern Sunny 4BR Family Retreat,17184038,Julia,City of Santa Cruz,36.97622630310808,-122.042566236502,Entire home/apt,300,2,8,2015-09-21,1.64,3,246
+6263122,Cozy Room on the Westside,17184038,Julia,City of Santa Cruz,36.9756703692258,-122.04266287385022,Private room,112,2,5,2015-09-13,1.06,3,342
+7114022,Downtown Nice room in Gated condoo,21270439,Jian,City of Santa Cruz,36.98011251099593,-122.02774939519314,Private room,55,2,15,2015-08-31,4.59,1,351
+6153857,Master bedroom with Private Bath,4071706,Maggie,City of Santa Cruz,36.98251308729419,-122.04899565863764,Private room,150,1,1,2015-09-07,0.71,1,361
+6644667,The Corner @ Cowell's Beach,34779430,Josie,City of Santa Cruz,36.96304562658388,-122.02352484218504,Entire home/apt,265,2,9,2015-10-05,2.45,1,178
+846127,A Modern Little Retreat In SC,256935,Jason,City of Santa Cruz,36.97742712424384,-122.00492531621833,Entire home/apt,150,2,60,2015-09-28,1.83,1,229
+5761603,Casa de Lake,15878715,Katrina,City of Santa Cruz,36.97655068116448,-122.00191550141696,Entire home/apt,295,7,1,2015-08-22,0.52,1,203
+2243423,Prime Ocean View Santa Cruz,11313862,Kim,City of Santa Cruz,36.957080306234424,-122.02534361375889,Entire home/apt,200,2,19,2015-09-14,1.12,1,245
+6055549,Watercolour Cottage,31426986,Denise & Glenn,City of Santa Cruz,36.95473930553525,-122.03171186668791,Entire home/apt,250,2,7,2015-10-12,1.26,1,200
+458213,"Sand, Surf and Rollercoasters!",2277422,Sydney,City of Santa Cruz,36.96849331543604,-122.01893173336633,Entire home/apt,165,2,54,2015-09-10,1.30,2,67
+1291937,"SUP, Run, Ride..The SURF SHACK!",2277422,Sydney,City of Santa Cruz,36.96741050916971,-122.01712534596881,Entire home/apt,93,2,48,2015-09-13,1.73,2,80
+6026428,Loft/Crash Pad,4097869,James,City of Santa Cruz,36.98645049781318,-122.01475552777511,Shared room,60,1,33,2015-10-04,6.69,1,365
+8132251,Midtown garden duplex ideal locale,19176769,Kimlin,City of Santa Cruz,36.98280142893181,-122.01403218963172,Entire home/apt,120,2,2,2015-09-27,2,1,110
+6673523,Shakti Shack Studio,34928116,Matt,City of Santa Cruz,36.971229958005104,-122.01897810396524,Entire home/apt,125,2,8,2015-09-14,2.89,3,82
+7132408,Maha Garden Bungalow - Downtown!,34928116,Matt,City of Santa Cruz,36.972883599176136,-122.01902526926037,Entire home/apt,325,2,7,2015-09-23,2.00,3,75
+7148288,Cottage + Studio + Garden Oasis,34928116,Matt,City of Santa Cruz,36.97204739706987,-122.01901076780558,Entire home/apt,450,1,2,2015-09-21,0.78,3,75
+7302109,Be a part of our family!,6562410,Brenda,City of Santa Cruz,36.96618806844341,-122.01568610423395,Private room,90,2,9,2015-09-21,3.14,1,360
+5884255,Charming Craftsman with lg. yard,15419860,Angelita,City of Santa Cruz,36.97428187030232,-122.03506898907337,Entire home/apt,150,7,1,2015-08-08,0.43,1,170
+3782424,Oceanfront Artist Cottage,5977652,Barbara,City of Santa Cruz,36.95407679747115,-122.03718238584568,Entire home/apt,260,3,22,2015-09-16,1.55,1,320
+322880,UCSC:Effortless house in prime spot,1653037,Deb,City of Santa Cruz,36.976965558629104,-122.04842585388994,Entire home/apt,375,2,4,2015-07-05,0.25,1,290
+7827584,Spacious Seabright Custom Craftsman,41218767,Beth,City of Santa Cruz,36.988170938857316,-122.00991153976466,Entire home/apt,650,2,2,2015-09-14,1.46,1,350
+266427,"Cozy, modern 3 BR cottage by beach",951619,Rikki,City of Santa Cruz,36.95916472002135,-122.03690583542614,Entire home/apt,265,2,70,2015-09-07,1.48,1,359
+178572,WOW GREAT PRICE BEACH HARBOR HOUSE!,854712,Vacation,City of Santa Cruz,36.96424894703937,-121.99704173961662,Entire home/apt,220,2,79,2015-09-28,1.60,3,324
+1359558,Lighthouse Retreat Santa Cruz!!!,854712,Vacation,City of Santa Cruz,36.955255659617364,-122.03240515448206,Entire home/apt,500,3,13,2015-09-28,0.68,3,187
+2417736,Hidden Treasure Surf Shack,854712,Vacation,City of Santa Cruz,36.95589864733855,-122.02867675193473,Entire home/apt,115,2,98,2015-10-05,5.36,3,302
+8036830,"The Green Door, Sunny Banana Belt!",5642131,Jesse And Rachel,City of Santa Cruz,36.98882535896348,-122.01217307660606,Entire home/apt,250,5,6,2015-10-11,5.45,1,313
+178710,Blocks from the Beach and Downtown,778268,Abra,City of Santa Cruz,36.966399066113794,-122.03468453272755,Entire home/apt,199,3,10,2015-09-29,0.27,1,289
+1240347,Harbor Beach House + Studio/hot tub,6761099,Cynthia,City of Santa Cruz,36.962774868476004,-121.99887859667344,Entire home/apt,245,2,11,2015-10-02,0.66,1,310
+6688183,Sunny Santa Cruz Charmer,35006263,Dan,City of Santa Cruz,36.988854498124766,-122.00720407830373,Entire home/apt,175,2,12,2015-10-11,3.43,1,358
+2314064,Aloha Apartment w/ Spa,11816408,Matthew,City of Santa Cruz,36.95800902828409,-122.02640667276039,Entire home/apt,185,2,94,2015-10-14,4.86,1,338
+6570204,Westside Beach Cottage,33621362,Leigh,City of Santa Cruz,36.961058445608266,-122.03802587017802,Entire home/apt,180,2,3,2015-09-08,0.82,1,116
+4458001,West Cliff Hideaway,23133067,Robin,City of Santa Cruz,36.95644156532233,-122.03812984241739,Entire home/apt,225,2,1,2014-11-26,0.09,1,266
+5374520,Charming Santa Cruz Getaway,23830148,Cissy,City of Santa Cruz,36.985917163528335,-122.00881829328422,Entire home/apt,115,1,63,2015-10-08,7.94,1,338
+1411830,Classic Beach Bungalow - Seabright ,7611557,William,City of Santa Cruz,36.96582105269891,-122.00841658195867,Entire home/apt,280,3,0,,,1,178
+4271784,Bright 2bdr westside home & garden,4733174,Scott,City of Santa Cruz,36.96525175729011,-122.05707609613519,Entire home/apt,200,2,28,2015-09-21,2.26,1,11
+6850634,Santa Cruz-West Cliff-Coastal Home,26901390,Sueanne,City of Santa Cruz,36.95080242103699,-122.0547501290807,Entire home/apt,325,2,13,2015-10-08,3.79,1,332
+70829,Master Bedroom w/ full bath ,360285,Sky,City of Santa Cruz,36.982713162775134,-122.02655253972021,Private room,100,3,166,2015-10-05,2.90,1,152
+7821544,New Condo near Beach and Downtown,170387,Luis,City of Santa Cruz,36.98122377706688,-122.02361282337655,Entire home/apt,120,2,5,2015-09-28,2.46,1,365
+4638127,Clean comfy room by beach etc,15540060,Christopher,City of Santa Cruz,36.9608669930753,-122.04538595825473,Private room,60,1,10,2015-10-03,0.94,1,296
+2818125,Perfect studio close 2 everything,2961472,Micah,City of Santa Cruz,36.96705020224915,-122.04307999581933,Entire home/apt,129,3,14,2015-09-07,0.98,1,323
+4175247,Wonderful Seabright Home Awaits!,21665899,Carolyn,City of Santa Cruz,36.971601822865125,-122.00678589623394,Entire home/apt,250,4,1,2014-12-01,0.09,1,290
+3434777,Mid-Town Family Friendly Home,13216855,John,City of Santa Cruz,36.98092583374067,-122.01669334937064,Entire home/apt,200,3,3,2015-06-02,0.22,1,209
+43785,Guest bedroom in Victorian home,191477,Caroline,City of Santa Cruz,36.97694135436657,-122.03599959848867,Private room,85,1,165,2015-10-11,2.64,1,345
+3636859,West Cliff Wharf View,18341926,Pat,City of Santa Cruz,36.95719113555046,-122.02553789779873,Entire home/apt,495,2,4,2015-09-21,0.30,1,217
+677206,Be Near the Beach and Downtown,3443262,Maryanne,City of Santa Cruz,36.98415523017257,-122.00755582674977,Entire home/apt,175,3,4,2015-10-13,4,1,32
+8761373,"House with hot tub, gym, fire pit",3913512,Jenny,City of Santa Cruz,36.95670425626899,-122.03566160616624,Entire home/apt,175,3,0,,,1,6
+3469485,Sweet Westside Casita del Mar,7308959,Sherri,City of Santa Cruz,36.95047027087524,-122.04609863974214,Entire home/apt,250,3,14,2015-10-01,0.94,1,335
+8579948,"Large Westside Studio, Epic Views",43886073,Krikor,City of Santa Cruz,36.96765558730567,-122.04757268350455,Private room,111,1,0,,,2,309
+8324908,Epic Bay Views in Upper Westside,43886073,Krikor,City of Santa Cruz,36.96760963201603,-122.04767870310859,Private room,98,1,4,2015-10-04,3.33,2,288
+938306,Green Street Bungalow Santa Cruz,5067791,Michael And Mary,City of Santa Cruz,36.97540232548791,-122.03152106680302,Entire home/apt,179,2,14,2015-10-05,1.94,1,303
+3936343,Seabright Hideaway harborview deck,171036,Karen,City of Santa Cruz,36.965131615508604,-122.0058980939847,Entire home/apt,260,3,0,,,1,127
+1411602,Hacienda Almar in West Santa Cruz,7609624,Shelby,City of Santa Cruz,36.96022890395217,-122.04384515006488,Entire home/apt,200,4,5,2015-03-31,0.20,2,287
+1526466,"West Santa Cruz, private  suite",7609624,Shelby,City of Santa Cruz,36.9601885224754,-122.04344099355909,Private room,120,1,87,2015-10-04,3.35,2,85
+6865943,A Bird Song Cottage,35977750,Denise & Glenn,City of Santa Cruz,36.95652613930779,-122.03380582655224,Entire home/apt,350,3,2,2015-09-05,0.58,1,351
+6317885,Westside Home close to UC+Dwntwn,5146239,David,City of Santa Cruz,36.9762910794916,-122.03545738317949,Entire home/apt,155,2,19,2015-10-08,4.35,2,334
+3216894,"Westside Studio, Close to UC+ DWNTN",5146239,David,City of Santa Cruz,36.97747860818331,-122.03377413212337,Entire home/apt,108,2,53,2015-09-07,3.34,2,349
+8113724,Wonderful House by north SC Harbor,9623722,Erika & Harold,City of Santa Cruz,36.98208297411169,-121.99429634325601,Entire home/apt,160,4,0,,,1,45
+3363197,Beachy Westside home to call yours,5038641,Alison,City of Santa Cruz,36.95753194168039,-122.0452124789122,Entire home/apt,300,1,13,2015-04-05,0.86,1,289
+5694324,Sun-flooded Peace of Paradise/UCSC,29515936,Claudia,City of Santa Cruz,36.98084759976055,-122.04135340349718,Private room,75,2,17,2015-08-30,2.43,1,230
+1629040,Nicely's ~ Historic  Victorian Flat,8658341,Nicely'S,City of Santa Cruz,36.97644570684965,-122.03180511299261,Entire home/apt,145,2,33,2015-09-30,1.35,2,319
+4549651,Nicely's ~ Victorian Apartment,8658341,Nicely'S,City of Santa Cruz,36.976269425819055,-122.03237907965358,Entire home/apt,165,2,16,2015-10-01,1.42,2,332
+8402261,"clean, small, gardens, deck, piano",40970408,Joya,City of Santa Cruz,36.95640220372243,-122.0346624052681,Entire home/apt,145,7,0,,,1,6
+8133722,Beautiful Four-Bedroom Craftsman,31945761,Chris,City of Santa Cruz,36.95472621239828,-122.03671039672318,Entire home/apt,500,3,1,2015-10-13,1,1,337
+7618409,"Beautiful large, pet-friendly room!",10200251,Stephanie,City of Santa Cruz,36.971904047806206,-122.03748014264178,Private room,70,1,5,2015-08-24,1.95,1,54
+7111219,Yacht Harbor 1 Block to Seabright,37159601,Arthur,City of Santa Cruz,36.96497953479662,-122.00709486424051,Entire home/apt,250,7,2,2015-08-07,0.71,1,352
+3721400,Spacious house in Santa Cruz. ,7468591,Rachel,City of Santa Cruz,36.96934383632874,-122.05454573033732,Entire home/apt,225,1,1,2015-08-23,0.55,1,305
+3448961,Cozy room Walk to Beach&WestCliffDr,415763,Freddy& Shao,City of Santa Cruz,36.95716176699506,-122.02990928829914,Private room,95,1,45,2015-08-22,2.88,1,18
+1574540,Garden Cottage in the Heart of SC!,4731682,Carla,City of Santa Cruz,36.96798872514198,-122.03261456000494,Entire home/apt,133,1,175,2015-09-11,6.80,1,355
+5168373,Sunny Beach Bungalow ,17478121,Cyndi And Erin,City of Santa Cruz,36.9771657967268,-122.00618355472956,Entire home/apt,225,1,4,2015-08-23,0.49,1,177
+1190701,Garden Cottage Santa Cruz downtown,6505291,Maria,City of Santa Cruz,36.97387866131005,-122.02218824897697,Private room,100,1,119,2015-10-12,4.09,1,289
+3441663,Seabright beach charmer!,1895574,Nick And Mia,City of Santa Cruz,36.97017247876299,-122.00891590607182,Entire home/apt,200,3,55,2015-09-15,3.47,1,140
+2906362,1 Block from West Cliff Dr.,982660,Hamsa,City of Santa Cruz,36.95317176401616,-122.04471708377669,Entire home/apt,150,2,48,2015-10-12,2.74,1,362
+2056872,Downtown Santa Cruz Adventure,4622744,Ahnalisa,City of Santa Cruz,36.97104850429372,-122.02706340736607,Entire home/apt,173,1,105,2015-10-11,4.95,2,360
+4000685,Apartment room close to Boardwalk,20742945,Bunsei,City of Santa Cruz,36.96898610361734,-122.01779164932395,Private room,42,1,25,2015-10-01,2.44,1,346
+867851,Santa Cruz Harbor Hideaway,4567678,Linnaea,City of Santa Cruz,36.970566009378636,-122.00210448434301,Entire home/apt,295,2,0,,,1,24
+1168338,Sunny Backhouse Private Room Beach,654952,Stephanie & Cristiano,City of Santa Cruz,36.96859910229647,-122.01119025876166,Private room,99,2,51,2015-10-04,1.84,1,365
+1657147,Casa De Weeks,8784848,"Meredith, Wallace & Ashby",City of Santa Cruz,36.98973551544249,-121.98730038801716,Entire home/apt,450,1,63,2015-09-28,2.62,1,355
+81528,Private Entry Suite/Gateway to UCSC,119070,Noreen,City of Santa Cruz,36.97710406256287,-122.06057542863766,Private room,80,2,216,2015-10-10,3.94,1,146
+1148478,"Victorian Treasure, Downtown, Rm 9",3756788,Brion,City of Santa Cruz,36.97465022241739,-122.03204738305172,Private room,84,7,2,2015-08-27,0.13,5,321
+1148519,"Victorian Treasure Downtown, Rm 8",3756788,Brion,City of Santa Cruz,36.973211617135284,-122.03163028014653,Private room,84,7,0,,,5,321
+1148574,"Victorian Treasure Downtown, Rm 10",3756788,Brion,City of Santa Cruz,36.97465943226726,-122.03026790974762,Private room,84,7,2,2015-09-30,1.67,5,133
+8000783,"Grand Victorian Bedroom, Rm 2",3756788,Brion,City of Santa Cruz,36.973259123711244,-122.03022154480513,Private room,118,7,0,,,5,100
+726148,"Victorian Treasure Downtown, Rm 6",3756788,Brion,City of Santa Cruz,36.9740089765956,-122.03185032670831,Private room,84,7,1,2013-09-07,0.04,5,295
+7715131,"Quiet, safe, right by the ocean!",40531709,Julie,City of Santa Cruz,36.95511132717867,-122.03449598399408,Private room,50,1,10,2015-09-20,4.48,1,299
+198171,Charming Cottage Very Near Beach,187953,Gail,City of Santa Cruz,36.95474820421825,-122.03868200622959,Entire home/apt,125,2,153,2015-10-08,3.02,1,281
+5136857,Elegant sanctuary near UCSC ,4326632,Lila,City of Santa Cruz,36.98204192241213,-122.04047356006097,Entire home/apt,138,2,9,2015-08-25,1.31,1,306
+6120692,Family-friendly beach retreat,16007622,Katie,City of Santa Cruz,36.965535925197145,-122.04381541819853,Entire home/apt,400,2,3,2015-07-13,0.76,1,62
+1326553,Private Upstairs Beach View Room,1034839,Kim And Mike,City of Santa Cruz,36.961110008970834,-122.02663858203832,Private room,125,2,37,2015-09-14,1.39,1,365
+2933822,West Cliff Wave 4 Bd+ 3.5 Ba ,14980580,Tina,City of Santa Cruz,36.95307759412487,-122.03716850007257,Entire home/apt,599,2,8,2015-10-11,0.57,1,344
+472422,Close to everything,2342894,Lisa,City of Santa Cruz,36.97118084847719,-122.01328054779654,Private room,75,1,8,2015-09-28,1.57,1,327
+4365567,Stylish 1886 Victorian ,22660637,Robin,City of Santa Cruz,36.972337206446134,-122.01513440677579,Private room,175,1,11,2015-07-15,0.93,1,365
+5738536,Quiet Sunny Home near Beaches,9285998,Lynne,City of Santa Cruz,36.961007612698886,-122.03814826585374,Entire home/apt,222,2,2,2015-06-22,0.48,1,184
+6870012,Seabright Cottage,11542280,Grace,City of Santa Cruz,36.96783996637076,-122.0096323000713,Entire home/apt,148,5,3,2015-09-11,1.30,1,354
+3401469,Private bedroom & bathroom,17154585,Tiffany,City of Scotts Valley,37.03684404690413,-122.0418782404749,Private room,200,1,0,,,1,365
+4388931,Spacious Family-Friendly Home,6765021,Jolie,City of Scotts Valley,37.05040931589074,-122.02586798803166,Entire home/apt,300,4,0,,,1,315
+7447278,A nice place to stay~,39004475,Cindy,City of Scotts Valley,37.060813056242274,-122.00271159846095,Private room,60,1,14,2015-10-05,5.45,1,178
+5784008,Santa Cruz LaunchPad - 2 apartments,5733253,M.P.,City of Scotts Valley,37.04442857920572,-122.02009812277292,Entire home/apt,180,14,0,,,2,288
+1041390,Santa Cruz Beach & Hike Launch Pad,5733253,M.P.,City of Scotts Valley,37.044386258942595,-122.01917348196191,Entire home/apt,125,14,22,2014-12-01,0.84,2,320
+8488271,"Sunny Estate, 10min to Santa Cruz!",5054748,Mo,City of Scotts Valley,37.07870309362559,-122.0052772824056,Entire home/apt,645,2,0,,,2,126
+3468177,Close to Wine and Santa Cruz!,11877016,Keith,City of Scotts Valley,37.06139757844306,-121.9979269055385,Private room,69,2,36,2015-01-19,2.37,1,225
+6087875,Lovely Retreat Nestled in the Woods,30536103,Stephanie,City of Scotts Valley,37.07225392659603,-121.98700767780973,Entire home/apt,85,1,57,2015-10-12,9.72,1,273
+2791393,Beautiful Scotts Valley Home,14276348,Sharla,City of Scotts Valley,37.07441240416951,-121.9982230607835,Entire home/apt,150,4,0,,,1,0
+6902347,Cozy home near Monterey/Santa Cruz,36171887,Hilda,City of Watsonville,36.919689054673796,-121.75359059878875,Entire home/apt,220,1,7,2015-09-07,1.88,1,362
+6822194,Private room with private bath -,35729179,Jeanie,City of Watsonville,36.90847591713942,-121.77356424522367,Private room,60,1,20,2015-10-04,5.00,1,355
+3601165,Private room with private bath,18143676,Denise,City of Watsonville,36.938523184414926,-121.78023750094786,Private room,75,2,7,2015-10-01,0.47,1,365
+6499980,Exotic Tiki Room in the Mountains,1456416,Mark & Wendy,Unincorporated Areas,37.16118679543782,-122.01244288674035,Shared room,75,1,16,2015-10-08,3.84,4,365
+6526012,Futon/couch to crash for the night,14878164,Lin,Unincorporated Areas,36.965785662744906,-121.98800528842462,Shared room,38,1,22,2015-10-11,5.20,1,364
+6804355,"Sofa Bed and Hot Tub, Life Is Good!",1456416,Mark & Wendy,Unincorporated Areas,37.160593989813165,-122.01346123372375,Shared room,75,1,9,2015-08-31,2.39,4,365
+593060,Camping on our beautiful land #2,283764,Marianna,Unincorporated Areas,37.02534288276764,-121.97056386315019,Shared room,78,1,50,2015-09-28,1.38,6,365
+1442755,Camping on our beautiful land #3,283764,Marianna,Unincorporated Areas,37.02675451313646,-121.96931332681382,Shared room,78,1,41,2015-10-05,1.51,6,365
+6713120,Beach town home with hot tub (P21),29898175,Brandelia,Unincorporated Areas,36.85409240306416,-121.81110091230528,Entire home/apt,605,2,0,,,32,340
+282149,"Quiet Cabin in the Redwoods,  ",1367921,Peder / Lynn,Unincorporated Areas,37.02027223935945,-122.00251870051264,Entire home/apt,130,2,127,2015-10-01,2.75,4,329
+1323580,Beautiful  Redwood Tree House,1367921,Peder / Lynn,Unincorporated Areas,37.02148724191108,-122.00305659851259,Entire home/apt,115,2,84,2015-10-12,3.07,4,320
+2227819,My Little Retreat,4822408,Melody,Unincorporated Areas,36.979893255683066,-121.92224143785887,Private room,65,1,52,2015-10-11,3.49,1,333
+6005217,Ocean View Charming in Law Studio,17021911,Sarah,Unincorporated Areas,36.96034532323852,-121.89226596602121,Private room,100,3,2,2015-10-06,2,1,363
+183564,APPLE ORCHARD COTTAGE,880252,Sibyll,Unincorporated Areas,37.030961082775725,-121.87275690083771,Entire home/apt,125,2,195,2015-10-11,3.81,1,333
+7004813,Beachgate House,36721545,Danny,Unincorporated Areas,36.97273496021519,-121.9145377455802,Entire home/apt,340,3,2,2015-09-02,1.07,1,357
+535667,Cozy cottage 1 1/2 hours from SF,2632241,Judith,Unincorporated Areas,36.99968582034323,-121.89951274828982,Entire home/apt,120,5,12,2015-08-13,0.38,1,334
+5406477,The Quantum Keep,28027390,Anne,Unincorporated Areas,37.03646617229927,-122.1356036965399,Private room,150,1,6,2015-09-27,0.89,1,364
+7112349,"RV Paradise Rustic, Quiet Retreat",37256983,Tania,Unincorporated Areas,37.069237423562875,-122.13205255376592,Private room,99,1,7,2015-09-27,2.28,2,365
+7008750,Amazing Coastal Beach House!!!,36731699,Olson,Unincorporated Areas,37.01101528158696,-122.19450998360381,Entire home/apt,250,1,16,2015-10-12,4.62,1,365
+5076309,Charming Forest Cabin in Santa Cruz,26214153,Nicholas,Unincorporated Areas,37.000024535862586,-121.97210142205853,Private room,75,1,41,2015-10-10,5.94,1,57
+6432665,Redwood Forest Oasis Santa Cruz/CA1,33576339,Susan,Unincorporated Areas,37.08589333554615,-121.94208254835314,Private room,85,1,18,2015-10-12,3.55,5,334
+6269983,Country Serenity at the Beach,32584346,Allison,Unincorporated Areas,37.0033521752383,-121.95164768711778,Entire home/apt,200,2,14,2015-10-04,3.00,1,311
+2964754,"Charming, Quiet, Updated 2 BDR Home",15128368,Jill,Unincorporated Areas,37.004679128421074,-121.9735698800671,Entire home/apt,420,1,25,2015-09-28,1.67,1,363
+8759787,Mountain Penthouse,45862270,Patricia,Unincorporated Areas,37.16587886334007,-122.0430498561905,Entire home/apt,130,1,0,,,1,339
+5517422,Updated Beach House; Steps to Beach,282520,Jennifer And Delphina,Unincorporated Areas,36.96355692715657,-121.9908184361334,Entire home/apt,250,2,21,2015-10-12,3.10,1,338
+279037,Float in the Womb-Room for a Night,1386806,Jai & Shanti,Unincorporated Areas,37.0839802569191,-122.0740473291671,Private room,288,1,6,2014-11-10,0.21,5,365
+3697261,Fantastic Studio Apartment,8805029,Sally,Unincorporated Areas,36.98020140486557,-121.98212896513039,Entire home/apt,150,2,4,2015-09-07,1.48,1,361
+8306384,Clean and modern cottage in nature,519124,Allie,Unincorporated Areas,36.945748980020745,-121.85347037459903,Entire home/apt,90,2,6,2015-10-10,5.45,1,344
+7389871,Sunny Creek House,38716797,Jessica,Unincorporated Areas,36.993839481284404,-121.95423706275109,Entire home/apt,134,2,12,2015-10-13,4.00,1,163
+3157767,Lovely Mountain Home: Redwood Grove,1584134,Andrea And Karim,Unincorporated Areas,37.05397797116151,-122.11299911642568,Private room,70,1,54,2015-09-16,3.23,2,361
+1083820,Family Home 2 Miles from Capitola!,5853070,Rachel,Unincorporated Areas,36.99427555690822,-121.94465794205419,Entire home/apt,150,3,13,2014-12-27,0.46,1,266
+6810360,Beach Condo (S259),29898175,Brandelia,Unincorporated Areas,36.87394317277261,-121.82193631608497,Entire home/apt,323,1,1,2015-08-17,0.49,32,353
+5835579,Spacious house in the country,26925770,Terri,Unincorporated Areas,37.015374834857646,-122.03226963917776,Entire home/apt,400,2,6,2015-08-17,0.92,2,286
+7986413,"Close to the beach, super private.",42151681,Henry,Unincorporated Areas,36.97169819170024,-121.90530592072093,Private room,65,1,14,2015-09-28,7.92,1,365
+8525115,Queen Room #4 Stunning Oceanfront,20299952,Rick,Unincorporated Areas,36.959046035422794,-121.88848972926394,Private room,119,1,1,2015-10-05,1,4,361
+6436712,Wonderful house a mile to the beach,33600933,Scott,Unincorporated Areas,36.985932497884576,-121.9597843609203,Entire home/apt,175,2,0,,,1,16
+1767298,"Clean, Quiet & Fun in Santa Cruz",4035915,Marta,Unincorporated Areas,36.97259315251904,-121.99429885238509,Private room,85,2,13,2015-09-07,0.55,1,365
+3351870,La Selva Beach Getaway,4153526,Bob,Unincorporated Areas,36.91620109804278,-121.84526141725574,Entire home/apt,400,3,20,2015-09-29,1.28,1,361
+5464196,Your Moment of Zen,4990689,Eden,Unincorporated Areas,37.10373621737795,-121.99011003675798,Private room,59,1,6,2015-09-12,1.62,4,364
+126012,Santa Cruz Mtns. Dragonfly Cottage ,625642,Mary Jane,Unincorporated Areas,37.032772695836236,-121.82553824356759,Entire home/apt,165,1,101,2015-10-06,1.93,2,335
+7107820,Charming single w/ treehouse feel,18770101,Mary,Unincorporated Areas,37.12314457198497,-122.12837473802445,Private room,77,1,8,2015-08-18,2.35,1,48
+6780071,Beach Condo (S11),29898175,Brandelia,Unincorporated Areas,36.87004183193197,-121.82042285743087,Entire home/apt,323,1,4,2015-09-08,1.22,32,343
+7690445,Rivervale Cottage,19680150,Francesca,Unincorporated Areas,37.019573064143664,-121.94814220873675,Entire home/apt,135,1,4,2015-10-12,4,1,328
+7745870,Island in The Sky Cannabis Farm,31182374,Evrett,Unincorporated Areas,37.199418842646466,-122.1187385569659,Entire home/apt,1000,1,0,,,1,365
+6213348,Sunset Cottage,27507663,Valerie,Unincorporated Areas,36.893901547291236,-121.8350494375472,Entire home/apt,250,1,36,2015-10-05,6.43,1,343
+3402754,Charming Seacliff Beach Bungalow,17160585,Michelle,Unincorporated Areas,36.97418849775423,-121.91636030586315,Entire home/apt,195,2,8,2015-10-06,0.55,1,361
+5204965,Between the Mountains and the Sea,26925770,Terri,Unincorporated Areas,37.01387437736718,-122.0332297602109,Private room,100,2,2,2015-04-17,0.30,2,364
+6783174,Quiet luxury,35510349,Jon,Unincorporated Areas,36.97235500136029,-121.98120493971231,Entire home/apt,250,4,0,,,1,123
+72288,Cottage on the Creek/In Redwoods,366768,Quentin,Unincorporated Areas,37.08894803147664,-122.04338181055282,Entire home/apt,138,1,120,2015-10-04,2.14,1,347
+5328145,Aptos by the Sea Vacation Rental,26598591,Myra,Unincorporated Areas,36.97157753408439,-121.90153208349977,Entire home/apt,175,1,1,2015-02-15,0.12,1,365
+5561748,"Beacon Hill, a quiet redwood home",3102026,Lois,Unincorporated Areas,37.05108482620552,-122.05242441399211,Entire home/apt,165,2,8,2015-09-21,1.57,1,306
+6363589,"Wine, Waves and Whimsy - Santa Cruz",3103181,Deven,Unincorporated Areas,37.01896736342375,-122.0286410022725,Entire home/apt,840,4,0,,,1,142
+7616375,Vintage 1949 Boles Aero Trailer,7365505,Miranda,Unincorporated Areas,37.09365946661102,-122.04360983924335,Private room,85,1,10,2015-09-21,3.95,1,351
+776636,Solar Mountain Home in Bonny Doon,4095779,Deb,Unincorporated Areas,37.04272743406064,-122.11460777784109,Entire home/apt,200,2,19,2015-06-16,0.59,1,238
+2026419,Tropical Vibes Vacation House!,2519632,Carly,Unincorporated Areas,36.981514064911366,-121.98851638371818,Entire home/apt,349,3,9,2015-07-27,0.57,1,362
+8366607,The Seacliff House,43908996,John,Unincorporated Areas,36.973181451297535,-121.9147452296633,Entire home/apt,220,2,1,2015-09-28,1,1,73
+1932708,Scenic Redwood Escape (Santa Cruz),9576679,Ed,Unincorporated Areas,37.0511619095738,-122.06165198934684,Private room,59,1,73,2015-10-12,3.33,1,364
+6287990,Sunny Corralitos Private Room/Bath,31597228,Kris,Unincorporated Areas,36.98640626577772,-121.81035997102767,Private room,112,1,10,2015-09-06,2.05,1,314
+7418894,Surfer/Artist dream- steps to Beach,243816,Sarah,Unincorporated Areas,36.96361659795081,-121.99244077530615,Private room,99,1,5,2015-09-28,1.79,1,365
+153903,Redwood Treehouse Santa Cruz Mtns.,625642,Mary Jane,Unincorporated Areas,37.03122973421395,-121.82498837919744,Entire home/apt,125,1,353,2015-10-11,6.79,2,78
+4530644,"Walk to the Beach, Forest & Shops",20501528,Chenoa,Unincorporated Areas,36.981331976834305,-121.90655544385541,Private room,78,1,69,2015-10-01,6.12,1,342
+1718098,Escape to Paradise in the Redwoods!,9058325,Judy,Unincorporated Areas,37.11797745934432,-122.11255484839087,Entire home/apt,125,1,44,2015-09-21,1.78,1,346
+7747065,Yurt on 2-acre Organic Family Farm,1744923,Halimah And Rachmat,Unincorporated Areas,37.046707188838276,-121.93273213788522,Entire home/apt,150,1,6,2015-09-06,3.00,1,303
+2728864, Santa Cruz Getaway!!!,7821705,Zafer,Unincorporated Areas,36.965641251759436,-121.97842851336699,Entire home/apt,140,1,18,2015-07-10,1.10,1,122
+4359359,Small 1 bedroom Apartment,10183815,Bruce,Unincorporated Areas,36.95832246094709,-121.81335416122748,Entire home/apt,150,1,17,2015-10-13,1.52,1,14
+3528626,The Best of Everything!,17764953,Terry,Unincorporated Areas,36.96348327010204,-121.8850415038369,Private room,165,1,0,,,1,359
+4334663,Tree Tops Bike Touring: Corralitos,3095808,Christine,Unincorporated Areas,37.06608231251959,-121.83422796109598,Entire home/apt,250,2,0,,,5,333
+7623284,Private Cottage in Aptos Village,39989538,Joseph,Unincorporated Areas,36.97793441759583,-121.89967542593504,Entire home/apt,140,2,0,,,1,27
+1764264,Your Happy Place Mountain Treehouse,4201732,Tonia,Unincorporated Areas,37.17169497277976,-122.14583142988884,Entire home/apt,200,1,10,2015-09-28,0.45,1,355
+1515902,Sweet Santa Cruz Surf Haven,8094165,Cori,Unincorporated Areas,36.96699689179261,-121.98461334894495,Entire home/apt,110,2,146,2015-10-17,6.88,2,327
+4084990,Little Country Home,8925464,Aaron,Unincorporated Areas,36.97248304546831,-121.72628463030988,Entire home/apt,140,3,20,2015-10-11,1.59,1,313
+781854,Private Cottage Overlooking Creek,1532811,Michele,Unincorporated Areas,37.0339212955527,-122.01958138717652,Entire home/apt,92,1,101,2015-10-14,2.91,1,336
+7548302,RV 1 Santa Cruz Mtns Bonny Doon,37256983,Tania,Unincorporated Areas,37.070070074186454,-122.13102218310493,Private room,60,1,3,2015-09-27,2.20,2,365
+160717,"Soquel Village, Monterey Bay Home",769772,Angel,Unincorporated Areas,36.98651101010899,-121.9581173195847,Entire home/apt,160,2,18,2015-07-20,0.47,1,350
+5749165,Brand new Modern Airstream,20410194,Ted,Unincorporated Areas,37.03775626162422,-122.06667126549218,Private room,180,1,10,2015-09-06,1.47,1,365
+2210179,Room+Private Bath  Capitola*Soquel,9247975,Sandy,Unincorporated Areas,36.995723710562615,-121.95236368491783,Private room,100,1,20,2015-10-12,3.17,1,84
+6362877,King and single bed. Private entry,31554586,Larry,Unincorporated Areas,37.03588606464415,-122.00895013803729,Private room,99,1,23,2015-09-28,4.45,3,365
+6079138,Queen Bed in scenic view home,31554586,Larry,Unincorporated Areas,37.03579965626835,-122.0097052142756,Private room,89,1,16,2015-09-28,3.14,3,362
+6362712,Master Suite Panoramic Views,31554586,Larry,Unincorporated Areas,37.0352795623186,-122.01040388580957,Private room,119,1,13,2015-10-15,3.10,3,365
+8357,Mushroom Dome Cabin: #1 on airbnb,24281,Kitty And Michael,Unincorporated Areas,37.007180809887615,-121.88423857279582,Entire home/apt,110,1,735,2015-10-06,9.67,1,239
+892364,Tranquility for the Night and Day,484150,Pete,Unincorporated Areas,36.97496046154226,-121.98264253699189,Private room,95,1,165,2015-10-05,4.95,3,362
+467721,Lovely Bedroom and Labyrinth by Bay,484150,Pete,Unincorporated Areas,36.97246725798878,-121.98080214226651,Private room,85,1,222,2015-10-12,5.38,3,355
+5193718,Harmony & Labyrinth by the Bay,484150,Pete,Unincorporated Areas,36.97345506885279,-121.97982191310632,Private room,110,1,72,2015-10-12,9.64,3,358
+6676809,A Total Coastal Experience!,13709231,Marc,Unincorporated Areas,36.87274996955209,-121.82277416969855,Entire home/apt,250,2,10,2015-09-28,2.50,1,333
+3834400,Sunny Hilltop Room w/ private bath,3154611,Johaan,Unincorporated Areas,36.99515658676828,-121.94857906802197,Private room,129,2,30,2015-09-21,2.18,1,339
+7006825,Charming Room - Walk to Downtown,36678810,Amy,Unincorporated Areas,37.12108226827372,-122.12188803443001,Private room,69,1,14,2015-10-10,4.04,1,330
+7638068,Secluded retreat near the beach!,40075801,Sarah,Unincorporated Areas,36.985213616621934,-121.94987045336774,Entire home/apt,195,2,6,2015-10-13,2.77,1,362
+1663396,Peace and Quiet in the Mountains ,4990689,Eden,Unincorporated Areas,37.10513609416071,-121.98858565833052,Private room,89,1,50,2015-09-28,2.47,4,363
+1510613,Mountain Haven near Silicon Valley,4990689,Eden,Unincorporated Areas,37.103184269991424,-121.9877150484413,Private room,59,1,41,2015-09-28,1.59,4,363
+927471,Pause and Reflect at Voss Gardens,4990689,Eden,Unincorporated Areas,37.10485496374804,-121.98838496495313,Private room,97,1,43,2015-09-08,1.67,4,365
+6362218,A Nice Place to Sleep,19756468,Sam,Unincorporated Areas,37.116704977001156,-122.10144589369999,Private room,55,1,52,2015-09-29,10.26,2,106
+6478476,A Nice Place to Sleep: x6,19756468,Sam,Unincorporated Areas,37.117289482362935,-122.1014313711731,Private room,65,1,19,2015-10-03,6.26,2,359
+2817021,The Lavender Room  (in Rustic Barn),283764,Marianna,Unincorporated Areas,37.025562484503894,-121.97202035714164,Private room,114,2,13,2015-08-03,0.76,6,365
+59313,Rustic Sunset View Room on Mountain,283764,Marianna,Unincorporated Areas,37.02408005604757,-121.97099841235995,Private room,114,2,36,2015-09-21,0.65,6,365
+478589,Barn loft -beautiful sunset view,283764,Marianna,Unincorporated Areas,37.02442166221671,-121.97103408242154,Private room,149,2,24,2015-09-15,0.58,6,362
+477075,Camping on our beautiful land #1,283764,Marianna,Unincorporated Areas,37.0260341531773,-121.97072190777568,Shared room,78,1,57,2015-09-21,1.37,6,365
+2809175,ABOUT A VIEW  Relax And Romance!,12423508,Paula,Unincorporated Areas,36.96726449403042,-121.88114291925088,Entire home/apt,125,2,81,2015-10-05,4.67,1,313
+2621363,Great Family Get Away!,13425260,Jennifer,Unincorporated Areas,37.147126997615786,-122.14875837754997,Entire home/apt,275,5,12,2015-10-03,0.78,1,330
+8688179,Blacks Beach Retreat,45617858,Laurie,Unincorporated Areas,36.96262923130934,-121.9933561547942,Entire home/apt,275,2,0,,,1,167
+622407,Romantic Villa Soquel Santa Cruz CA,1854884,Daniel & Kathy,Unincorporated Areas,37.053138370390194,-121.93727871771824,Entire home/apt,795,2,35,2015-09-13,0.90,1,343
+7897651,Stay by the Beach and Capitola!,41640220,Paulette,Unincorporated Areas,36.98600469088118,-121.9565799098066,Private room,65,1,15,2015-10-16,8.04,1,72
+5815842,Creekside Cabin,29166224,Pamela,Unincorporated Areas,36.98909573508822,-122.15024792952319,Entire home/apt,147,2,45,2015-09-24,6.96,1,116
+5249098,Bedroom w/ private bath & entrance,27165548,Eduardo,Unincorporated Areas,36.97123370605174,-121.88471316639637,Private room,89,1,28,2015-10-12,3.44,1,364
+8705192,Redwood Forest Oasis Santa Cruz/CA3,33576339,Susan,Unincorporated Areas,37.08636316416886,-121.94438368748388,Private room,85,1,0,,,5,335
+6451709,Redwood Forest Oasis Santa Cruz/Bd2,33576339,Susan,Unincorporated Areas,37.08610526885965,-121.9433493394117,Private room,85,1,20,2015-10-02,4.08,5,339
+6451682,Redwood Forest Oasis Santa Cruz/Bd1,33576339,Susan,Unincorporated Areas,37.08757409220638,-121.94199779926576,Private room,85,1,12,2015-10-13,2.81,5,339
+6455270,Redwood Forest Oasis Santa Cruz/CA2,33576339,Susan,Unincorporated Areas,37.08733618503798,-121.94251677907309,Private room,85,1,13,2015-09-27,3.07,5,335
+3439173,Aptos Forest Retreat~Guest Studio,17332040,Delia,Unincorporated Areas,37.00021085875002,-121.8982023557363,Entire home/apt,155,1,53,2015-10-11,3.84,1,328
+6965724,Cozy Modern Condo in Santa Cruz,28003849,Charles & Carmen,Unincorporated Areas,36.992267139584214,-121.97162653112625,Entire home/apt,275,2,4,2015-09-07,1.26,1,114
+11879,Sunny room close to beach and parks,44764,Steven,Unincorporated Areas,36.981862344063124,-121.88114119601104,Private room,75,2,6,2015-09-30,0.10,2,365
+56867,Sunny quiet home near Beach & Park ,44764,Steven,Unincorporated Areas,36.98467039978721,-121.88741136386368,Entire home/apt,200,3,51,2015-09-21,1.63,2,357
+4455582,Mountain Retreat w/Pool & Views,3984634,Gregory,Unincorporated Areas,37.04049637620571,-121.85254221142968,Entire home/apt,450,3,15,2015-09-15,1.41,2,354
+4615746,Sweet Mountain (Ocean Views!),3984634,Gregory,Unincorporated Areas,37.04059241852439,-121.85390594770557,Entire home/apt,299,3,27,2015-09-08,2.57,2,362
+3757411,Poolside Retreat Aptos Hills,13793185,Linda And He Is Larry,Unincorporated Areas,36.9562758585847,-121.83033163484278,Private room,200,1,23,2015-10-10,1.57,2,364
+2694981,Cozy Santa Cruz Treehouse View room,13793185,Linda And He Is Larry,Unincorporated Areas,36.957453122825264,-121.83016924128393,Private room,175,2,8,2015-08-17,0.55,2,358
+49523,Small room with shared bathroom,225721,Christine,Unincorporated Areas,36.96318949529234,-121.82194677320096,Private room,75,2,121,2015-09-26,2.14,2,360
+49520,Guest Cottage with shared bath,225721,Christine,Unincorporated Areas,36.96324669944249,-121.82091261416561,Private room,99,2,98,2015-09-21,1.87,2,350
+6821803,Beach Condo (S275),29898175,Brandelia,Unincorporated Areas,36.87438172623495,-121.82336535530294,Entire home/apt,317,2,0,,,32,345
+6810032,Beach Condo (S196),29898175,Brandelia,Unincorporated Areas,36.87356947894014,-121.82298483744906,Entire home/apt,295,1,6,2015-09-14,2.02,32,353
+6822125,Beach Condo (S299),29898175,Brandelia,Unincorporated Areas,36.875410070952064,-121.8228666732985,Entire home/apt,295,1,1,2015-09-21,1,32,365
+6809157,Beach Condo (S51),29898175,Brandelia,Unincorporated Areas,36.87175809170945,-121.82001003947532,Entire home/apt,323,1,1,2015-08-16,0.48,32,347
+6809271,Beach Condo (S66),29898175,Brandelia,Unincorporated Areas,36.87099471863092,-121.81997568056167,Entire home/apt,439,2,1,2015-09-28,1,32,336
+6809680,Beach Condo (S183),29898175,Brandelia,Unincorporated Areas,36.87394892776724,-121.82174457220239,Entire home/apt,323,2,3,2015-07-20,0.77,32,319
+5955532,"Beach House, Pajaro Dunes (H81)",29898175,Brandelia,Unincorporated Areas,36.856257090114624,-121.8119255144361,Entire home/apt,670,1,4,2015-09-08,0.66,32,312
+6044203,ON BEACH & OCEAN VIEW HOUSE (H58),29898175,Brandelia,Unincorporated Areas,36.864468463890795,-121.81723830561371,Entire home/apt,420,1,8,2015-08-29,1.35,32,341
+6761306,Beach House (H98),29898175,Brandelia,Unincorporated Areas,36.85899229414129,-121.81490583333805,Entire home/apt,648,2,1,2015-08-03,0.39,32,213
+6361793,Ocean view shorebird 263,29898175,Brandelia,Unincorporated Areas,36.87425918464375,-121.8226123968161,Entire home/apt,433,1,2,2015-08-17,0.45,32,339
+6659455,"Pelican 26, Pajaro Dunes",29898175,Brandelia,Unincorporated Areas,36.85236229269823,-121.81038432494175,Entire home/apt,447,1,1,2015-09-08,0.75,32,349
+6539925,Oean Front Condo (P56),29898175,Brandelia,Unincorporated Areas,36.85299762290549,-121.80953462175391,Entire home/apt,310,1,6,2015-08-17,1.29,32,350
+6558264,Beach House (139),29898175,Brandelia,Unincorporated Areas,36.86106655004777,-121.81449359833083,Entire home/apt,541,1,2,2015-08-24,0.63,32,339
+6042140,Ocean View - Pelican 43,29898175,Brandelia,Unincorporated Areas,36.8516908676391,-121.80965915878882,Entire home/apt,433,1,3,2015-09-08,0.62,32,345
+6715172,Beach Townhouse (Cypress 5),29898175,Brandelia,Unincorporated Areas,36.86669489894623,-121.81930293961513,Entire home/apt,480,1,3,2015-09-29,1.34,32,360
+6716088,Beach House (H47),29898175,Brandelia,Unincorporated Areas,36.85567413479794,-121.81230786100086,Entire home/apt,782,2,1,2015-08-31,0.61,32,307
+6715845,Beach house - private swimming pool,29898175,Brandelia,Unincorporated Areas,36.86063935643116,-121.81549295257376,Entire home/apt,723,1,0,,,32,290
+6715619,Beach House (H17),29898175,Brandelia,Unincorporated Areas,36.862691915764245,-121.81695854835758,Entire home/apt,577,2,0,,,32,357
+6715446,Beach House (H16),29898175,Brandelia,Unincorporated Areas,36.86439611015373,-121.8172337964115,Entire home/apt,466,1,0,,,32,361
+6765378,Beach Condo (P12),29898175,Brandelia,Unincorporated Areas,36.854150222828125,-121.80980205839771,Entire home/apt,332,1,1,2015-08-31,0.61,32,343
+6766006,Beach Condo (P34),29898175,Brandelia,Unincorporated Areas,36.852903482151284,-121.8118686679353,Entire home/apt,443,1,1,2015-07-18,0.32,32,331
+6765192,Beach House (H126),29898175,Brandelia,Unincorporated Areas,36.85770405360733,-121.81334867322064,Entire home/apt,463,2,0,,,32,323
+6766236,Beach Condo (P68),29898175,Brandelia,Unincorporated Areas,36.852974535550906,-121.81051709398307,Entire home/apt,462,2,0,,,32,330
+6779052,Beach Condo (P70),29898175,Brandelia,Unincorporated Areas,36.8531334962921,-121.8103784763588,Entire home/apt,537,2,1,2015-07-09,0.29,32,352
+6779182,Beach Condo (P80),29898175,Brandelia,Unincorporated Areas,36.851942407250576,-121.8094981451211,Entire home/apt,428,1,2,2015-08-10,0.71,32,345
+6810274,Beach Condo (S245),29898175,Brandelia,Unincorporated Areas,36.874691198197134,-121.8227994723269,Entire home/apt,290,2,3,2015-09-08,1.11,32,332
+6808804,Beach Condo (S25),29898175,Brandelia,Unincorporated Areas,36.87217300681712,-121.82230430224443,Entire home/apt,478,1,4,2015-08-31,1.00,32,352
+6809514,Beach Condo (S175),29898175,Brandelia,Unincorporated Areas,36.873573129618784,-121.82290801820287,Entire home/apt,292,2,0,,,32,359
+6810159,Beach Condo (S199),29898175,Brandelia,Unincorporated Areas,36.873212755268256,-121.8221117602429,Entire home/apt,323,1,0,,,32,360
+1597218,"Walk to beach, Farmers Mkt & more!",6605977,Nona,Unincorporated Areas,36.975168460823916,-121.98325598610343,Private room,95,1,19,2014-08-17,0.78,1,288
+8294604,500 feet from the ocean/Rio del Mar,11589109,Myriam,Unincorporated Areas,36.970411424067166,-121.90484820622177,Entire home/apt,222,2,1,2015-10-12,1,1,365
+2410612,Studio Apt in the Mountains,1610262,Betsy,Unincorporated Areas,37.0987417225162,-121.92663226742216,Private room,79,2,36,2015-07-23,1.82,1,281
+3961176,Santa Cruz Forest meets the Ocean,20529561,Scarlett,Unincorporated Areas,36.98275149175354,-121.90102174993709,Private room,99,1,14,2015-10-12,2.23,1,364
+8169720,California Bungalow by the Beach!,339129,Michelle,Unincorporated Areas,36.982723600269324,-122.11023236294025,Entire home/apt,350,7,0,,,2,364
+7714591,Charming house-short walk to beach,39739203,Peter,Unincorporated Areas,36.96417073711878,-121.89126987394357,Entire home/apt,150,2,7,2015-09-27,3.39,1,326
+7806728,"ocean view, large LR, 2 pianos",25438539,John,Unincorporated Areas,36.98551683105944,-121.91111716080168,Entire home/apt,125,1,0,,,1,65
+2413121,Charming Private Studio,12333777,Patricia,Unincorporated Areas,36.9944122167471,-121.98122449717458,Private room,90,2,28,2015-09-15,1.72,1,251
+3230056,Lovely Garden Studio in Santa Cruz,16347782,Collette,Unincorporated Areas,36.98243178025779,-121.974938533342,Entire home/apt,125,2,17,2015-09-27,1.04,1,43
+2764760,Sunny redwood forest cottage,5620286,Joe,Unincorporated Areas,37.08095288328769,-122.09000147106258,Entire home/apt,165,1,126,2015-10-10,6.92,1,322
+3394782,Sunshiny Moments Retreat,17125870,Elaine,Unincorporated Areas,37.11517445388012,-122.11825494892946,Private room,95,1,16,2015-10-12,1.01,1,327
+3876424,Redwoods Hike/Bike Trains Beaches!,18581436,Roger,Unincorporated Areas,37.04734142227491,-122.0759154428088,Private room,88,1,52,2015-10-11,3.73,1,164
+1374966,Dramatic Ocean Views! ,7450526,Dennis,Unincorporated Areas,36.97600903788019,-121.91941095454519,Entire home/apt,485,3,7,2014-10-14,0.33,1,235
+5870218,Mountain Retreat,29115039,Dale,Unincorporated Areas,37.09274817949156,-122.1285005561848,Entire home/apt,169,1,8,2015-10-06,5.00,1,342
+6991457,Chalet Apt. in Santa Cruz Mountains,36655296,Neal,Unincorporated Areas,37.11587691010143,-121.98591816512895,Entire home/apt,70,1,18,2015-10-08,4.78,1,318
+229219,Victorian Guest Cottage- Sleeps 6,851487,Tamara,Unincorporated Areas,37.121552935758025,-122.12354340614542,Entire home/apt,169,2,31,2015-08-30,0.79,1,354
+4198800,Queen Room #3 Stunning Oceanfront,20299952,Rick,Unincorporated Areas,36.960453417496865,-121.88980275423927,Private room,119,1,16,2015-09-24,1.30,4,359
+4094148,Oceanview Suite #1 has private deck,20299952,Rick,Unincorporated Areas,36.96050322917572,-121.88838241760104,Private room,179,1,15,2015-10-12,1.13,4,362
+4094285,"King Bed & Bath #2, Oceanfront Home",20299952,Rick,Unincorporated Areas,36.95880338219573,-121.88794259894458,Private room,159,1,18,2015-09-21,1.40,4,362
+5826459,Private Aptos Studio,29833983,Samantha,Unincorporated Areas,36.97246746800471,-121.87172078146014,Entire home/apt,110,1,60,2015-10-13,9.47,1,134
+1403860,Sunny Nature Retreat Close to SC,38878,Sarah And Cyndi,Unincorporated Areas,37.07250119780961,-122.0557017019096,Entire home/apt,155,1,74,2015-09-28,7.47,1,257
+813667,Country living near the sea!,4276065,Brent,Unincorporated Areas,37.02039886737446,-121.99337184748013,Entire home/apt,250,2,29,2015-01-19,1.09,1,303
+2176390,Beauty and privacy in a cozy cabin,10172987,Aura,Unincorporated Areas,37.0560821124031,-122.15985709817862,Entire home/apt,150,2,82,2015-10-13,3.83,1,345
+7401690,Either one or Two Bedrooms.,38781493,Ron &      Lynn,Unincorporated Areas,37.059044275096504,-122.06026912729469,Private room,79,1,3,2015-09-21,1.88,1,45
+1226199,Rio Del Mar Beach House,5402402,Jeff,Unincorporated Areas,36.968132308984444,-121.89610716690602,Entire home/apt,200,2,124,2015-10-02,4.33,1,326
+3162725,Seacliff Beach area home,16044232,Larry,Unincorporated Areas,36.979637788770994,-121.91942276052056,Private room,115,1,6,2015-07-25,0.37,1,365
+794383,"Hilltop Redwood Retreat, Peaceful",4185216,Pat,Unincorporated Areas,37.04627896789603,-122.15958158627407,Private room,99,1,25,2015-05-04,0.77,1,344
+2546630,Big Trees Cabin,594432,Nicole,Unincorporated Areas,37.093499397512616,-122.14526027673683,Entire home/apt,135,2,90,2015-10-13,4.83,1,327
+7404661,Private Charming Garden Apartment,38802841,Jackie,Unincorporated Areas,36.999839370767084,-121.94982836460764,Entire home/apt,165,2,10,2015-09-28,3.45,1,335
+264341,B&B WELL near the Ocean & Redwoods,1386806,Jai & Shanti,Unincorporated Areas,37.08246531338724,-122.0718895304382,Private room,108,1,37,2015-08-24,0.80,5,363
+164951,Flotation & LifeStyle Coaching ,1386806,Jai & Shanti,Unincorporated Areas,37.08339896814107,-122.07408228836881,Private room,188,7,1,2012-07-30,0.03,5,365
+164950,The defining California eXperience,1386806,Jai & Shanti,Unincorporated Areas,37.082770723359474,-122.07248833486672,Private room,98,1,42,2015-08-31,0.89,5,365
+1399217,Flotation and Regeneration B&B,1386806,Jai & Shanti,Unincorporated Areas,37.08375777800492,-122.07262524609787,Private room,108,1,15,2015-08-23,0.55,5,365
+7601043,Beautiful Vacation Paradise,39858185,Noemi,Unincorporated Areas,37.00642381836131,-122.07556978947142,Entire home/apt,575,1,4,2015-09-15,1.60,1,363
+7064606,Surfer Suite in Aptos Ca.,18333870,Chris,Unincorporated Areas,36.98042810849707,-121.90121057261725,Private room,50,2,5,2015-10-16,3.00,2,354
+3635771,Ocean view getaway,18333870,Chris,Unincorporated Areas,36.98036819892329,-121.90043143739022,Entire home/apt,150,7,0,,,2,364
+6600398,"Bed-like futon in ""outdoor room""",21923495,Monica,Unincorporated Areas,36.964393316590325,-121.896165364401,Private room,111,1,0,,,1,138
+7385092,Beautiful Sunny Redwood Home,38685646,Joshua,Unincorporated Areas,37.00696763565261,-122.07660507289111,Entire home/apt,329,2,7,2015-09-06,2.53,1,361
+3506001,Big Trees Tree House Studio,6217311,Carmel,Unincorporated Areas,37.04836090247019,-122.06368367040481,Private room,110,3,7,2015-07-18,0.64,2,305
+6611330,Big Trees Top Floor,6217311,Carmel,Unincorporated Areas,37.046212008699925,-122.06347172164719,Private room,70,1,0,,,2,365
+7260396,Studio Cabin in Santa Cruz Redwoods,38011482,Fern River,Unincorporated Areas,37.03845906185458,-122.06852348892679,Entire home/apt,160,1,0,,,4,333
+7260807,1 bedroom river view cabin,38011482,Fern River,Unincorporated Areas,37.038079398411476,-122.06959838764483,Entire home/apt,220,1,0,,,4,338
+7261248,Family style one bedroom cabin,38011482,Fern River,Unincorporated Areas,37.03809756020519,-122.06982431562864,Entire home/apt,245,1,0,,,4,337
+7261593,2 bedroom cabin overlooking river,38011482,Fern River,Unincorporated Areas,37.03851780743979,-122.06783433981774,Entire home/apt,276,1,1,2015-08-15,0.46,4,339
+7331789,Private Soquel Studio with own yard,38412117,Derek,Unincorporated Areas,36.98607871368257,-121.9541072693447,Entire home/apt,190,2,14,2015-10-05,4.94,1,362
+6766306,Rio Del Mar Beach & Golf,30238240,Smokes,Unincorporated Areas,36.970492670905145,-121.89612948354038,Entire home/apt,375,2,0,,,1,104
+8868359,Charming & Quiet Guest House,5054748,Mo,Unincorporated Areas,37.08008276775502,-122.00603470743461,Entire home/apt,145,2,0,,,2,362
+7621652,Beach and Forest Retreat,39871372,Joe,Unincorporated Areas,36.97878677062873,-121.8955315777862,Entire home/apt,190,2,1,2015-09-07,0.71,1,53
+329934,Studio cabin w/kitchen and bath,1683875,Mark,Unincorporated Areas,37.193694131434995,-122.16081855874931,Entire home/apt,75,1,53,2015-09-27,1.32,1,362
+803241,Eco Cottage Near The Beach,4227407,Dee,Unincorporated Areas,36.971689815277784,-121.98568860563948,Entire home/apt,200,2,10,2015-07-27,0.35,2,230
+2764789,Cozy guest room in Eco-Cottage,4227407,Dee,Unincorporated Areas,36.97309156660612,-121.98403324497664,Private room,85,1,5,2015-08-18,0.32,2,287
+1788572,Sunny room with deck near the beach,6397347,Cheri,Unincorporated Areas,36.94749189296595,-121.87186265243875,Private room,99,1,40,2015-10-12,1.70,1,316
+5958736,"Peaceful, Sunny Zayante",2062509,Karen And Hans,Unincorporated Areas,37.08869746901053,-122.04634254913009,Private room,61,2,24,2015-10-06,3.96,1,360
+5128309,Vista Delfino - on Monterey Bay,26510674,Karen,Unincorporated Areas,36.967929235314614,-121.90254724908641,Entire home/apt,266,2,12,2015-10-13,1.71,1,328
+354356,Bio Chic Cabin in the Redwoods,998440,Suncere,Unincorporated Areas,37.041297855096246,-121.80461861552449,Entire home/apt,90,2,59,2015-09-21,1.42,1,323
+7958381,Magical Mount Hermon Cabin!,24766441,Paul,Unincorporated Areas,37.0495540870806,-122.05878700391425,Entire home/apt,150,2,3,2015-10-04,1.84,1,331
+7135112,Private House with Backyard,22373391,Brendan,Unincorporated Areas,36.97427538676261,-121.98927636984618,Entire home/apt,139,1,4,2015-10-12,1.20,1,81
+6225307,"Close to ocean, beautiful home",29249612,Mckenzie,Unincorporated Areas,36.98667548928739,-121.9723021510654,Entire home/apt,400,3,4,2015-09-08,0.82,1,349
+5720704,Sunset room with Private Bathroom,29660573,Megan,Unincorporated Areas,36.977908987958294,-121.98922946750638,Private room,85,1,38,2015-10-03,7.45,1,300
+307066,Savasana Studio/ Surfer's retreat,1579843,Cindy,Unincorporated Areas,36.972620572461935,-121.98992509322639,Entire home/apt,146,1,21,2015-10-11,2.56,1,361
+7095243,Stay in a Seaside Village!,2390746,Greg And Emily,Unincorporated Areas,36.98831579400212,-121.95350715218977,Private room,149,1,9,2015-10-04,2.55,1,365
+1654837,Private Room w/ Private Bath- Aptos,7028732,Derik And Angela,Unincorporated Areas,36.970828717638156,-121.81969885735361,Private room,119,1,4,2014-08-16,0.17,4,365
+1292600,2 Bedroom Home in Aptos,7028732,Derik And Angela,Unincorporated Areas,36.9716408687975,-121.81924023225928,Entire home/apt,169,1,20,2015-09-14,0.82,4,358
+6432311,Simple and Sweet Garden Studio,7028732,Derik And Angela,Unincorporated Areas,36.97033083931136,-121.82072696807377,Entire home/apt,89,1,8,2015-09-22,1.90,4,364
+6433749,3 Bedroom Home in Aptos,7028732,Derik And Angela,Unincorporated Areas,36.97075643436177,-121.82034196900793,Entire home/apt,269,2,2,2015-09-28,0.41,4,361
+3825873,Shiphouse on lagoon with Ocean view,19533246,Betty,Unincorporated Areas,36.962637738949354,-121.97924464461644,Entire home/apt,495,1,8,2015-10-03,1.92,1,359
+1115611,Studio near Rio Del Mar beach,6123009,Dorian,Unincorporated Areas,36.97001929895923,-121.90122173508757,Entire home/apt,110,2,79,2015-10-07,2.65,1,211
+1080652,Estate Guest House on Vineyard,5944077,Judy,Unincorporated Areas,37.00108434158462,-121.87586987510635,Entire home/apt,250,2,37,2015-09-27,1.26,2,362
+7271704,Private guest room with sun porch,5944077,Judy,Unincorporated Areas,37.00067313810597,-121.8758817534826,Private room,165,2,5,2015-09-14,2.11,2,359
+2777663,Spectacular Home / Steps From Beach,9110967,Scott,Unincorporated Areas,36.97208328418645,-121.90536295638184,Entire home/apt,219,7,25,2015-09-08,1.47,1,316
+5467323,Country cottage on a family farm,27601154,Chris And Crissy,Unincorporated Areas,37.04051646568294,-121.94090720898753,Entire home/apt,239,2,19,2015-10-11,3.02,1,348
+1130859,"Welcome to the ""P/C"" B and B!",6204338,Polly And Cecily,Unincorporated Areas,37.06778323869097,-122.06947332126545,Private room,95,1,22,2015-09-21,0.81,1,362
+6715784,Cozy Studio in the Woods ~Near Town,35161529,Angela,Unincorporated Areas,37.12911943616635,-122.12109908632361,Entire home/apt,85,1,44,2015-10-12,10.39,1,76
+2063105,Sunny 3BR Townhouse near Harbor,10557911,Jessica & Josh,Unincorporated Areas,36.97682480999105,-121.99272124037107,Entire home/apt,158,3,7,2015-08-03,0.45,1,302
+1619825,"Beach, Bocce & Brie",8614655,Chris,Unincorporated Areas,36.95165926806229,-121.87404904479416,Entire home/apt,200,2,7,2015-08-30,0.41,1,353
+8524882,Charming Seacliff Beach Rental,44888921,Maryann,Unincorporated Areas,36.97671560162714,-121.91932972679857,Private room,125,2,2,2015-10-13,2,1,359
+6556266,Sunny spacious room for July,9850750,Kristin,Unincorporated Areas,36.9773660594372,-121.98617244037393,Private room,50,21,0,,,1,118
+6207096,Private Room in a Mountain Oasis,1456416,Mark & Wendy,Unincorporated Areas,37.16239171521848,-122.01431839476518,Private room,75,1,11,2015-10-05,2.66,4,365
+6785234,Room with a Mountain Valley View,1456416,Mark & Wendy,Unincorporated Areas,37.15976495971857,-122.01331145511311,Private room,99,1,11,2015-10-05,2.95,4,327
+6911216,"Lovely Room, Vacation on its Own!",36217665,Judy,Unincorporated Areas,37.09216826807976,-122.01926777578795,Private room,97,2,11,2015-10-12,4.07,1,356
+3940520,Popup camper at your campsite,11215134,Nick,Unincorporated Areas,37.023490628451974,-122.05374444818484,Entire home/apt,90,2,4,2015-10-11,0.78,1,365
+1056992,Hear the Waves Walk to the Beach,5822076,Paul,Unincorporated Areas,36.962949990671596,-121.99162164102997,Entire home/apt,145,2,55,2015-09-27,1.85,1,349
+4128590,La Selva Beach Townhome,21417405,Kristin,Unincorporated Areas,36.92198547321668,-121.85173904839777,Entire home/apt,265,7,3,2015-08-07,0.28,1,324
+7729884,Family Friendly Aptos Beach House,16634939,Tamara,Unincorporated Areas,36.947569391336515,-121.87153569929296,Entire home/apt,240,2,0,,,1,86
+1614319, Soquel Estate- Guest Apartment,8588388,Conway,Unincorporated Areas,36.999820337015436,-121.95356942127606,Entire home/apt,125,1,131,2015-09-21,5.46,1,363
+4966083,Lovely views from Aptos Beach home!,25600081,Sylvia,Unincorporated Areas,36.973685741512035,-121.91717874278432,Entire home/apt,304,2,38,2015-09-14,4.52,1,334
+7998310,(Star)   Redwood Treehouse,1367921,Peder / Lynn,Unincorporated Areas,37.02158622788271,-122.00527917601825,Entire home/apt,130,2,6,2015-10-14,6,4,334
+295430,Love Shack Cabin in the Redwoods  ,1367921,Peder / Lynn,Unincorporated Areas,37.020620776093615,-122.00215869584854,Entire home/apt,120,2,102,2015-10-07,2.35,4,327
+3768501,RDM Coastal Studio with Patio ,19309318,Liz,Unincorporated Areas,36.97383042570066,-121.90349866159555,Entire home/apt,120,2,89,2015-10-05,6.11,1,339
+4203295,A Beach Getaway to Remember,16499165,Rima,Unincorporated Areas,36.95165846782669,-121.87780249862443,Entire home/apt,300,4,3,2015-08-31,0.65,1,337
+7264046,Seaside Haven - 1 block from Ocean,38030658,Shyamal,Unincorporated Areas,36.964119559412865,-121.9931973867119,Entire home/apt,275,2,4,2015-10-04,4,1,324
+8391779,La Selva Beach House - Ocean Views,42060021,Siobhan,Unincorporated Areas,36.92299674504469,-121.8542826247033,Entire home/apt,400,3,0,,,1,167
+7402522,Private Room in Beach cottage,38787840,Romy,Unincorporated Areas,36.979746286832906,-122.14129159931201,Private room,110,1,5,2015-09-22,1.83,1,244
+8486050,Seascape Resort Villa - Ocean Views,28997564,Kristen,Unincorporated Areas,36.947867401597115,-121.87469741059304,Private room,250,3,1,2015-10-14,1,1,341
+6391173,Romantic Cabin *Slow Coast Getaway*,6619968,Dick,Unincorporated Areas,37.07412391836419,-122.22936467179882,Entire home/apt,185,1,33,2015-10-12,7.33,1,350
+6882307,"Hip, Happy, Clean and Cozy Midtown",30016073,LuAnne,Unincorporated Areas,36.9880234019728,-121.97198283364604,Private room,100,1,11,2015-08-22,2.92,2,365
+6744521,A Loft in the Woods,23773742,Suzanne,Unincorporated Areas,37.05288005758208,-121.81090814596462,Entire home/apt,225,2,6,2015-09-08,1.98,1,365
+3499002,Family Room converted to a Studio,17618022,Junellen,Unincorporated Areas,36.96640804815109,-121.8895078389975,Private room,133,3,0,,,1,365
+7801671,La Selva Beach Gazebo Room,16794337,Cheryl,Unincorporated Areas,36.91555217867161,-121.84314111993987,Private room,80,1,15,2015-09-21,6.72,1,72
+704828,Sunny Bedroom in Aptos Home,3621086,Kim And Claudia,Unincorporated Areas,36.97851311273804,-121.86944249339356,Private room,60,1,83,2015-10-04,2.26,1,348
+5133605,Cozy 1 bed/bath: extra room options,5818166,Theresa,Unincorporated Areas,36.93313774899973,-121.73202723954891,Private room,60,2,6,2015-09-27,1.24,1,349
+3932648,"Penthouse Beach Studio Flat, Views!",10341402,Jeanell,Unincorporated Areas,36.977221506999136,-121.92510960917626,Private room,335,1,44,2015-10-03,3.57,2,362
+2022861,Studio with a view!!   OCEAN VIEW!!,10341402,Jeanell,Unincorporated Areas,36.97807484635543,-121.92449095720755,Private room,245,1,63,2015-09-27,2.93,2,360
+8524319,Beach Front Home in Rio Del Mar,44883800,Jaleh,Unincorporated Areas,36.967231651316254,-121.90291306938185,Entire home/apt,495,3,0,,,1,298
+6328594,"Soquel, 3 acres with an ocean view",18331371,Nick,Unincorporated Areas,37.01917163549647,-121.96954384781023,Entire home/apt,250,1,0,,,1,177
+494132,Private Room Near Beach & Forest,3177,Jenni & Doug,Unincorporated Areas,37.0029755173419,-121.95846689336224,Private room,70,1,110,2015-07-10,2.68,1,350
+2227827,"2-Bdrm Cottage, 2 Blocks from Beach",11150526,Daniel,Unincorporated Areas,36.96253031401072,-121.98609450400026,Entire home/apt,175,3,45,2015-09-14,2.13,1,77
+4752906,Quiet Country Cottage Studio,22071917,Greg,Unincorporated Areas,36.987795777508644,-121.82377049806904,Entire home/apt,125,3,14,2015-09-29,1.63,1,350
+8739457,Davenport Surf/Windsurf Home,45849004,Ginaia,Unincorporated Areas,37.02460382361693,-122.21330080855759,Entire home/apt,600,2,1,2015-10-07,1,1,76
+1112592,Secluded Guest House in Redwoods,2559992,John,Unincorporated Areas,37.12686986555104,-121.95038796263694,Entire home/apt,125,1,25,2015-09-21,0.86,1,259
+5010424,Gorgeous house with sweeping views,25584998,Pippa,Unincorporated Areas,37.123562807256846,-121.93692740376969,Entire home/apt,295,2,8,2015-10-04,1.36,1,297
+6038788,beautiful 3 bedroom house,1156806,Marie-Helene,Unincorporated Areas,37.006566669547375,-121.9736198060551,Entire home/apt,150,5,1,2015-06-22,0.25,1,158
+7679958,"Private Suite/Studio, Garden View",40305695,Susan,Unincorporated Areas,37.00459363356651,-121.85592069666438,Entire home/apt,145,2,7,2015-10-11,3.13,1,87
+3209807,Modern Ocean View 2 BD w Parking.,16262596,Sundeep,Unincorporated Areas,36.96905653712392,-121.9004825231117,Entire home/apt,300,2,43,2015-10-12,2.63,1,342
+207329,"Sunny, Spacious and Modern Home",918166,Sun,Unincorporated Areas,36.9644887183532,-121.98316417187884,Entire home/apt,485,2,75,2015-10-04,1.50,1,340
+2131116,Sunny & Lush- Room w/Pvt Bath/Entry,10872663,Tamara,Unincorporated Areas,36.979863563814554,-121.97606567190542,Private room,80,2,98,2015-10-10,4.58,1,349
+6591651,Minutes from everything!,17478337,Tammy,Unincorporated Areas,36.987988060692444,-121.9851764809595,Entire home/apt,154,1,3,2015-08-30,1.61,1,224
+575686,The Glass House in the Redwoods,967879,Sarah,Unincorporated Areas,37.01121429671584,-121.9727434495105,Private room,105,2,103,2015-10-09,2.65,4,324
+576159,The Zen Suite in the Redwoods,967879,Sarah,Unincorporated Areas,37.0170070893672,-121.97368603204151,Private room,130,2,89,2015-10-11,2.29,4,343
+592850,The Library House in the Redwoods,967879,Sarah,Unincorporated Areas,37.01751258764492,-121.97544113963505,Entire home/apt,95,2,104,2015-10-13,2.69,4,292
+576135,The Pool House in the Redwoods,967879,Sarah,Unincorporated Areas,37.01692020288252,-121.97502606766594,Entire home/apt,115,2,119,2015-10-09,3.05,4,320
+4183047,Sunny Cove Ocean View Beach House,1805801,Michelle,Unincorporated Areas,36.96078268183115,-121.99000284299865,Entire home/apt,395,4,4,2015-08-24,0.92,1,325
+8907554,Your (brand new) Private r-Pod!,4371635,Renata,Unincorporated Areas,36.99211118842064,-121.97866879973112,Entire home/apt,62,1,0,,,1,364
+2817824,Aptos Beach House-perfect getaway!,14414366,Betty,Unincorporated Areas,36.973006819922006,-121.9022762937086,Entire home/apt,225,2,38,2015-10-12,3.32,1,299
+6502369,Oceanfront Condo at Pajaro Dunes,24413952,Lindemann & Sloan,Unincorporated Areas,36.87320245362088,-121.82287802114081,Entire home/apt,388,2,8,2015-09-27,2.29,8,361
+5040377,Seascape Resort Condo,24413952,Lindemann & Sloan,Unincorporated Areas,36.94912733438855,-121.87536425912374,Entire home/apt,342,2,12,2015-10-10,1.97,8,347
+5047650,Rio Del Mar Beach House,24413952,Lindemann & Sloan,Unincorporated Areas,36.96928270565098,-121.90222750744852,Entire home/apt,225,2,6,2015-09-23,0.85,8,360
+5077702,Right On The Beach!,24413952,Lindemann & Sloan,Unincorporated Areas,36.96848652093328,-121.90553816842608,Entire home/apt,435,7,0,,,8,85
+357502,Rio Del Mar Beach Vacation Home,1809140,Brian,Unincorporated Areas,36.97264650883639,-121.90370332974089,Entire home/apt,385,2,12,2015-01-16,0.30,1,355
+3577232,WHAT A GREAT SPOT,18015874,Cora,Unincorporated Areas,36.99338625404111,-121.89603348990576,Private room,60,1,35,2015-10-10,2.31,1,325
+3330188,I heart this beach house! ,16810605,Allyson,Unincorporated Areas,36.96357870892386,-121.99215533642852,Entire home/apt,325,2,35,2015-09-27,2.21,1,352
+6398904,Master bedroom with Private Bath,16911560,Tim,Unincorporated Areas,36.9755072953054,-121.98758888092044,Private room,100,1,15,2015-08-07,3.19,1,224
+438893,Nisene Marks Dreamin - Surf & Turf!,1819852,Barry,Unincorporated Areas,37.00391676428708,-121.9107379782388,Private room,95,1,101,2015-09-25,2.63,2,357
+2332702,Nisene Marks Dreamin'- Cabin Fever!,1819852,Barry,Unincorporated Areas,36.99995229561909,-121.91090992128393,Entire home/apt,120,1,70,2015-09-14,3.72,2,352
+861986,SECRET GARDEN SANCTUARY Rio Del Mar,4080570,Karen,Unincorporated Areas,36.96863891289042,-121.8815999609038,Entire home/apt,125,2,273,2015-10-12,8.18,1,347
+5395988,Jasmine Studio by Beach-Deck&Garden,17966712,Marie Grace,Unincorporated Areas,36.96496626128025,-121.98674270752865,Entire home/apt,95,5,72,2015-10-12,9.08,3,141
+3569024,Jasmine Garden by Beach Peach Room,17966712,Marie Grace,Unincorporated Areas,36.96479521507345,-121.98444436011411,Private room,70,5,29,2015-10-12,5.37,3,155
+5241384,Jasmine Garden by Beach Ginger Room,17966712,Marie Grace,Unincorporated Areas,36.965266850638834,-121.98641144441426,Private room,60,5,54,2015-10-12,6.86,3,145
+6724971,Redwood Retreat,35171310,Maralise,Unincorporated Areas,37.12912238286323,-122.13528687840586,Private room,55,1,0,,,1,297
+562550,Santa Cruz Mountains Paradise,976416,Justin,Unincorporated Areas,37.06504641418092,-122.06868219962419,Private room,170,2,42,2015-09-29,1.05,2,361
+200203,Heaven on Earth.  Gardens & Views,976416,Justin,Unincorporated Areas,37.06499985453073,-122.0712497363359,Private room,175,2,88,2015-10-12,1.74,2,358
+1722167,"""Vista"" private room and bath",7324423,Roger And Nancy,Unincorporated Areas,37.07972474643081,-122.06864688495136,Private room,84,2,94,2015-09-28,3.77,2,361
+1349898,"The ""Garden"" private room and bath ",7324423,Roger And Nancy,Unincorporated Areas,37.08114176614179,-122.0693085679793,Private room,97,2,65,2015-09-26,2.80,2,361
+4313934,Otter Cove Santa Cruz - Entire Home,12294223,Ryan & Anna,Unincorporated Areas,36.96582246156077,-121.98935896700668,Entire home/apt,170,2,1,2015-09-28,1,2,13
+8011367,Otter Cove Santa Cruz,12294223,Ryan & Anna,Unincorporated Areas,36.965689172491274,-121.98764484388418,Private room,70,2,5,2015-10-16,3.26,2,34
+1063273,Unique Rustic Adobe Retreat on Pond,5232045,Joe,Unincorporated Areas,36.976848448479785,-121.83663054949425,Entire home/apt,349,2,57,2015-04-19,1.96,1,105
+744215,Santa Cruz / Soquel pool ocean view,3900261,Jerome,Unincorporated Areas,36.99081967981793,-121.94588331663735,Entire home/apt,425,2,52,2015-09-13,1.69,1,340
+7202564,New! Redwood Treetop House,3486400,Tara,Unincorporated Areas,37.0980181303317,-122.05888061297495,Entire home/apt,178,2,15,2015-09-27,4.89,1,0
+4803817,Redwood Retreat,24748533,Freddie,Unincorporated Areas,37.040215557479904,-122.07775260095826,Private room,110,1,46,2015-10-11,4.78,1,361
+3604928,Ridgetop guesthouse with ocean view,17835103,Anne Marie,Unincorporated Areas,37.06451643105998,-121.96639429986989,Entire home/apt,160,2,85,2015-10-11,6.49,1,153
+7310827,Secret Garden Cottage,26389231,Kate,Unincorporated Areas,36.972543027522114,-121.98259460536723,Entire home/apt,95,1,15,2015-10-11,4.84,1,54
+3513480,Forested quiet close-in Tram Access,12504463,Jack And Barbara,Unincorporated Areas,36.99760902307376,-122.03429751097971,Private room,140,1,21,2015-10-05,1.41,1,365
+4457905,Endless summer in Santa Cruz,14550501,Justine,Unincorporated Areas,36.963688572284646,-121.98362496113815,Private room,89,1,24,2015-10-04,2.20,1,50
+5615090,Walk to Beach!  Private rm & bath,4982560,Joan,Unincorporated Areas,36.97132698180761,-121.90151184516827,Private room,75,2,16,2015-09-28,2.44,1,44
+7545339,Country B&B-Private Entrance & Bath,39537085,Kelly,Unincorporated Areas,36.96977732443369,-121.84591531013139,Private room,90,1,4,2015-09-27,2.93,1,64
+4968178,Riversong: A Serene Forest Estate,25612193,David,Unincorporated Areas,37.12513210538129,-122.12075636979297,Private room,125,1,0,,,1,364
+3799756,"Beach, garden, privacy & breakfast",1322031,Mary And John,Unincorporated Areas,36.970881963214495,-121.91011943038379,Private room,99,1,49,2015-10-05,3.39,1,332
+170147,Seascape BEACH w/o the price,810921,Cathy,Unincorporated Areas,36.95164125545678,-121.87133871674565,Private room,95,1,57,2015-09-26,1.38,1,361
+4774897,Cozy Bohemian Castle in Rio Del Mar,7384560,Britain And Suzanne,Unincorporated Areas,36.95423986990045,-121.86863052909345,Entire home/apt,575,2,3,2015-09-07,0.37,1,316
+1806815,Fairy Tale Cottage in Happy Valley,8763473,Laecee,Unincorporated Areas,37.05303279267274,-121.96895518926245,Entire home/apt,119,2,91,2015-10-05,3.76,1,351
+5590859,15 minute walk from Seacliff Beach.,4049150,Mima,Unincorporated Areas,36.97939703631201,-121.92155071783873,Private room,80,1,78,2015-10-02,10.64,2,333
+767685,15 Minute Walk to Seacliff Beach.,4049150,Mima,Unincorporated Areas,36.979453278071134,-121.92229429027627,Private room,75,1,60,2015-10-03,8.53,2,338
+604260,Bali-by-the-Beach...time for you!,503289,Joan,Unincorporated Areas,36.967637907594344,-121.90358339798891,Entire home/apt,300,2,26,2015-09-28,0.76,1,356
+8353398,Seascape Resort Getaway,42063904,Steven,Unincorporated Areas,36.9477327186081,-121.87756106513308,Entire home/apt,250,2,0,,,1,357
+4908139,"Beach Town, Breathtaking View!",25270059,Sharon,Unincorporated Areas,36.965948266973584,-121.8742162859868,Private room,85,1,55,2015-10-02,6.16,2,179
+5202359,Breathtaking View in Beach Town!,25270059,Sharon,Unincorporated Areas,36.96754824974859,-121.87382920625599,Private room,65,2,9,2015-10-03,3.70,2,219
+4628613,"Santa Cruz -Bonny Doon, lovely view",23750136,Carrol,Unincorporated Areas,37.05236673955273,-122.1503409275763,Entire home/apt,100,5,2,2015-09-30,0.55,1,100
+8504218,Studio 6 min to Ocean Redwoods Town,44780713,Brent,Unincorporated Areas,37.000210540676925,-122.03350568496798,Private room,62,1,0,,,1,49
+908725,Hillside House - Spectacular View,4757185,Ethan,Unincorporated Areas,36.968301997239095,-121.87585842573353,Entire home/apt,240,5,12,2015-01-03,0.38,1,65
+302800,Cottage Nestled in the Redwoods,1547341,Jay & Linda,Unincorporated Areas,37.05362111258362,-121.96085793980994,Entire home/apt,175,2,129,2015-09-29,2.86,1,146
+6163682,One Room Cabin Paradise,4341653,Faith,Unincorporated Areas,37.039824725158475,-121.96057367123186,Entire home/apt,135,4,1,2015-06-30,0.27,1,40
+1808082,Family-Friendly Blue Sparrows' Nest,668791,Kischka & Julie,Unincorporated Areas,36.982967694479015,-121.98441350760275,Entire home/apt,95,3,29,2015-10-05,1.33,1,260
+4330293,Cozy and Dog Friendly!,4942804,Lynn,Unincorporated Areas,36.979021497745954,-121.98136131375634,Entire home/apt,165,2,35,2015-10-11,3.12,1,158
+8739499,Charming private country cottage,45848930,Margaret,Unincorporated Areas,36.980104992564804,-121.76957905877683,Entire home/apt,69,1,0,,,1,0
+8050054,Romantic getaway to Seascape Resort,34077636,Ling,Unincorporated Areas,36.94772410278882,-121.8736934217884,Entire home/apt,400,2,1,2015-09-22,1,1,358
+1267007,"Santa Cruz! Hike, bike and surf!",6896737,Katrin,Unincorporated Areas,37.01361686564676,-121.89954095153747,Private room,89,1,54,2015-05-19,1.93,1,289
+2150339,"Work, Play & Stay by the Beach...",10974040,J.R.,Unincorporated Areas,36.982268263815335,-121.9219448961901,Entire home/apt,85,2,65,2015-09-28,3.21,1,355
+350780,Couples get-a-way,173208,Mark & Hope,Unincorporated Areas,37.1035673869564,-121.9446836218623,Private room,145,2,20,2015-09-07,0.49,1,365
+2160069,Private Hilltop Santa Cruz Retreat,11022806,Lorraine And Dan,Unincorporated Areas,37.018674179271244,-121.9669239734761,Entire home/apt,900,2,57,2015-10-04,2.74,1,316
+8614620,Nicola Brigham Massage and Ayurveda,45317653,Nicola,Unincorporated Areas,37.05727458583924,-122.15017047384971,Private room,100,1,1,2015-10-04,1,1,353
+6145553,Sawmill: 80 year old cabin,19144270,Tiffany,Unincorporated Areas,37.175414684867505,-122.14354741484638,Entire home/apt,79,1,30,2015-10-13,8.41,1,299
+1583739,Beautiful and Quiet Private Bedroom,8435603,Olga,Unincorporated Areas,37.04434277724052,-122.05907306319375,Private room,95,2,17,2015-08-24,1.16,1,342
+4672990,Coastal Getaway at Corcoran Lagoon,24172250,Marisa,Unincorporated Areas,36.96543947289331,-121.97816450701357,Entire home/apt,150,2,30,2015-10-12,3.11,1,71
+7367792,Nice room in beautiful house Aptos,6483049,Susy,Unincorporated Areas,36.971979988301534,-121.89585979483395,Private room,80,1,7,2015-10-05,2.53,2,361
+7367785,Nice cosy room overlooking garden.,6483049,Susy,Unincorporated Areas,36.97010530314739,-121.89506974527376,Private room,61,1,23,2015-10-04,8.21,2,102
+1947803,"Retreat in Redwoods-remote,no hikes",10073068,Mary,Unincorporated Areas,37.017246014854955,-121.75766909278285,Entire home/apt,147,2,37,2015-09-07,2.01,1,47
+2144665,Copper Tub Cottage,8049432,Peggy,Unincorporated Areas,37.002129831668746,-121.9522426286227,Entire home/apt,115,2,207,2015-10-12,10.21,1,316
+7545334,"Room w/ private bath, orchard views",6474513,Gaylialynn,Unincorporated Areas,36.97335786515252,-121.89101922426353,Private room,95,1,5,2015-10-04,3.06,1,89
+6212354,Happy At The Beach,25435785,Patie,Unincorporated Areas,36.95307448587959,-121.8813383280928,Entire home/apt,250,2,14,2015-10-09,3.31,1,140
+6885497,Adorable New Beachside Studio,27388906,Claudia & Berkeley,Unincorporated Areas,36.962256943930015,-121.98638097890733,Entire home/apt,149,2,10,2015-09-13,3.09,2,278
+6886161,Stunning New Luxury Beach House,27388906,Claudia & Berkeley,Unincorporated Areas,36.96170895296354,-121.98821457286506,Entire home/apt,429,2,19,2015-10-11,5.23,2,273
+8731277,BEACH FRONT WITH WONDERFUL VIEWS,45813675,Paul,Unincorporated Areas,36.873718669640596,-121.82070281673352,Entire home/apt,205,2,0,,,1,273
+3685496,"Full studio, private, peaceful.",16961983,Cathy And Stanley,Unincorporated Areas,36.98950800941738,-121.85903605669118,Entire home/apt,95,1,63,2015-10-08,4.53,1,349
+2888976,Stunning View Villa,9148894,Jeremy,Unincorporated Areas,36.98889244952643,-121.94883986182398,Entire home/apt,599,2,20,2015-09-07,1.17,1,358
+3782749,"Steps to Beach, Comforts of Home",1442004,Lisa,Unincorporated Areas,36.96784505022736,-121.89926905027836,Entire home/apt,135,2,39,2015-10-12,5.37,1,311
+2131819,The Joy of Coastal Mountain Living!,10041181,Ed,Unincorporated Areas,37.04929840312251,-122.14351436072509,Entire home/apt,198,2,48,2015-10-12,2.83,1,344
+454433,9 MILES NORTH OF SANTA CRUZ  OH YA?,2094237,Michael,Unincorporated Areas,37.012157799062436,-122.19573797373641,Entire home/apt,165,1,66,2015-10-11,1.59,1,339
+642235,House in the woods near Santa Cruz!,2938647,Paul And Kimberly,Unincorporated Areas,37.05850473010012,-122.05178484648609,Entire home/apt,120,1,10,2014-08-11,0.67,1,289
+8447677,Cozy room in my home,44476704,Lis,Unincorporated Areas,37.04731080957457,-122.07388876320782,Private room,75,1,0,,,1,358
+6327728,3b/2ba Luxury House 1.5mi to beach,9745970,Irina,Unincorporated Areas,36.97164132053217,-121.88086240864568,Entire home/apt,202,5,4,2015-09-16,1.17,1,342
+3091967,Lovely Mountain Home: Oak Lodge,1584134,Andrea And Karim,Unincorporated Areas,37.04819623773714,-122.12348644001158,Private room,70,1,92,2015-09-18,5.41,2,359
+7984515,Retreat Sanctuary near Santa Cruz,42142546,Olivia,Unincorporated Areas,37.0173036534822,-122.11097797831493,Private room,85,2,0,,,1,44
+7577328,Beach Cottage Getaway,38681274,Aaron,Unincorporated Areas,36.96145209453415,-121.89228335280137,Entire home/apt,175,1,31,2015-10-08,13.10,1,281
+5458764,Relax riverside in the redwoods,28313981,Steve & Mary,Unincorporated Areas,37.10746352333416,-122.10394789365188,Private room,72,1,43,2015-08-17,6.14,1,335
+6506761,SLOWCOAST Cabin Retreat - Big Basin,247322,Dana,Unincorporated Areas,37.076187771117986,-122.24188394906042,Entire home/apt,300,2,17,2015-09-26,4.02,2,342
+8100497,The SLOWCOAST Lodge Coastal Retreat,247322,Dana,Unincorporated Areas,37.075935702064164,-122.24173446321663,Entire home/apt,800,4,2,2015-09-13,1.50,2,357
+7305047,Big Basin State Park House,34305335,Theresa,Unincorporated Areas,37.17472801285622,-122.19078391738161,Entire home/apt,250,3,1,2015-08-02,0.38,1,103
+3344780,Phase Farm and Pottery,16882807,Faye,Unincorporated Areas,36.97644780191509,-121.88658353066377,Private room,79,1,74,2015-10-05,4.66,1,152
+8843702,Walk to the beach!,46309828,Kate,Unincorporated Areas,36.96695198578549,-121.89559889708451,Private room,150,1,0,,,1,345
+6092699,"Aptos, CA Beach House-Oceanfront!",11854678,Laura,Unincorporated Areas,36.9736875818916,-121.91412525617838,Entire home/apt,250,1,0,,,1,158
+8028796,"Serene Redwood Mountain Retreat,",13006473,Timothy,Unincorporated Areas,37.01929048243887,-122.00946315284622,Entire home/apt,295,4,0,,,2,365
+2540028,"Beautiful Mountain Retreat, Hot Tub",13006473,Timothy,Unincorporated Areas,37.01935248992851,-122.01059655375674,Entire home/apt,295,4,8,2015-09-13,0.50,2,365
+2042883,KALO FRIEDA COTTAGE BY THE SEA,9651188,Diane,Unincorporated Areas,36.96129091986533,-121.88916687151965,Entire home/apt,100,26,0,,,1,365
+3687389,Penthouse 1500sq ft Hot Tub,4463558,Susan & David,Unincorporated Areas,37.11212041410722,-122.10259056558647,Private room,312,1,13,2015-09-14,0.87,8,360
+3256476,Code Camp Santa Cruz Mountains,4463558,Susan & David,Unincorporated Areas,37.11378392107165,-122.10417497257116,Entire home/apt,1850,1,0,,,8,365
+1738465,SkyHouse B&B Hummingbird Hot Tub,4463558,Susan & David,Unincorporated Areas,37.11222680637629,-122.10407311524372,Private room,175,1,40,2015-09-24,1.67,8,365
+5104170,SkyHouse Wedding Center,4463558,Susan & David,Unincorporated Areas,37.11358127795695,-122.10338479125296,Entire home/apt,1850,1,0,,,8,365
+2411855,Skyhouse Vacation Rental,4463558,Susan & David,Unincorporated Areas,37.11434942738585,-122.10234709656552,Entire home/apt,1250,1,9,2015-09-20,0.61,8,365
+8188028,Vintage Camper - To Go,4463558,Susan & David,Unincorporated Areas,37.11250937837671,-122.10186700119883,Entire home/apt,90,1,0,,,8,365
+1738880,SkyHouse B&B Bamboo Room,4463558,Susan & David,Unincorporated Areas,37.1138652767389,-122.1026254626224,Private room,125,1,21,2015-08-24,0.87,8,365
+1545465,SkyHouse B&B Teagarden Hot Tub,4463558,Susan & David,Unincorporated Areas,37.112762511716284,-122.10465953855342,Private room,190,1,48,2015-09-17,1.94,8,365
+4387221,Aptos house with ocean views,14449799,Julia,Unincorporated Areas,36.9447771907421,-121.86955525865612,Entire home/apt,295,2,29,2015-09-21,2.59,1,321
+3985607,Beautiful Ocean View Home,20658367,Taylor,Unincorporated Areas,37.01140727601005,-122.19333242206226,Entire home/apt,180,2,36,2015-09-28,2.81,2,361
+4164378,Charming Cabin by the Sea ,20658367,Taylor,Unincorporated Areas,37.010850720866785,-122.19384775641387,Entire home/apt,165,2,32,2015-10-05,2.49,2,361
+4588906,Geodome Retreat in Santa Cruz Mnts.,23470200,Ismael And Molly,Unincorporated Areas,37.05198893092389,-121.80783930011617,Entire home/apt,100,1,54,2015-10-11,5.77,1,320
+7202553,Noble Gulch Haven near Santa Cruz,1663122,JoAnn,Unincorporated Areas,36.992480501752304,-121.94200717760889,Entire home/apt,177,2,7,2015-10-12,2.73,1,252
+1565897,"Cozy garden view rm, hear the waves",8329158,Nancy,Unincorporated Areas,36.97314799720109,-121.9121333389657,Private room,75,2,72,2015-09-28,3.31,1,321
+2374212,3BR House - Walk to the Beach!,12129780,Vanessa,Unincorporated Areas,36.967733075216486,-121.89421347383764,Entire home/apt,259,2,49,2015-09-28,2.43,1,337
+7987061,Creekside Redwood Cabin Santa Cruz,18892040,Scott,Unincorporated Areas,37.054728745554456,-121.94197941381354,Entire home/apt,89,2,6,2015-10-12,5.45,1,342
+7810047,Farm Cottage near Soquel Village,41116090,Jennifer,Unincorporated Areas,37.006390888354645,-121.95045575669558,Entire home/apt,175,1,4,2015-09-28,1.94,1,20
+7071188,Steps to Blacks Beach,37075069,Kathryn,Unincorporated Areas,36.961437985119936,-121.99339540393866,Entire home/apt,325,3,2,2015-08-07,0.76,1,57
+3867037,Mountain Top Estate Near Santa Cruz,17084772,Jack,Unincorporated Areas,37.167667835612676,-122.15511246315273,Entire home/apt,1295,2,8,2015-10-05,0.58,1,361
+3344897,Mystery Spot Studio ,3064446,Shannon & Neva,Unincorporated Areas,37.01901552482692,-122.00312316149048,Entire home/apt,110,2,66,2015-10-08,4.11,1,313
+8149296,Private space in the Big Trees,43025749,Jennifer,Unincorporated Areas,37.02925935633673,-122.02678955606586,Private room,70,1,4,2015-10-12,2.86,1,351
+1717648,"""The Shack"", a Beautiful Bungalow",9055985,Shari,Unincorporated Areas,36.96974705590349,-121.88073177488296,Entire home/apt,200,2,21,2015-10-06,0.86,1,357
+2927880,Country life & Ocean views~La Selva,14951830,Rick & Jodi,Unincorporated Areas,36.916790839189915,-121.83834342345538,Entire home/apt,130,1,174,2015-10-14,10.12,1,310
+5729878,Santa Cruz without the crowds,29709586,Jessica,Unincorporated Areas,36.96590456943764,-121.89402665606819,Entire home/apt,175,2,17,2015-09-13,4.32,1,118
+3850140,The Butterfly House in the Redwoods,19851027,Marrisha,Unincorporated Areas,37.15999831852545,-122.08484258772577,Entire home/apt,115,2,22,2015-10-11,1.71,1,272
+7583824,Redwood Escape 10 mins to Beach,11804449,Joseph,Unincorporated Areas,37.02329104673758,-122.02931105747771,Entire home/apt,300,2,1,2015-09-06,0.71,1,350
+6612099,Cozy Beach Home,34600155,Margaret,Unincorporated Areas,36.94912648291254,-121.87489587722821,Entire home/apt,350,2,17,2015-10-05,4.86,1,194
+1445161,Cute Cabin in Santa Cruz Mountains,7758816,Cyndi & Sal,Unincorporated Areas,37.04372603862654,-121.9389691635383,Entire home/apt,110,1,211,2015-10-10,8.15,1,336
+2867614,The Cowgirl Room at FlipJack Ranch,14658925,Robin,Unincorporated Areas,37.03691199872301,-122.14489302376023,Private room,189,2,25,2015-09-21,1.54,3,323
+5306466,The Cowboy Room at FlipJack Ranch,14658925,Robin,Unincorporated Areas,37.03663573232917,-122.14607136657294,Private room,220,2,10,2015-09-21,1.22,3,324
+4710573,The Cowhand Room at FlipJack Ranch,14658925,Robin,Unincorporated Areas,37.03653509683548,-122.14500428279885,Private room,175,2,11,2015-09-24,1.13,3,324
+745004,Beautiful Cabin in Redwoods,3906321,Bill,Unincorporated Areas,37.07080288022212,-122.0804747925836,Entire home/apt,175,2,45,2015-09-21,1.26,1,231
+2578552,Coastal Mountain Recharge,13205648,Alyssa,Unincorporated Areas,37.05097200386116,-122.15893152683886,Entire home/apt,105,1,57,2015-10-04,6.29,1,163
+4013170,Two story Beach Condo on Sunset ..,20807159,Betty,Unincorporated Areas,36.85245844091927,-121.81245237577701,Entire home/apt,495,1,29,2015-08-31,2.32,1,337
+7348819,Bright Happy Home + Hot Tub!,4444802,Lexi,Unincorporated Areas,36.99296510081962,-121.97994167889239,Entire home/apt,200,1,5,2015-10-12,4.55,1,4
+7366120,Luxury Barn,38595360,Jack,Unincorporated Areas,36.98285101238874,-121.89528767216244,Entire home/apt,275,2,4,2015-09-13,1.90,1,359
+7985588,"Sunny 1BD opens to patio, with bath",11885473,Jenn,Unincorporated Areas,36.98060716243637,-121.97824366116564,Private room,90,2,1,2015-09-28,1,2,90
+7705442,"Cozy, Bright & Perfect Location!",11885473,Jenn,Unincorporated Areas,36.97606806314091,-121.98043528280151,Entire home/apt,295,2,4,2015-09-21,1.88,2,62
+894012,Santa Cruz Home for Vacationer,4757035,Dean,Unincorporated Areas,37.00131409032326,-122.03336433479554,Entire home/apt,325,3,0,,,1,284
+8437074,Santa Cruz Mountain Forest Retreat,44257149,Trudy,Unincorporated Areas,37.03377871379843,-122.09211156106788,Entire home/apt,180,3,0,,,1,295
+5090998,Studio in the Santa Cruz Mountains,8596302,Tari,Unincorporated Areas,37.05537060947807,-122.07939157151017,Entire home/apt,130,3,5,2015-08-10,0.61,1,341
+2809695,AMAZING HOUSE IN COASTAL REDWOODS,14371426,Yvette,Unincorporated Areas,37.03438542573282,-122.14469354321919,Entire home/apt,350,2,10,2015-09-27,2.26,1,149
+4418354,Double-R Retreat on 27 Acres,22934143,Bruce,Unincorporated Areas,37.133726859451045,-122.00662411416658,Entire home/apt,1000,3,0,,,1,361
+2182114,Quaint Bonny Doon House,6375986,Ian,Unincorporated Areas,37.067751797042234,-122.14793237460958,Entire home/apt,1050,1,0,,,1,361
+1118500,Summit Sanctuary w. Ocean View,6138627,Lucy,Unincorporated Areas,37.1039319445658,-121.90923288128967,Private room,105,1,31,2015-09-19,1.15,1,154
+6004171,Ohana with Private Outdoor Shower,30168031,Linda,Unincorporated Areas,36.98180332359811,-121.9211041660614,Entire home/apt,118,1,46,2015-10-12,7.54,1,110
+7512294,"2bedroom, walking distance to beach",32823258,Ali &,Unincorporated Areas,36.97752143341296,-121.90045190971439,Entire home/apt,225,2,3,2015-09-13,1.29,1,356
