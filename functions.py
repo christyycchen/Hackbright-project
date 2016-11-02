@@ -52,6 +52,8 @@ def request_QPX():
     pprint.pprint(flight_response_dict)
 
     return flight_response_dict
+
+
 flight_response_dict={u'kind': u'qpxExpress#tripsSearch',
  u'trips': {u'data': {u'aircraft': [{u'code': u'320',
                                      u'kind': u'qpxexpress#aircraftData',
@@ -192,6 +194,7 @@ flight_response_dict={u'kind': u'qpxExpress#tripsSearch',
                                                                  u'secure': True}],
                                                        u'marriedSegmentGroup': u'1'}]}]}]}}
 
+
 def parse_QPX(flight_response_dict):
     """Takes input python dictionary and parse out desire fields into new dictionary"""
 
@@ -208,6 +211,7 @@ def parse_QPX(flight_response_dict):
         "flight_price" : flight_response_dict["trips"]["tripOption"][0]["saleTotal"]}
 
     return flight_info_dict
+
 
 def request_Airbnb():
     """sending request to QPX and return the results as python dictionary"""
@@ -226,7 +230,7 @@ def request_Airbnb():
         'ib':  'false',
         'sort':  '1',
         'min_beds' :  '1',
-        'location':  "Seattle/Tacoma",
+        'location':  "Austin",
         'price_min' : '40',
         # 'price_max': '210',
         # 'fetch_facets':'true',
@@ -259,4 +263,4 @@ def parse_Airbnb(lodging_response_dict):
     "picture" : lodging_response_dict["search_results"][0]["listing"]["picture_url"],
     "lodging_price" : lodging_response_dict["search_results"][0]["pricing_quote"]["localized_total_price"]}
 
-    return lodging_response_dict
+    return lodging_info_dict
