@@ -1,0 +1,47 @@
+<html>
+<head>
+    <title>I'm Feeling Lucky</title>
+</head>
+<body>
+    <ul>
+      {% for message in get_flashed_messages() %}
+          <li>{{ message }}</li>
+      {% endfor %}
+    </ul>
+    <div>
+    <button type="button" calss"login">Log In</button>
+    <form action="/login" class="form-login" method="POST">
+        <div>
+            <label for="username-field">Username</label>
+            <input name="login-username" placeholder="Username" required>
+        </div>
+        <div>
+            <label for="password-field">Password</label>
+            <input type="password" name="login-password" placeholder="Password" required>
+        </div>
+        <button type="submit">Log In</button>
+    </form>
+    </div>
+
+    <div>
+    <button type="button" calss"register">Register</button>
+    <form action="/register" class="form-register" method="POST">
+        <div>
+            <label for="username-field">Username</label>
+            <input name="register-username" placeholder="Username" required>
+        </div>
+        <div>
+            <label for="password-field">Password</label>
+            <input type="password" name="register-password" placeholder="Password" required>
+        </div>
+        <div>
+            <label for="user-airport-field">Where do you fly out</label>
+            <input name="user-airport" placeholder="Your airport" required>
+        </div>
+        <button type="submit">Register</button>
+    </form>
+    </div>
+
+</form>
+</body>
+</html>

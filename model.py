@@ -95,6 +95,43 @@ class Lodging(db.Model):
         return ("<Lodging airbnb_id=%s address=%s picture_url=%s price=%s>"
                 % (self.airbnb_id, self.address, self.picture_url, self.price))
 
+flight_info_dict= {'outbond_departure_time': u'2016-12-26T15:25-08:00', 'inbond_departure_time': u'2016-12-31T07:30-05:00', 'outbond_arrival_time': u'2016-12-26T23:45-05:00', 'carrier': u'Virgin America Inc.', 'departure_city': u'San Francisco', 'departure_airport': u'SFO', 'inbond_arrival_time': u'2016-12-31T11:05-08:00', 'destination_airport': u'JFK', 'flight_price': u'USD566.20', 'destination_city': u'New York'}
+lodging_info_dict= {'lodging_price': 342, 'address': u'Domain Drive, Austin, TX 78758, United States', 'picture_url': u'https://a2.muscache.com/im/pictures/bd9607b3-7e74-4a1d-b45b-9dacd4e1c856.jpg?aki_policy=large', 'airbnb_id': 13488012}
+
+def save_trip_to_db(flight_info_dict, lodging_info_dict):
+    """store the user saved trip into database"""
+
+    
+    flight = Flight(departure_airport=flight_info_dict["departure_airport"],
+                    destination_airport=flight_info_dict["departure_airport"],
+                    carrier=flight_info_dict["carrier"],
+                    outbond_departure_time=flight_info_dict["outbond_departure_time"],
+                    outbond_arrival_time=flight_info_dict["outbond_arrival_time"],
+                    inbond_departure_time=flight_info_dict["inbond_departure_time"],
+                    inbond_arrival_time=flight_info_dict["inbond_arrival_time"],
+                    flight_price=flight_info_dict["flight_price"])
+    
+    db.session.add(flight)
+
+
+    if not Lodging.query.filter(Lodging.airbnb_id==lodging_info_dict["airbnb_id"]).first():
+        lodging = Lodging(airbnb_id=lodging_info_dict["airbnb_id"],
+                        address=lodging_info_dict["address"],
+                        picture_url=lodging_info_dict["picture_url"],
+                        price=lodging_info_dict["lodging_price"])
+    
+        db.session.add(lodging)
+
+
+    db.session.commit()
+
+    saved_trip = Saved_trip(user_id=session["user_id"],
+                            flight_id= Flight.query.order_by(Flight.flight_id.desc()).first().flight_id,
+                            lodging_id= lodging_info_dict["airbnb_id"])
+    
+    db.session.add(saved_trip)
+    db.session.commit()
+
 
 
 

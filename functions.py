@@ -3,6 +3,7 @@ import urllib2
 import json
 import pprint
 import os
+from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging
 
 
 def request_QPX():
@@ -258,9 +259,22 @@ def parse_Airbnb(lodging_response_dict):
     """Takes input python dictionary and parse out desire fields into new dictionary"""
 
     #Set key-value pair for new flight dictionary
-    lodging_info_dict = {"lodging_id" : lodging_response_dict["search_results"][0]["listing"]["id"],
+    lodging_info_dict = {"airbnb_id" : lodging_response_dict["search_results"][0]["listing"]["id"],
     "address" : lodging_response_dict["search_results"][0]["listing"]["public_address"],
-    "picture" : lodging_response_dict["search_results"][0]["listing"]["picture_url"],
+    "picture_url" : lodging_response_dict["search_results"][0]["listing"]["picture_url"],
     "lodging_price" : lodging_response_dict["search_results"][0]["pricing_quote"]["localized_total_price"]}
 
     return lodging_info_dict
+
+
+
+
+
+
+
+
+
+
+
+
+

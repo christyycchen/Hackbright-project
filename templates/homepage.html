@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<form action="/search" class="form-search" method="POST">
+        <div>
+            <label for="departure-date-field">Departure</label>
+            <input type= "date" name="input-departure-date" placeholder="Departure Date" required>
+        </div>
+         <div>
+            <label for="Return-date-field">Return</label>
+            <input type= "date" name="input-return-date" placeholder="Return Date" required>
+        </div>
+    <button type="submit">I am feeling lucky!</button>
+</form>
+
+
+{% if saved_trip != None %}
+
+{% for trip in saved_trip %}
+    <div>
+    <h3>Saved_trip # {{ loop.index }}</h3>
+    <p>{{ trip.flight_id }} </p>
+    <p>{{ trip.lodging_id }}</p>
+    </div>
+{% endfor %}
+
+{% endif %}
+
+
+{% endblock %}
