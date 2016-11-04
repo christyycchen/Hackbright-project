@@ -293,13 +293,13 @@ def get_flight_id(flight_info_dict):
         db.session.commit()
 
     if not search_flight_in_db:
-        get_flight_id = Flight.query.order_by(Flight.flight_id.desc()).first().flight_id
-        print "flight not in db", get_flight_id    
+        current_flight_id = Flight.query.order_by(Flight.flight_id.desc()).first().flight_id
+        print "flight not in db", current_flight_id    
     else:
-        get_flight_id = search_flight_in_db.flight_id
-        print "flight in db", get_flight_id
+        current_flight_id = search_flight_in_db.flight_id
+        print "flight in db", current_flight_id
 
-    return get_flight_id
+    return current_flight_id
 
 
 def get_lodging_id(lodging_info_dict):
@@ -320,37 +320,37 @@ def get_lodging_id(lodging_info_dict):
         db.session.commit()
 
     if not search_lodging_in_db:
-        get_lodging_id = lodging.query.order_by(Lodging.lodging_id.desc()).first().lodging_id
-        print "lodging not in db", get_lodging_id    
+        current_lodging_id = lodging.query.order_by(Lodging.lodging_id.desc()).first().lodging_id
+        print "lodging not in db", current_lodging_id    
     else:
-        get_lodging_id = search_lodging_in_db.lodging_id
-        print "lodging in db", get_lodging_id
+        current_lodging_id = search_lodging_in_db.lodging_id
+        print "lodging in db", current_lodging_id
 
-    return get_lodging_id
+    return current_lodging_id
 
 
 
-def save_trip_to_db(get_flight_id, get_lodging_id):
+def save_trip_to_db(current_flight_id, current_lodging_id, current_user_id):
     """store the user saved trip into database"""
 
 
     search_trip_in_db = Saved_trip.query.filter(#Saved_trip.user_id==1,
-                                                Saved_trip.user_id==session["user_id"],
-                                                Saved_trip.flight_id == get_flight_id,
-                                                Saved_trip.lodging_id== get_lodging_id).first()
+                                                Saved_trip.user_id==current_user_id,
+                                                Saved_trip.flight_id == current_flight_id,
+                                                Saved_trip.lodging_id== current_lodging_id).first()
     if not search_trip_in_db:
 
-        saved_trip = Saved_trip(user_id=session["user_id"],
+        saved_trip = Saved_trip(user_id=current_user_id,
                             #user_id=1,
-                            flight_id = get_flight_id,
-                            lodging_id = get_lodging_id)
+                            flight_id = current_flight_id,
+                            lodging_id = current_lodging_id)
 
         db.session.add(saved_trip)
         db.session.commit()
 
-    else:
-        flash("You already saved this trip!")
-        print "YOU ALREADY SAVED THIS"
+    # else:
+    #     flash("You already saved this trip!")
+    #     print "YOU ALREADY SAVED THIS"
    
 
 flight_info_dict= {'outbond_departure_time': u'2016-12-26T15:25-08:00', 'inbond_departure_time': u'2016-12-31T07:30-05:00', 'outbond_arrival_time': u'2016-12-26T23:45-05:00', 'carrier': u'Virgin America Inc.', 'departure_city': u'San Francisco', 'departure_airport': u'SFO', 'inbond_arrival_time': u'2016-12-31T11:05-08:00', 'destination_airport': u'JFK', 'flight_price': u'USD566.21', 'destination_city': u'New York'}

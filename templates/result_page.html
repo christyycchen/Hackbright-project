@@ -2,7 +2,9 @@
 {% block content %}
 
 
-<section>{{departure_airport}} 
+<section>
+<p id="flight_id" >{{current_flight_id}}</p>
+{{departure_airport}} 
 {{destination_airport}} 
 {{outbond_departure_time}} 
 {{outbond_arrival_time}} 
@@ -12,11 +14,37 @@
 {{flight_price}}</section>
 
 
-<section>{{airbnb_id}} 
+<section>
+<p id="lodging_id">{{current_lodging_id}}</p>
+{{airbnb_id}} 
 {{address}} 
 {{picture_url}} 
 {{price}} 
 </section>
 
+<button type="button" id="save_button" >Save</button>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+
+<script>
+    //"use strict";
+
+    function changeToSaved() {
+        $('#save_button').html('SAVED');
+    }
+
+    function sendIdToServer(){
+        
+        var sendIDs = {
+            "current_flight_id": $("#flight_id").html(),
+            "current_lodging_id": $("#lodging_id").html()
+
+        };
+
+        $.post('/savetrip', sendIDs, changeToSaved);
+    }
+
+    $('#save_button').on('click', sendIdToServer);
+</script>
 
 {% endblock %}

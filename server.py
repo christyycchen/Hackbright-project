@@ -109,6 +109,9 @@ def homepage():
 def search_result():
     """send requests to APIs and display results"""
 
+    if not session.get("user_id"):
+        return redirect('/')
+
 
     departure_airport = User.query.filter(User.user_id==session["user_id"]).one().origin_airport_code
     
@@ -135,30 +138,33 @@ def search_result():
     lodging_response_dict = functions.request_Airbnb(destination_city, input_departure_date, input_return_date)
     lodging_info_dict = functions.parse_Airbnb(lodging_response_dict)
 
+    current_flight_id = functions.get_flight_id(flight_info_dict)
+    current_lodging_id = functions.get_lodging_id(lodging_info_dict)
 
-    return render_template('result_page.html', departure_airport=flight_info_dict["departure_airport"],
-                        destination_airport=flight_info_dict["destination_airport"],
-                        carrier=flight_info_dict["carrier"],
-                        outbond_departure_time=flight_info_dict["outbond_departure_time"],
-                        outbond_arrival_time=flight_info_dict["outbond_arrival_time"],
-                        inbond_departure_time=flight_info_dict["inbond_departure_time"],
-                        inbond_arrival_time=flight_info_dict["inbond_arrival_time"],
-                        flight_price=flight_info_dict["flight_price"],
-                        airbnb_id=lodging_info_dict["airbnb_id"],
-                        address=lodging_info_dict["address"],
-                        picture_url=lodging_info_dict["picture_url"],
-                        price=lodging_info_dict["price"])
+    flight_info_dict.update(lodging_info_dict)
+    flight_info_dict["current_lodging_id"]=current_lodging_id
+    flight_info_dict["current_flight_id"]=current_flight_id
+    print flight_info_dict
+
+
+    return render_template('result_page.html', **flight_info_dict)
 
 
 
-
-@app.route('/savetrip')
+@app.route('/savetrip', methods=["POST"])
 def save_trip():
     """save trip into db"""
 
-    #take AJAX call and store the trip to db
-    #not sure what to return 
-    #change the button to saved
+
+    current_user_id=session["user_id"]
+    current_flight_id = request.form.get("current_flight_id")
+    current_lodging_id = request.form.get("current_lodging_id")
+    print current_lodging_id
+    print current_flight_id
+
+    functions.save_trip_to_db(current_flight_id, current_lodging_id, current_user_id) 
+
+    return json.dumps({}), 200, {'ContentType':'application/json'}
 
 
 
