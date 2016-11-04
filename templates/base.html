@@ -5,12 +5,13 @@
 </head>
 <body>
 <a href="/logout">Logout</a>
-</body>
-</html>
+
 <div>
-    {% for flash in get_flashed_messages() %}
-      <div class="alert alert-danger" style="width:90%; margin:0 auto;">{{ flash }}</div>
-    {% endfor %}
+    <ul>
+      {% for message in get_flashed_messages() %}
+          <li>{{ message }}</li>
+      {% endfor %}
+    </ul>
 {% block content %}
 {% endblock %}
 </div>

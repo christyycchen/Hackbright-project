@@ -10,6 +10,8 @@ from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging
 # import my functions from functions file
 import functions
 
+import random
+
 
 
 app = Flask(__name__)
@@ -60,7 +62,7 @@ def register():
 
     input_username = request.form.get("register-username")
     input_password = request.form.get("register-password") 
-    input_user_airport = request.form.get("user-airport") #airport ---how to reinforce this?
+    input_user_airport = request.form.get("user-airport") #airport ---how to inforce this?
 
     if not User.query.filter(User.username==input_username).first():
         
@@ -73,7 +75,7 @@ def register():
 
         #add user in browser session
         session["user_id"]=User.query.filter(User.username==input_username).one().user_id
-        print "HELLO i just register"
+        flash("Welcom! Let's get you a vacation!!!")
         return redirect('/home')
     
     else: 
@@ -92,46 +94,62 @@ def homepage():
     print "this is user id in session **** ", session["user_id"]
 
     if Saved_trip.query.filter(Saved_trip.user_id==session["user_id"]).first():
-        user_saved_trip = Saved_trip.query.filter(Saved_trip.user_id==session["user_id"]).all()
-        
-    
+        user_saved_trips = Saved_trip.query.filter(Saved_trip.user_id==session["user_id"]).all()
+
     else:  
         print "INSIDE ELSE" 
-        user_saved_trip = None
+        user_saved_trips = None
+        
 
 
-    return render_template('homepage.html', saved_trip=user_saved_trip)
+    return render_template('homepage.html', saved_trip=user_saved_trips)
 
 
-
-    
 @app.route('/search_result', methods=["POST"])
 def search_result():
     """send requests to APIs and display results"""
 
 
-    departure_airport =  User.query.filter(user_id==session["user_id"]).one().origin_airport_code
-    destination_airport = #pick an airport 
+    departure_airport = User.query.filter(User.user_id==session["user_id"]).one().origin_airport_code
+    
+
+    airport_list = db.session.query(Airport.airport_code).all()
+    
+
+    airport_list.remove((departure_airport,))
+    
+
+    destination_airport = random.choice(airport_list)
+    destination_city = db.session.query(Airport.city).filter(Airport.airport_code==destination_airport ).one()
+
 
     input_departure_date = request.form.get("input-departure-date")
     input_return_date =  request.form.get("input-return-date")
 
-    #call the functions to send results to API and get results 
+    
     #google static map
 
-    return render_template('result_page.html', departure_city=
-                                                destination_city=
-                                                departure_airport=
-                                                destination_airport=
-                                                outbond_departure_time=
-                                                outbond_arrival_time=
-                                                inbond_departure_time=
-                                                inbond_arrival_time=
-                                                flight_price=
-                                                airbnb_id=
-                                                address=
-                                                picture_url=
-                                                price=
+    flight_response_dict= functions.request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date)
+    flight_info_dict = functions.parse_QPX(flight_response_dict)
+
+    lodging_response_dict = functions.request_Airbnb(destination_city, input_departure_date, input_return_date)
+    lodging_info_dict = functions.parse_Airbnb(lodging_response_dict)
+
+
+    return render_template('result_page.html', departure_airport=flight_info_dict["departure_airport"],
+                        destination_airport=flight_info_dict["destination_airport"],
+                        carrier=flight_info_dict["carrier"],
+                        outbond_departure_time=flight_info_dict["outbond_departure_time"],
+                        outbond_arrival_time=flight_info_dict["outbond_arrival_time"],
+                        inbond_departure_time=flight_info_dict["inbond_departure_time"],
+                        inbond_arrival_time=flight_info_dict["inbond_arrival_time"],
+                        flight_price=flight_info_dict["flight_price"],
+                        airbnb_id=lodging_info_dict["airbnb_id"],
+                        address=lodging_info_dict["address"],
+                        picture_url=lodging_info_dict["picture_url"],
+                        price=lodging_info_dict["price"])
+
+
 
 
 @app.route('/savetrip')
@@ -141,8 +159,6 @@ def save_trip():
     #take AJAX call and store the trip to db
     #not sure what to return 
     #change the button to saved
-
-
 
 
 
@@ -160,12 +176,9 @@ def saved_trip(trip_id):
 def delete_trip(trip_id):
     """delete a saved trip"""
 
-    #delete trop by id from db
+    #delete trip by id from db
 
     return redirect('/home')
-
-
-
 
 
 @app.route('/logout')

@@ -6,7 +6,7 @@ import os
 from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging
 
 
-def request_QPX():
+def request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date):
     """sending request to QPX and return the results as python dictionary"""
 
     #The url to send request
@@ -18,14 +18,14 @@ def request_QPX():
       "request": {
         "slice": [
           {
-            "origin": "SFO",
-            "destination": "JFK",
-            "date": "2016-12-26"
+            "origin": departure_airport,
+            "destination": destination_airport,
+            "date": input_departure_date
           },
           {
-            "origin": "JFK",
-            "destination": "SFO",
-            "date": "2016-12-31"
+            "origin": destination_airport,
+            "destination": departure_airport,
+            "date": input_return_date
           }
         ],
         "passengers": {
@@ -50,7 +50,7 @@ def request_QPX():
     # Closes JSON results
     response_open.close()
 
-    pprint.pprint(flight_response_dict)
+    #pprint.pprint(flight_response_dict)
 
     return flight_response_dict
 
@@ -214,7 +214,7 @@ def parse_QPX(flight_response_dict):
     return flight_info_dict
 
 
-def request_Airbnb():
+def request_Airbnb(destination_city, input_departure_date, input_return_date):
     """sending request to QPX and return the results as python dictionary"""
 
     #The url to send request
@@ -231,14 +231,14 @@ def request_Airbnb():
         'ib':  'false',
         'sort':  '1',
         'min_beds' :  '1',
-        'location':  "Austin",
+        'location':  destination_city,
         'price_min' : '40',
         # 'price_max': '210',
         # 'fetch_facets':'true',
         # 'ib_add_photo_flow':'true',
         # 'min_num_pic_urls':'10',
-        'checkin': '2016-12-26',
-        'checkout': '2016-12-31'}
+        'checkin': input_departure_date,
+        'checkout': input_return_date}
 
 
     #Send json request and return json response
@@ -248,7 +248,7 @@ def request_Airbnb():
     lodging_response_dict = response_json.json()
 
 
-    pprint.pprint(lodging_response_dict)
+    #pprint.pprint(lodging_response_dict)
 
     print "URL IS HERE!!!!!!!!*************** ", (response_json.url)
 
@@ -262,9 +262,100 @@ def parse_Airbnb(lodging_response_dict):
     lodging_info_dict = {"airbnb_id" : lodging_response_dict["search_results"][0]["listing"]["id"],
     "address" : lodging_response_dict["search_results"][0]["listing"]["public_address"],
     "picture_url" : lodging_response_dict["search_results"][0]["listing"]["picture_url"],
-    "lodging_price" : lodging_response_dict["search_results"][0]["pricing_quote"]["localized_total_price"]}
+    "price" : lodging_response_dict["search_results"][0]["pricing_quote"]["localized_total_price"]}
 
     return lodging_info_dict
+
+def get_flight_id(flight_info_dict):
+    """get flight id from db or newly added flight"""
+
+    search_flight_in_db = Flight.query.filter(Flight.departure_airport==flight_info_dict["departure_airport"],
+                        Flight.destination_airport==flight_info_dict["destination_airport"],
+                        Flight.carrier==flight_info_dict["carrier"],
+                        Flight.outbond_departure_time==flight_info_dict["outbond_departure_time"],
+                        Flight.outbond_arrival_time==flight_info_dict["outbond_arrival_time"],
+                        Flight.inbond_departure_time==flight_info_dict["inbond_departure_time"],
+                        Flight.inbond_arrival_time==flight_info_dict["inbond_arrival_time"],
+                        Flight.flight_price==flight_info_dict["flight_price"]).first()
+    
+    if not search_flight_in_db:
+
+        flight = Flight(departure_airport=flight_info_dict["departure_airport"],
+                        destination_airport=flight_info_dict["destination_airport"],
+                        carrier=flight_info_dict["carrier"],
+                        outbond_departure_time=flight_info_dict["outbond_departure_time"],
+                        outbond_arrival_time=flight_info_dict["outbond_arrival_time"],
+                        inbond_departure_time=flight_info_dict["inbond_departure_time"],
+                        inbond_arrival_time=flight_info_dict["inbond_arrival_time"],
+                        flight_price=flight_info_dict["flight_price"])
+    
+        db.session.add(flight)
+        db.session.commit()
+
+    if not search_flight_in_db:
+        get_flight_id = Flight.query.order_by(Flight.flight_id.desc()).first().flight_id
+        print "flight not in db", get_flight_id    
+    else:
+        get_flight_id = search_flight_in_db.flight_id
+        print "flight in db", get_flight_id
+
+    return get_flight_id
+
+
+def get_lodging_id(lodging_info_dict):
+    """get lodging id from db or newly added lodging"""
+
+    search_lodging_in_db = Lodging.query.filter(Lodging.airbnb_id==lodging_info_dict["airbnb_id"],
+                        Lodging.address==lodging_info_dict["address"],
+                        Lodging.picture_url==lodging_info_dict["picture_url"],
+                        Lodging.price==lodging_info_dict["price"]).first()
+
+    if not search_lodging_in_db:
+        lodging = Lodging(airbnb_id=lodging_info_dict["airbnb_id"],
+                        address=lodging_info_dict["address"],
+                        picture_url=lodging_info_dict["picture_url"],
+                        price=lodging_info_dict["price"])
+    
+        db.session.add(lodging)
+        db.session.commit()
+
+    if not search_lodging_in_db:
+        get_lodging_id = lodging.query.order_by(Lodging.lodging_id.desc()).first().lodging_id
+        print "lodging not in db", get_lodging_id    
+    else:
+        get_lodging_id = search_lodging_in_db.lodging_id
+        print "lodging in db", get_lodging_id
+
+    return get_lodging_id
+
+
+
+def save_trip_to_db(get_flight_id, get_lodging_id):
+    """store the user saved trip into database"""
+
+
+    search_trip_in_db = Saved_trip.query.filter(#Saved_trip.user_id==1,
+                                                Saved_trip.user_id==session["user_id"],
+                                                Saved_trip.flight_id == get_flight_id,
+                                                Saved_trip.lodging_id== get_lodging_id).first()
+    if not search_trip_in_db:
+
+        saved_trip = Saved_trip(user_id=session["user_id"],
+                            #user_id=1,
+                            flight_id = get_flight_id,
+                            lodging_id = get_lodging_id)
+
+        db.session.add(saved_trip)
+        db.session.commit()
+
+    else:
+        flash("You already saved this trip!")
+        print "YOU ALREADY SAVED THIS"
+   
+
+flight_info_dict= {'outbond_departure_time': u'2016-12-26T15:25-08:00', 'inbond_departure_time': u'2016-12-31T07:30-05:00', 'outbond_arrival_time': u'2016-12-26T23:45-05:00', 'carrier': u'Virgin America Inc.', 'departure_city': u'San Francisco', 'departure_airport': u'SFO', 'inbond_arrival_time': u'2016-12-31T11:05-08:00', 'destination_airport': u'JFK', 'flight_price': u'USD566.21', 'destination_city': u'New York'}
+lodging_info_dict= {'price': 321, 'address': u'Domain Drive, Austin, TX 78758, United States', 'picture_url': u'https://a2.muscache.com/im/pictures/bd9607b3-7e74-4a1d-b45b-9dacd4e1c856.jpg?aki_policy=large', 'airbnb_id': 13488012}
+
 
 
 
