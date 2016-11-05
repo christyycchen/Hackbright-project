@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+{% block content %}
+
+
+<section>
+<p id="flight_id" >{{trip_details.flight.flight_id}}</p>
+{{trip_details.flight.departure_airport}} 
+{{trip_details.flight.destination_airport}} 
+{{trip_details.flight.outbond_departure_time}} 
+{{trip_details.flight.outbond_arrival_time}} 
+{{trip_details.flight.inbond_departure_time}} 
+{{trip_details.flight.inbond_arrival_time}} 
+{{trip_details.flight.carrier}}
+{{trip_details.flight.flight_price}}</section>
+
+
+<section>
+<p id="lodging_id">{{trip_details.lodging.lodging_id}}</p>
+{{trip_details.lodging.airbnb_id}} 
+{{trip_details.lodging.address}} 
+{{trip_details.lodging.picture_url}} 
+{{trip_details.lodging.price}} 
+</section>
+
+<form action='/home/{{trip_details.trip_id}}/delete' method="POST">
+    <input type="submit" id="delete-button" value="Delete" />
+</form> 
+
+    <form action="/home">
+    <input type="submit" value="Home" />
+    </form>
+
+<script src="https://code.jquery.com/jquery.js"></script>
+
+
+<script>
+    "use strict";
+
+
+    function confirmDelete(evt){
+        var answer = confirm("Are you sure you want to delete the trip?");
+        if (answer){
+            alert("Your trip will be deleted.");
+        }
+        else{
+            evt.preventDefault();
+        }
+    }
+           
+    $('#delete-button').on('click', confirmDelete);
+</script>
+
+
+{% endblock %}

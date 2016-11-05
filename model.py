@@ -49,6 +49,7 @@ class Saved_trip(db.Model):
     lodging_id = db.Column(db.Integer, db.ForeignKey("lodgings.lodging_id"), nullable=False)
 
     flight = db.relationship('Flight')
+    lodging = db.relationship('Lodging')
 
     def __repr__(self):
 

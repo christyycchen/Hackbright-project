@@ -144,7 +144,7 @@ def search_result():
     flight_info_dict.update(lodging_info_dict)
     flight_info_dict["current_lodging_id"]=current_lodging_id
     flight_info_dict["current_flight_id"]=current_flight_id
-    print flight_info_dict
+
 
 
     return render_template('result_page.html', **flight_info_dict)
@@ -159,22 +159,22 @@ def save_trip():
     current_user_id=session["user_id"]
     current_flight_id = request.form.get("current_flight_id")
     current_lodging_id = request.form.get("current_lodging_id")
-    print current_lodging_id
-    print current_flight_id
 
-    functions.save_trip_to_db(current_flight_id, current_lodging_id, current_user_id) 
 
-    return json.dumps({}), 200, {'ContentType':'application/json'}
+    save_result = functions.save_trip_to_db(current_flight_id, current_lodging_id, current_user_id) 
+
+    return save_result
 
 
 
 @app.route('/home/<int:trip_id>')
 def saved_trip(trip_id):
     """dusplay saved trip with details"""
-
-    #get trip info from db
-
-    return render_template('saved_trip.html')
+    
+    
+    trip_details= Saved_trip.query.filter(Saved_trip.trip_id==trip_id).first()
+    
+    return render_template('saved_trip.html', trip_details=trip_details)
 
 
 
@@ -182,7 +182,8 @@ def saved_trip(trip_id):
 def delete_trip(trip_id):
     """delete a saved trip"""
 
-    #delete trip by id from db
+    Saved_trip.query.filter(Saved_trip.trip_id==trip_id).delete()
+    db.session.commit()
 
     return redirect('/home')
 

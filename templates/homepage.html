@@ -20,6 +20,11 @@
     <div>
     <h3>Saved_trip # {{ loop.index }}</h3>
     <p>{{ trip.flight_id }} {{ trip.flight.departure_airport }} {{trip.flight.destination_airport}} </p>
+
+    <form action="/home/{{ trip.trip_id }}">
+    <input type="submit" value="View Trip" />
+    </form>
+
     </div>
 {% endfor %}
 

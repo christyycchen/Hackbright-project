@@ -347,10 +347,10 @@ def save_trip_to_db(current_flight_id, current_lodging_id, current_user_id):
 
         db.session.add(saved_trip)
         db.session.commit()
+        return "Trip saved!"
 
-    # else:
-    #     flash("You already saved this trip!")
-    #     print "YOU ALREADY SAVED THIS"
+    else:
+        return "You have already saved this trip before!"
    
 
 flight_info_dict= {'outbond_departure_time': u'2016-12-26T15:25-08:00', 'inbond_departure_time': u'2016-12-31T07:30-05:00', 'outbond_arrival_time': u'2016-12-26T23:45-05:00', 'carrier': u'Virgin America Inc.', 'departure_city': u'San Francisco', 'departure_airport': u'SFO', 'inbond_arrival_time': u'2016-12-31T11:05-08:00', 'destination_airport': u'JFK', 'flight_price': u'USD566.21', 'destination_city': u'New York'}
