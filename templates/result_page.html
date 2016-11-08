@@ -12,10 +12,10 @@
 <div class="row">
 <div class="col-lg-6 col-xs-12">
     <h4>Your Flight!</h4>
-    <p id="flight_id" >{{current_flight_id}}</p>
+    <div id="flight_id" >{{current_flight_id}}</div>
     <p>{{departure_airport}} to {{destination_airport}}</p>
-    <p>Departure Flight: {{outbond_departure_time}} | {{outbond_arrival_time}}</p> 
-    <p>Return Flight: {{inbond_departure_time}} | {{inbond_arrival_time}}</p> 
+    <p>Departure Flight: {{outbound_carrier_id}} {{outbound_flight_number}} {{outbound_departure_time}} | {{outbound_arrival_time}}</p> 
+    <p>Return Flight: {{inbound_carrier_id}} {{inbound_flight_number}} {{inbound_departure_time}} | {{inbound_arrival_time}}</p> 
     <p>Carrier: {{carrier}}</p>
     <p>Price : {{flight_price}}</p>
 </div>
@@ -25,7 +25,7 @@
 <div class="row">
 <div class="col-lg-6 col-xs-12">
 <h4>Your Airbnb!</h4>
-<p id="lodging_id">{{current_lodging_id}}</p>
+<div id="lodging_id">{{current_lodging_id}}</div>
 <a href="https://www.airbnb.com/rooms/{{airbnb_id}}" target="_blank">Airbnb Link</a>
 <p>Address: {{address}}</p> 
 <p>Price: USD{{price}}</p>

@@ -50,7 +50,7 @@ class Saved_trip(db.Model):
 
     flight = db.relationship('Flight')
     lodging = db.relationship('Lodging')
- 
+
 
     def __repr__(self):
 
@@ -67,10 +67,14 @@ class Flight(db.Model):
     departure_airport = db.Column(db.String(3), db.ForeignKey("airports.airport_code"), nullable=False)
     destination_airport = db.Column(db.String(3), db.ForeignKey("airports.airport_code"), nullable=False)
     carrier = db.Column(db.String(50), nullable=False)
-    outbond_departure_time = db.Column(db.String(50), nullable=False)
-    outbond_arrival_time = db.Column(db.String(50), nullable=False)
-    inbond_departure_time = db.Column(db.String(50), nullable=False)
-    inbond_arrival_time = db.Column(db.String(50), nullable=False)
+    outbound_departure_time = db.Column(db.String(50), nullable=False)
+    outbound_arrival_time = db.Column(db.String(50), nullable=False)
+    outbound_carrier_id = db.Column(db.String(20),nullable=False)
+    outbound_flight_number = db.Column(db.Integer,nullable=False)
+    inbound_departure_time = db.Column(db.String(50), nullable=False)
+    inbound_arrival_time = db.Column(db.String(50), nullable=False)
+    inbound_carrier_id = db.Column(db.String(20),nullable=False)
+    inbound_flight_number = db.Column(db.Integer,nullable=False)
     flight_price = db.Column(db.String(50), nullable=False)
 
     def __repr__(self):
@@ -79,7 +83,7 @@ class Flight(db.Model):
         return ("<Flight flight_id=%s departure_airport=%s destination_airport=%s" + 
                 "carrier=%s outbond_departure_time=%s outbond_arrival_time=%s inbond_departure_time=%s inbond_arrival_time=%s flight_price=%s >"
                 % (self.flight_id, self.departure_airport, self.destination_airport, self.carrier, 
-                   self.outbond_departure_time, self.outbond_arrival_time, self.inbond_departure_time, self.inbond_arrival_time, self.flight_price))
+                   self.outbound_departure_time, self.outbound_arrival_time, self.inbound_departure_time, self.inbound_arrival_time, self.flight_price))
 
 
 class Lodging(db.Model):
@@ -126,5 +130,5 @@ if __name__ == "__main__":
 
     from server import app
     connect_to_db(app)
-    #db.create_all()
+    db.create_all()
     print "Connected to DB."

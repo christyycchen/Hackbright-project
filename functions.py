@@ -60,7 +60,7 @@ def request_QPX(departure_airport, destination_airport, input_departure_date,inp
     # Closes JSON results
     response_open.close()
 
-    pprint.pprint(flight_response_dict)
+    print flight_response_dict
 
     return flight_response_dict
 
@@ -75,11 +75,15 @@ def parse_QPX(flight_response_dict):
         "departure_airport" :  flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["leg"][0]["origin"],
         "destination_airport" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["leg"][0]["destination"],
         "carrier" : flight_response_dict["trips"]["data"]["carrier"][0]["name"],
-        "outbond_departure_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["leg"][0]["departureTime"],
-        "outbond_arrival_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["leg"][0]["arrivalTime"],
-        "inbond_departure_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["leg"][0]["departureTime"],
-        "inbond_arrival_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["leg"][0]["arrivalTime"],
-        "flight_price" : flight_response_dict["trips"]["tripOption"][0]["saleTotal"]}
+        "outbound_departure_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["leg"][0]["departureTime"],
+        "outbound_arrival_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["leg"][0]["arrivalTime"],
+        "inbound_departure_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["leg"][0]["departureTime"],
+        "inbound_arrival_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["leg"][0]["arrivalTime"],
+        "flight_price" : flight_response_dict["trips"]["tripOption"][0]["saleTotal"],
+        "outbound_carrier_id" :flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["flight"]["carrier"],
+        "outbound_flight_number" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["flight"]["number"],
+        "inbound_carrier_id" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["flight"]["carrier"],
+        "inbound_flight_number" :flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["flight"]["number"] }
 
 
 
@@ -93,11 +97,15 @@ def get_flight_id(flight_info_dict):
     search_flight_in_db = Flight.query.filter(Flight.departure_airport==flight_info_dict["departure_airport"],
                         Flight.destination_airport==flight_info_dict["destination_airport"],
                         Flight.carrier==flight_info_dict["carrier"],
-                        Flight.outbond_departure_time==flight_info_dict["outbond_departure_time"],
-                        Flight.outbond_arrival_time==flight_info_dict["outbond_arrival_time"],
-                        Flight.inbond_departure_time==flight_info_dict["inbond_departure_time"],
-                        Flight.inbond_arrival_time==flight_info_dict["inbond_arrival_time"],
-                        Flight.flight_price==flight_info_dict["flight_price"]).first()
+                        Flight.outbound_departure_time==flight_info_dict["outbound_departure_time"],
+                        Flight.outbound_arrival_time==flight_info_dict["outbound_arrival_time"],
+                        Flight.inbound_departure_time==flight_info_dict["inbound_departure_time"],
+                        Flight.inbound_arrival_time==flight_info_dict["inbound_arrival_time"],
+                        Flight.flight_price==flight_info_dict["flight_price"],
+                        Flight.outbound_carrier_id==flight_info_dict["outbound_carrier_id"],
+                        Flight.outbound_flight_number==flight_info_dict["outbound_flight_number"],
+                        Flight.inbound_carrier_id==flight_info_dict["inbound_carrier_id"],
+                        Flight.inbound_flight_number==flight_info_dict["inbound_flight_number"]).first()
     
     #if flight not in database, save it 
     if not search_flight_in_db:
@@ -105,11 +113,15 @@ def get_flight_id(flight_info_dict):
         flight = Flight(departure_airport=flight_info_dict["departure_airport"],
                         destination_airport=flight_info_dict["destination_airport"],
                         carrier=flight_info_dict["carrier"],
-                        outbond_departure_time=flight_info_dict["outbond_departure_time"],
-                        outbond_arrival_time=flight_info_dict["outbond_arrival_time"],
-                        inbond_departure_time=flight_info_dict["inbond_departure_time"],
-                        inbond_arrival_time=flight_info_dict["inbond_arrival_time"],
-                        flight_price=flight_info_dict["flight_price"])
+                        outbound_departure_time=flight_info_dict["outbound_departure_time"],
+                        outbound_arrival_time=flight_info_dict["outbound_arrival_time"],
+                        inbound_departure_time=flight_info_dict["inbound_departure_time"],
+                        inbound_arrival_time=flight_info_dict["inbound_arrival_time"],
+                        flight_price=flight_info_dict["flight_price"],
+                        outbound_carrier_id=flight_info_dict["outbound_carrier_id"],
+                        outbound_flight_number=flight_info_dict["outbound_flight_number"],
+                        inbound_carrier_id=flight_info_dict["inbound_carrier_id"],
+                        inbound_flight_number=flight_info_dict["inbound_flight_number"])
     
         db.session.add(flight)
         db.session.commit()

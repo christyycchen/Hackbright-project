@@ -17,8 +17,8 @@ import random
 
 #import datetime from datetime module
 from datetime import datetime
-
-
+import pytz
+from dateutil.parser import parse
 
 app = Flask(__name__)
 
@@ -151,6 +151,7 @@ def search_result():
 
     #get flight info
     flight_response_dict= functions.request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date)
+    print flight_response_dict
     flight_info_dict = functions.parse_QPX(flight_response_dict)
 
     #get lodging info
@@ -165,8 +166,7 @@ def search_result():
     flight_info_dict.update(lodging_info_dict)
     flight_info_dict["current_lodging_id"]=current_lodging_id
     flight_info_dict["current_flight_id"]=current_flight_id
-    print "Back from search destination_city", flight_info_dict["destination_city"]
-    print "Back from search destination_airport", flight_info_dict["destination_airport"]
+    
 
     return render_template('result_page.html', **flight_info_dict)
 
@@ -200,9 +200,10 @@ def saved_trip(trip_id):
     destination_city = db.session.query(Airport.city).filter(Airport.airport_code==destination_airport).one()[0]
     
 
-    # departure_datetime = datetime.strptime(trip_details.flight.outbond_departure_time, '%Y-%m-%dT%H:%M-08:00')
-    # if departure_datetime < datetime.now():
-    #     flash("Your trip is expired!")
+    departure_datetime = parse(trip_details.flight.outbound_departure_time)
+    if departure_datetime < datetime.utcnow().replace(tzinfo=pytz.UTC):
+        flash("Your trip is expired!")
+
     return render_template('saved_trip.html',
                          trip_details=trip_details,
                         destination_city=destination_city)
