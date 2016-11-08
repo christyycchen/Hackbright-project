@@ -28,12 +28,14 @@ def request_QPX(departure_airport, destination_airport, input_departure_date,inp
           {
             "origin": departure_airport,
             "destination": destination_airport,
-            "date": input_departure_date
+            "date": input_departure_date,
+            "maxStops": 0
           },
           {
             "origin": destination_airport,
             "destination": departure_airport,
-            "date": input_return_date
+            "date": input_return_date,
+            "maxStops": 0
           }
         ],
         "passengers": {
@@ -58,7 +60,7 @@ def request_QPX(departure_airport, destination_airport, input_departure_date,inp
     # Closes JSON results
     response_open.close()
 
-    #pprint.pprint(flight_response_dict)
+    pprint.pprint(flight_response_dict)
 
     return flight_response_dict
 
@@ -78,6 +80,9 @@ def parse_QPX(flight_response_dict):
         "inbond_departure_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["leg"][0]["departureTime"],
         "inbond_arrival_time" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["leg"][0]["arrivalTime"],
         "flight_price" : flight_response_dict["trips"]["tripOption"][0]["saleTotal"]}
+
+
+
 
     return flight_info_dict
 

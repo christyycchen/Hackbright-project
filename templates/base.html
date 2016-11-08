@@ -5,21 +5,27 @@
     <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
 </head>
 <body>
-<a href="/logout">Logout</a>
 
-<div>
-    <ul>
+
+
+<div class="alert alert-danger fade in">
       {% for message in get_flashed_messages() %}
-          <li>{{ message }}</li>
+        {{ message }}
       {% endfor %}
-    </ul>
+      <div id="logoutbtn">
+      <a href="/logout" class="btn btn-info" role="button">logout</a>
+    </div>
 </div>
-<div>
+
+
+
+
 {% block content %}
 {% endblock %}
-</div>
+
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
 </body>
 </html>
+

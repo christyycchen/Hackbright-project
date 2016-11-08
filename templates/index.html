@@ -1,47 +1,66 @@
 <html>
 <head>
     <title>I'm Feeling Lucky</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
 </head>
 <body>
-    <ul>
+<div class="alert alert-danger">
       {% for message in get_flashed_messages() %}
-          <li>{{ message }}</li>
+        {{ message }}
       {% endfor %}
-    </ul>
-    <div>
-    <button type="button" calss"login">Log In</button>
-    <form action="/login" class="form-login" method="POST">
-        <div>
-            <label for="username-field">Username</label>
-            <input name="login-username" placeholder="Username" required>
-        </div>
-        <div>
-            <label for="password-field">Password</label>
-            <input type="password" name="login-password" placeholder="Password" required>
-        </div>
-        <button type="submit">Log In</button>
-    </form>
-    </div>
+</div>
 
-    <div>
-    <button type="button" calss"register">Register</button>
-    <form action="/register" class="form-register" method="POST">
+
+
+<div class="form-group col-lg-3 col-xs-12">
+    <button type="button" class="btn btn-info" id="showlogin">Log In</button>
+    <form action="/login" class="form-login initiallyHidden" method="POST">
         <div>
             <label for="username-field">Username</label>
-            <input name="register-username" placeholder="Username" required>
+            <input name="login-username" class="form-control" placeholder="Username" required>
         </div>
         <div>
             <label for="password-field">Password</label>
-            <input type="password" name="register-password" placeholder="Password" required>
+            <input type="password" name="login-password" class="form-control" placeholder="Password" required>
+        </div>
+       
+        <input type="submit" class="btn btn-info" value="Log In">
+    </form>
+</div>
+
+<div class="form-group col-lg-3 col-xs-12">
+    <button type="button" class="btn btn-info" id="showregister">Register</button>
+    <form action="/register" class="form-register initiallyHidden" method="POST">
+        <div>
+            <label for="username-field">Username</label>
+            <input name="register-username" class="form-control" placeholder="Username" required>
+        </div>
+        <div>
+            <label for="password-field">Password</label>
+            <input type="password" name="register-password" class="form-control" placeholder="Password" required>
         </div>
         <div>
             <label for="user-airport-field">Where do you fly out</label>
-            <input name="user-airport" placeholder="Your airport" required>
+            <input name="user-airport" class="form-control" placeholder="Your airport" required>
         </div>
-        <button type="submit">Register</button>
+        <input type="submit" class="btn btn-info" value="Register">
     </form>
     </div>
 
 </form>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script>
+$("#showregister").click(function(){
+        $(".form-register").toggle();
+    });
+$("#showlogin").click(function(){
+        $(".form-login").toggle();
+    });
+
+</script>
 </body>
 </html>

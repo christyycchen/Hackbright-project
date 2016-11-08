@@ -15,6 +15,9 @@ import functions
 #import random to choose a random city
 import random
 
+#import datetime from datetime module
+from datetime import datetime
+
 
 
 app = Flask(__name__)
@@ -162,7 +165,8 @@ def search_result():
     flight_info_dict.update(lodging_info_dict)
     flight_info_dict["current_lodging_id"]=current_lodging_id
     flight_info_dict["current_flight_id"]=current_flight_id
-
+    print "Back from search destination_city", flight_info_dict["destination_city"]
+    print "Back from search destination_airport", flight_info_dict["destination_airport"]
 
     return render_template('result_page.html', **flight_info_dict)
 
@@ -189,9 +193,19 @@ def saved_trip(trip_id):
     """dusplay saved trip with details"""
     
     #get the trip info from database
-    trip_details= Saved_trip.query.filter(Saved_trip.trip_id==trip_id).first()
+    trip_details=Saved_trip.query.filter(Saved_trip.trip_id==trip_id).first()
+
+    #get the destination city name
+    destination_airport = trip_details.flight.destination_airport
+    destination_city = db.session.query(Airport.city).filter(Airport.airport_code==destination_airport).one()[0]
     
-    return render_template('saved_trip.html', trip_details=trip_details)
+
+    # departure_datetime = datetime.strptime(trip_details.flight.outbond_departure_time, '%Y-%m-%dT%H:%M-08:00')
+    # if departure_datetime < datetime.now():
+    #     flash("Your trip is expired!")
+    return render_template('saved_trip.html',
+                         trip_details=trip_details,
+                        destination_city=destination_city)
 
 
 

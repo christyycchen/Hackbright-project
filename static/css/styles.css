@@ -1,0 +1,17 @@
+h4 {
+  color: gray; }
+  h4 span {
+    color: blue; }
+
+.initiallyHidden {
+  display: none; }
+
+  #logoutbtn {
+    position: right;
+    float: right; }
+
+    .savedtrip {
+      display: inline-block; }
+
+      #searchform {
+        width: 100%; }

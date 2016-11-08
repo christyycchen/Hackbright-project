@@ -50,6 +50,7 @@ class Saved_trip(db.Model):
 
     flight = db.relationship('Flight')
     lodging = db.relationship('Lodging')
+ 
 
     def __repr__(self):
 
