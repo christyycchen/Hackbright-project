@@ -16,7 +16,8 @@ from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging
 
 def request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date):
     """sending request to QPX and return the results as python dictionary"""
-    print "INSIDE REQUEST", destination_airport
+    print "INSIDE REQUEST", destination_airport, departure_airport, input_departure_date, input_departure_date
+
     #The url to send request
     api_key = os.environ['QPX_KEY']
     url = "https://www.googleapis.com/qpxExpress/v1/trips/search?key=%s" %(api_key)
@@ -260,7 +261,28 @@ def save_trip_to_db(current_flight_id, current_lodging_id, current_user_id):
    
 
     
+def request_google_maps(dep_lat, dep_long, des_lat, des_long):
+    """sending request to Google Maps and return the results as python dictionary"""
+
+    #The url to send request
+    api_key = os.environ['Google_maps_KEY']
     
+    url = "https://maps.googleapis.com/maps/api/staticmap?key=%s"%(api_key)
+
+
+
+    #The search parameters to pass into request body
+    search_param = { 'size': "400x400",
+                    'markers': str(dep_lat)+","+str(dep_long)+"|"+str(des_lat)+","+str(des_long),
+                    'path': "geodesic:true|"+str(dep_lat)+","+str(dep_long)+"|"+str(des_lat)+","+str(des_long),
+                    'language':"en"}
+
+
+    #Send json request and get response
+    map_response = requests.get(url, params=search_param)
+
+    print map_response.url
+    return map_response.url
 
     
 

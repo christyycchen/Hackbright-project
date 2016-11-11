@@ -125,7 +125,10 @@ def search_result():
         return redirect('/')
 
     #get the departure airport from user data
-    departure_airport = User.query.filter(User.user_id==session["user_id"]).one().origin_airport_code
+    user_airport= User.query.filter(User.user_id==session["user_id"]).one()
+
+    #get the airport code
+    departure_airport = user_airport.origin_airport_code
     
     #get all airports from db
     airport_list = db.session.query(Airport.airport_code).all()
@@ -134,13 +137,24 @@ def search_result():
     airport_list.remove((departure_airport,))
     
     #get a random airport and the city associated with it 
-    destination_airport = random.choice(airport_list)
+    destination_airport = random.choice(airport_list)[0]
     destination_city = db.session.query(Airport.city).filter(Airport.airport_code==destination_airport).one()
+
 
     print "DEP AIPORT", departure_airport
     print "DES AIRPORT", destination_airport
     print "DES CITY", destination_city
 
+    #get lat and long for both departure and destination airports 
+    dep_airport = Airport.query.filter(Airport.airport_code==departure_airport).one()
+    des_airport = Airport.query.filter(Airport.airport_code==destination_airport).one()
+    dep_lat = dep_airport.airport_lat
+    dep_long = dep_airport.airport_long
+    des_lat = des_airport.airport_lat
+    des_long = des_airport.airport_long
+
+    #send request to google maps api
+    map_result = functions.request_google_maps(dep_lat, dep_long, des_lat, des_long)
 
 
     #get user input dates
@@ -168,7 +182,9 @@ def search_result():
     flight_info_dict["current_flight_id"]=current_flight_id
     
 
-    return render_template('result_page.html', **flight_info_dict)
+    return render_template('result_page.html',
+                            map_result=map_result,
+                             **flight_info_dict )
 
 
 
@@ -199,14 +215,27 @@ def saved_trip(trip_id):
     destination_airport = trip_details.flight.destination_airport
     destination_city = db.session.query(Airport.city).filter(Airport.airport_code==destination_airport).one()[0]
     
+    #get lat and long for both departure and destination airports 
+    dep_airport = Airport.query.filter(Airport.airport_code==trip_details.flight.departure_airport).one()
+    des_airport = Airport.query.filter(Airport.airport_code==trip_details.flight.destination_airport).one()
+    dep_lat = dep_airport.airport_lat
+    dep_long = dep_airport.airport_long
+    des_lat = des_airport.airport_lat
+    des_long = des_airport.airport_long
 
+
+    #send request to google maps api
+    map_result = functions.request_google_maps(dep_lat, dep_long, des_lat, des_long)
+
+    #show flash message if the trip is expired
     departure_datetime = parse(trip_details.flight.outbound_departure_time)
     if departure_datetime < datetime.utcnow().replace(tzinfo=pytz.UTC):
         flash("Your trip is expired!")
 
     return render_template('saved_trip.html',
                          trip_details=trip_details,
-                        destination_city=destination_city)
+                        destination_city=destination_city,
+                        map_result=map_result)
 
 
 
