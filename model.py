@@ -105,7 +105,24 @@ class Lodging(db.Model):
                 % (self.lodging_id, self.airbnb_id, self.address, self.picture_url, self.price))
 
 
- 
+class City_img(db.Model):
+    """city image table"""
+
+    __tablename__ = "city_imgs"
+
+    img_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
+    city_airportcode = db.Column(db.String(3), db.ForeignKey("airports.airport_code"), nullable=False)
+    img_title = db.Column(db.String(300), nullable= False)
+    img_url = db.Column(db.String(300), nullable= False)
+
+    def __repr__(self):
+
+        return ("<City_img img_id=%s city_airportcode=%s img_title=%s img_url=%s >"
+                % (self.img_id, self.city_airportcode, self.img_title, self.img_url))
+
+
+
+
 
 
 

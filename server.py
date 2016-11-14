@@ -36,11 +36,16 @@ app.jinja_env.auto_reload = True
 def index():
     """landing page with login and register options"""
 
+    #get list for user default airport dropdown
+    airport_tuple_list = db.session.query(Airport.airport_code, Airport.airport_name).all()    
+    airport_tuple_list.sort()
+
+
     #If user id in browser session, redirect to home page, if not, shows page for login and register. 
     if session.get("user_id"):
         return redirect('/home')
     else: 
-        return render_template('index.html')
+        return render_template('index.html', airport_tuple_list=airport_tuple_list)
 
 
 @app.route('/login', methods=["POST"])
@@ -73,7 +78,7 @@ def register():
     #get user info from the registration form 
     input_username = request.form.get("register-username")
     input_password = request.form.get("register-password") 
-    input_user_airport = request.form.get("user-airport") #airport ---how to inforce this?
+    input_user_airport = request.form.get("user-airport")
 
     #check if user already existed in database
     if not User.query.filter(User.username==input_username).first():
