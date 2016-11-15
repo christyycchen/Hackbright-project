@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+
+
+<div class="gallery" align="center">
+<h3>City Gallery of {{destinationcity}}</h3>
+ 
+{% if img_list %}
+{% for img in img_list %}
+<div class="thumbnails">
+    <img onmouseover="preview.src=img1.src" name="img1" src="{{img[1]}}" alt="{{img[0]}}" /><br>
+    <span>{{img[0]}}</span>
+</div>
+
+<!-- <div class="preview" align="center">
+    <img name="preview" src="images/img1.jpg" alt=""/>
+</div> -->
+
+{% endfor %}
+{% else %}
+<p>Oh no...this city gallery is stil under construction :( </p>
+
+{% endif %}
+
+</div>
+{% endblock %}

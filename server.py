@@ -7,7 +7,7 @@ from pprint import pprint
 import json
 
 # import db classes and tables from model file
-from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging
+from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging, City_img
 
 # import functions from functions file
 import functions
@@ -267,10 +267,23 @@ def logout():
 
 
 
+@app.route('/view-city/<destinationcity>')
+def view_city(destinationcity):
+    """display city gallery"""
+    print destinationcity
 
+    airport_code = db.session.query(Airport.airport_code).filter(Airport.city==destinationcity).one()[0]
 
+    print airport_code
 
+    if City_img.query.filter_by(city_airportcode=airport_code).first():
+        img_list = db.session.query(City_img.img_title, City_img.img_url).filter_by(city_airportcode=airport_code).all()
+    else:
+        img_list = None
 
+    print img_list
+
+    return render_template('view_city.html', destinationcity=destinationcity, img_list=img_list)
 
 
 

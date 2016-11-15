@@ -1,60 +1,60 @@
-SFO,https://www.tripadvisor.com/Attractions-g60713-Activities-San_Francisco_California.html,,,,,,
-ATL,https://www.tripadvisor.com/Attractions-g60898-Activities-Atlanta_Georgia.html,,,,,,Atlanta
-LAX,https://www.tripadvisor.com/Attractions-g32655-Activities-Los_Angeles_California.html,,,,,,Los Angeles
-ORD,https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html,,,,,,Chicago
-DFW,https://www.tripadvisor.com/Attractions-g55711-Activities-Dallas_Texas.html,,,,,,Dallas
-JFK,https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html,,,,,,New York
-DEN,,,,,,,Denver
-CLT,,,,,,,Charlotte
-LAS,,,,,,,Las Vegas
-PHX,,,,,,,Phoenix
-MIA,,,,,,,Miami
-IAH,,,,,,,Houston
-SEA,,,,,,,Seattle
-MCO,,,,,,,Orlando
-EWR,,,,,,,Newark
-MSP,,,,,,,Minneapolis
-BOS,,,,,,,Boston
-DTW,,,,,,,Detroit
-PHL,,,,,,,Philadelphia
-LGA,,,,,,,New York
-FLL,,,,,,,Fort Lauderdale
-BWI,,,,,,,"Washington, D.C."
-DCA,,,,,,,"Washington, D.C."
-MDW,,,,,,,Chicago
-SLC,,,,,,,Salt Lake City
-IAD,,,,,,,"Washington, D.C."
-SAN,,,,,,,San Diego
-HNL,,,,,,,Honolulu
-TPA,,,,,,,Tampa
-PDX,,,,,,,Portland
-DAL,,,,,,,Dallas
-STL,,,,,,,St. Louis
-HOU,,,,,,,Houston
-AUS,,,,,,,Austin
-BNA,,,,,,,Nashville
-OAK,,,,,,,Oakland
-MSY,,,,,,,New Orleans
-MCI,,,,,,,Kansas City
-RDU,,,,,,,Raleigh/Durham
-SNA,,,,,,,Santa Ana
-SJC,,,,,,,San Jose
-SMF,,,,,,,Sacramento
-SJU,,,,,,,San Juan
-RSW,,,,,,,Fort Myers
-SAT,,,,,,,San Antonio
-CLE,,,,,,,Cleveland
-PIT,,,,,,,Pittsburgh
-IND,,,,,,,Indianapolis
-CMH,,,,,,,Columbus
-MKE,,,,,,,Milwaukee
-OGG,,,,,,,Kahului
-PBI,,,,,,,West Palm Beach
-CVG,,,,,,,Cincinnati
-BDL,,,,,,,Hartford
-JAX,,,,,,,Jacksonville
-ANC,,,,,,,Anchorage
-BUF,,,,,,,Buffalo
-ABQ,,,,,,,Albuquerque
-ONT,,,,,,,Ontario
-OMA,,,,,,,Omaha
+SFO,https://www.tripadvisor.com/Attractions-g60713-Activities-San_Francisco_California.html
+ATL,https://www.tripadvisor.com/Attractions-g60898-Activities-Atlanta_Georgia.html
+LAX,https://www.tripadvisor.com/Attractions-g32655-Activities-Los_Angeles_California.html
+ORD,https://www.tripadvisor.com/Attractions-g35805-Activities-Chicago_Illinois.html
+DFW,https://www.tripadvisor.com/Attractions-g55711-Activities-Dallas_Texas.html
+JFK,https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
+DEN,https://www.tripadvisor.com/Attractions-g33388-Activities-Denver_Colorado.html
+CLT,https://www.tripadvisor.com/Attractions-g57592-Activities-Charlottesville_Virginia.html
+LAS,https://www.tripadvisor.com/Attractions-g45963-Activities-Las_Vegas_Nevada.html
+PHX,https://www.tripadvisor.com/Attractions-g31310-Activities-Phoenix_Arizona.html
+MIA,https://www.tripadvisor.com/Attractions-g34438-Activities-Miami_Florida.html
+IAH,https://www.tripadvisor.com/Attractions-g56003-Activities-Houston_Texas.html
+SEA,https://www.tripadvisor.com/Attractions-g60878-Activities-Seattle_Washington.html
+MCO,https://www.tripadvisor.com/Attractions-g34515-Activities-Orlando_Florida.html
+EWR,https://www.tripadvisor.com/Attractions-g46671-Activities-Newark_New_Jersey.html
+MSP,
+BOS,
+DTW,
+PHL,
+LGA,
+FLL,
+BWI,
+DCA,
+MDW,
+SLC,
+IAD,
+SAN,
+HNL,
+TPA,
+PDX,
+DAL,
+STL,
+HOU,
+AUS,
+BNA,
+OAK,
+MSY,
+MCI,
+RDU,
+SNA,
+SJC,
+SMF,
+SJU,
+RSW,
+SAT,
+CLE,
+PIT,
+IND,
+CMH,
+MKE,
+OGG,
+PBI,
+CVG,
+BDL,
+JAX,
+ANC,
+BUF,
+ABQ,
+ONT,
+OMA,

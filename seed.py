@@ -38,7 +38,7 @@ def load_city_img():
     """Load city links from city_link.csv and save images and titles into database"""
 
     #prevent duplicate record when re-seeding data
-    City_img.query.delete()
+    #City_img.query.delete()
 
     # # Read airports.csv file and insert data
     # counter = 0
@@ -48,6 +48,8 @@ def load_city_img():
         citylinks = csv.reader(citylinksfile)
         for row in citylinks:
             airport_code, city_link= row[0], row[1]
+
+            print airport_code
             read_url = urllib.urlopen(city_link).read()
             soup = BeautifulSoup(read_url, "html.parser")
             img_divs = soup.find_all("div", { "class" : "poi" })
