@@ -38,6 +38,13 @@
 function checkDate(evt){
     var date1 = new Date($("#departuredate").val());
     var date2 = new Date($("#returndate").val());
+    var currentDate = new Date();
+
+    if (date1 < currentDate){
+        alert("The departure date is not valid!");
+        evt.preventDefault();
+    }
+
     if (date1 > date2) {
         alert("The departure date is after the return date!");
         evt.preventDefault();

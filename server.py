@@ -166,6 +166,7 @@ def search_result():
     input_departure_date = request.form.get("input-departure-date")
     input_return_date = request.form.get("input-return-date")
 
+    print input_departure_date
     
 
     #get flight info
