@@ -281,7 +281,6 @@ def view_city(destinationcity):
     else:
         img_list = None
 
-    print img_list
 
     return render_template('view_city.html', destinationcity=destinationcity, img_list=img_list)
 

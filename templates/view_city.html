@@ -8,19 +8,38 @@
 {% if img_list %}
 {% for img in img_list %}
 <div class="thumbnails">
-    <img onmouseover="preview.src=img1.src" name="img1" src="{{img[1]}}" alt="{{img[0]}}" /><br>
-    <span>{{img[0]}}</span>
+    <img src="{{img[1]}}" alt="{{img[0]}}">
 </div>
 
-<!-- <div class="preview" align="center">
-    <img name="preview" src="images/img1.jpg" alt=""/>
-</div> -->
 
 {% endfor %}
+
+<div class="preview" align="center">
+    <img src="" alt=""/><br>
+    <span></span>
+</div>
+
 {% else %}
 <p>Oh no...this city gallery is stil under construction :( </p>
 
 {% endif %}
 
+
+
 </div>
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<script>
+
+function showPreview(evt){
+
+    var src=$(this).children("img").attr("src");
+    $(".preview img").attr("src",src);
+}
+
+
+$('.thumbnails').on('mouseover', showPreview);
+
+</script>
 {% endblock %}
