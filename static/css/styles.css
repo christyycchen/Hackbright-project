@@ -35,11 +35,12 @@ h4 {
     border: 1px solid #555;
     padding: 1px;
     margin: 0 8px 8px 0;
+    border-radius: 2px;
   }
 
 
 .thumbnails img:hover {
-    border: 4px solid #00ccff;
+    border: 2px solid #00ccff;
     cursor:pointer;
   }
 
@@ -47,5 +48,6 @@ h4 {
 /*    display: none; */
     border: 2px solid #444;
     padding: 1px;
-    width: 500px;
+    width: 300px;
+    border-radius: 2px;
   }

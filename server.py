@@ -170,7 +170,7 @@ def search_result():
 
     #get flight info
     flight_response_dict= functions.request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date)
-    print flight_response_dict
+    
     flight_info_dict = functions.parse_QPX(flight_response_dict)
 
     #get lodging info
@@ -272,7 +272,7 @@ def view_city(destinationcity):
     """display city gallery"""
     print destinationcity
 
-    airport_code = db.session.query(Airport.airport_code).filter(Airport.city==destinationcity).one()[0]
+    airport_code = db.session.query(Airport.airport_code).filter(Airport.city==destinationcity).first()[0]
 
     print airport_code
 

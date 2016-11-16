@@ -61,7 +61,7 @@ def request_QPX(departure_airport, destination_airport, input_departure_date,inp
     # Closes JSON results
     response_open.close()
 
-    print flight_response_dict
+    pprint.pprint(flight_response_dict)
 
     return flight_response_dict
 
