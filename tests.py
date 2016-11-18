@@ -63,19 +63,6 @@ class RouteTestsUserNOTInSession(unittest.TestCase):
         self.assertEqual(result.status_code, 200)
         self.assertIn("I'm Feeling Lucky", result.data)
 
-    def testLogin(self):
-        result = self.client.post("/login",
-                                    data={"login-username": "brucewayne","login-password":"batman"},
-                                    follow_redirects=True)
-        self.assertEqual(result.status_code, 200)
-        self.assertIn("logged in", result.data)
-
-    def testRegistrationUserExist(self):
-        result = self.client.post("/register", 
-                                    data={"register-username": "brucewayne10", "register-password": "batman", "user-airport": "LAX" },
-                                    follow_redirects=True)
-        self.assertEqual(result.status_code, 200)
-        self.assertIn("Pick another", result.data)
 
 class databaseTest(unittest.TestCase):
     """Flask tests that use the database."""
@@ -102,12 +89,35 @@ class databaseTest(unittest.TestCase):
         db.session.close()
         #db.drop_all()
 
+    def testLogin(self):
+        result = self.client.post("/login",
+                                    data={"login-username": "brucewayne100","login-password":"batman"},
+                                    follow_redirects=True)
+        self.assertEqual(result.status_code, 200)
+        self.assertIn("logged in", result.data)
+
+    def testLoginWrongPassword(self):
+        result = self.client.post("/login",
+                                    data={"login-username": "brucewayne100","login-password":"batman100"},
+                                    follow_redirects=True)
+        self.assertEqual(result.status_code, 200)
+        self.assertIn("wrong password", result.data)
+
+    def testRegistrationUserExist(self):
+        result = self.client.post("/register", 
+                                    data={"register-username": "brucewayne100", "register-password": "batman", "user-airport": "LAX" },
+                                    follow_redirects=True)
+        self.assertEqual(result.status_code, 200)
+        self.assertIn("Pick another", result.data)
+
+
     def testRegistrationUserNotExist(self):
         result = self.client.post("/register", 
                                     data={"register-username": "brucewayne101", "register-password": "batman", "user-airport": "LAX" },
                                     follow_redirects=True)
         self.assertEqual(result.status_code, 200)
         self.assertIn("Welcome", result.data)
+
 
 
 
