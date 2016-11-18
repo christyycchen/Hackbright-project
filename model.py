@@ -123,6 +123,21 @@ class City_img(db.Model):
 
 
 
+def example_data():
+    """Create some sample data."""
+
+    #delete records in user and saved trip 
+    Saved_trip.query.delete()
+    User.query.delete()
+    
+
+    # Add sample user
+    user1 = User(username='brucewayne100', password='batman', origin_airport_code="LAX")
+    
+
+    db.session.add(user1)
+    db.session.commit()
+
 
 
 
@@ -131,12 +146,12 @@ class City_img(db.Model):
 #Helper functions
 
 
-def connect_to_db(app):
+def connect_to_db(app, db_uri='postgresql:///project'):
     """Connect the database to our Flask app"""
 
     # Configure to use our PostgreSQL database
  
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql:///project'
+    app.config['SQLALCHEMY_DATABASE_URI'] = db_uri
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
     db.app = app
     db.init_app(app)
@@ -147,5 +162,5 @@ if __name__ == "__main__":
 
     from server import app
     connect_to_db(app)
-    db.create_all()
+    #db.create_all()
     print "Connected to DB."

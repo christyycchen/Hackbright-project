@@ -61,6 +61,7 @@ def login():
         login_user = User.query.filter(User.username==input_username).one()
         if login_user.password == input_password:
             session["user_id"]=login_user.user_id
+            flash("You've logged in!")
             return redirect('/home')
 
         else:
@@ -92,7 +93,7 @@ def register():
 
         #add user in browser session
         session["user_id"]=User.query.filter(User.username==input_username).one().user_id
-        flash("Welcom! Let's get you a vacation!!!")
+        flash("Welcome! Let's get you a vacation!!!")
         return redirect('/home')
     
     else: 
