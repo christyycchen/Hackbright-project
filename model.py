@@ -1,3 +1,5 @@
+"""Models and database functions for project"""
+
 from flask_sqlalchemy import SQLAlchemy
 
 # Create the idea of our database through Flask-SQLAlchemy library
@@ -59,7 +61,7 @@ class Saved_trip(db.Model):
 
 
 class Flight(db.Model):
-    """flight info in a saved trip"""
+    """flight info class"""
 
     __tablename__ = "flights"
 
@@ -87,7 +89,7 @@ class Flight(db.Model):
 
 
 class Lodging(db.Model):
-    """lodging info in a saved trip"""
+    """lodging info class"""
 
 
     __tablename__ = "lodgings"
@@ -106,7 +108,7 @@ class Lodging(db.Model):
 
 
 class City_img(db.Model):
-    """city image table"""
+    """city images table"""
 
     __tablename__ = "city_imgs"
 
@@ -124,17 +126,15 @@ class City_img(db.Model):
 
 
 def example_data():
-    """Create some sample data."""
+    """Create some sample data for testing."""
 
     #delete records in user and saved trip 
     Saved_trip.query.delete()
     User.query.delete()
-    
 
     # Add sample user
     user1 = User(username='brucewayne100', password='batman', origin_airport_code="LAX")
     
-
     db.session.add(user1)
     db.session.commit()
 
@@ -145,6 +145,7 @@ def example_data():
 
 #Helper functions
 
+################################################################################
 
 def connect_to_db(app, db_uri='postgresql:///project'):
     """Connect the database to our Flask app"""

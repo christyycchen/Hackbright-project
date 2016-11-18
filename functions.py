@@ -1,3 +1,5 @@
+"""Functions for project""" 
+
 import requests
 import urllib2
 import json
@@ -10,13 +12,15 @@ from model import connect_to_db, db, Airport, User, Saved_trip, Flight, Lodging
 
 ################################################################################
 
-#functinos related to flight 
+#functinos to send flight request, save and retrive flight info
+
+################################################################################
 
 
 
 def request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date):
     """sending request to QPX and return the results as python dictionary"""
-    print "INSIDE REQUEST", destination_airport, departure_airport, input_departure_date, input_departure_date
+    
 
     #The url to send request
     api_key = os.environ['QPX_KEY']
@@ -84,12 +88,10 @@ def parse_QPX(flight_response_dict):
         "outbound_carrier_id" :flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["flight"]["carrier"],
         "outbound_flight_number" : flight_response_dict["trips"]["tripOption"][0]["slice"][0]["segment"][0]["flight"]["number"],
         "inbound_carrier_id" : flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["flight"]["carrier"],
-        "inbound_flight_number" :flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["flight"]["number"] }
-
-
-
+        "inbound_flight_number" :flight_response_dict["trips"]["tripOption"][0]["slice"][1]["segment"][0]["flight"]["number"]}
 
     return flight_info_dict
+
 
 def get_flight_id(flight_info_dict):
     """get flight id from db or newly added flight"""
@@ -130,12 +132,11 @@ def get_flight_id(flight_info_dict):
     #get id for the newly added flight
     if not search_flight_in_db:
         current_flight_id = Flight.query.order_by(Flight.flight_id.desc()).first().flight_id
-        #print "flight not in db", current_flight_id    
-    
+      
     #get id for the already existed flight
     else:
         current_flight_id = search_flight_in_db.flight_id
-        #print "flight in db", current_flight_id
+
 
     return current_flight_id
 
@@ -143,8 +144,9 @@ def get_flight_id(flight_info_dict):
 
 ################################################################################
 
-#functions related to lodging
+#functinos to send Airbnb request, save and retrive lodging info
 
+################################################################################
 
 
 def request_Airbnb(destination_city, input_departure_date, input_return_date):
@@ -157,19 +159,13 @@ def request_Airbnb(destination_city, input_departure_date, input_return_date):
     #The search parameters to pass into request body
     search_param = { 'locale' : 'en-US', 
         'currency' : 'USD',
-        # '_format': 'for_search_results_with_minimal_pricing',
         '_limit':  '1',
-        #'_offset': '0',
         'guests':  '1',
         'ib':  'false',
         'sort':  '1',
         'min_beds' :  '1',
         'location':  destination_city,
         'price_min' : '40',
-        # 'price_max': '210',
-        # 'fetch_facets':'true',
-        # 'ib_add_photo_flow':'true',
-        # 'min_num_pic_urls':'10',
         'checkin': input_departure_date,
         'checkout': input_return_date}
 
@@ -179,8 +175,6 @@ def request_Airbnb(destination_city, input_departure_date, input_return_date):
 
     #Turn json response into python dictionary
     lodging_response_dict = response_json.json()
-
-    #pprint.pprint(lodging_response_dict)
 
     return lodging_response_dict
 
@@ -220,12 +214,10 @@ def get_lodging_id(lodging_info_dict):
     #get id for the newly added flight
     if not search_lodging_in_db:
         current_lodging_id = lodging.query.order_by(Lodging.lodging_id.desc()).first().lodging_id
-        #print "lodging not in db", current_lodging_id    
     
     #get id for the already existed flight
     else:
         current_lodging_id = search_lodging_in_db.lodging_id
-        #print "lodging in db", current_lodging_id
 
     return current_lodging_id
 
@@ -233,7 +225,9 @@ def get_lodging_id(lodging_info_dict):
 
 ################################################################################
 
-#functions related to the trip
+#function to save trip info
+
+################################################################################
 
 
 def save_trip_to_db(current_flight_id, current_lodging_id, current_user_id):
@@ -258,18 +252,21 @@ def save_trip_to_db(current_flight_id, current_lodging_id, current_user_id):
     #if trip already saved in db before, show message
     else:
         return "You have already saved this trip before!"
+
    
+################################################################################
+
+#functinos to send Google Maps request
+
+################################################################################
 
     
 def request_google_maps(dep_lat, dep_long, des_lat, des_long):
     """sending request to Google Maps and return the results as python dictionary"""
 
     #The url to send request
-    api_key = os.environ['Google_maps_KEY']
-    
+    api_key = os.environ['Google_maps_KEY']   
     url = "https://maps.googleapis.com/maps/api/staticmap?key=%s"%(api_key)
-
-
 
     #The search parameters to pass into request body
     search_param = { 'size': "400x400",
@@ -281,7 +278,6 @@ def request_google_maps(dep_lat, dep_long, des_lat, des_long):
     #Send json request and get response
     map_response = requests.get(url, params=search_param)
 
-    print map_response.url
     return map_response.url
 
     

@@ -1,3 +1,5 @@
+"""Server for project"""
+
 from jinja2 import StrictUndefined, Template
 from flask import Flask, render_template, redirect, request, flash, session, jsonify
 from flask_debugtoolbar import DebugToolbarExtension
@@ -15,7 +17,7 @@ import functions
 #import random to choose a random city
 import random
 
-#import datetime from datetime module
+#import modules related time checking
 from datetime import datetime
 import pytz
 from dateutil.parser import parse
@@ -75,6 +77,7 @@ def login():
 
 @app.route('/register', methods=["POST"])
 def register():
+    """register route to create a new user"""
 
     #get user info from the registration form 
     input_username = request.form.get("register-username")
@@ -117,8 +120,7 @@ def homepage():
         user_saved_trips = Saved_trip.query.filter(Saved_trip.user_id==session["user_id"]).all()
 
     else:  
-        user_saved_trips = None
-        
+        user_saved_trips = None       
 
     return render_template('homepage.html', saved_trip=user_saved_trips)
 
@@ -127,6 +129,7 @@ def homepage():
 def search_result():
     """send requests to APIs and display results"""
 
+    #if user not logged in, redirect to the login page
     if not session.get("user_id"):
         return redirect('/')
 
@@ -146,11 +149,6 @@ def search_result():
     destination_airport = random.choice(airport_list)[0]
     destination_city = db.session.query(Airport.city).filter(Airport.airport_code==destination_airport).one()
 
-
-    print "DEP AIPORT", departure_airport
-    print "DES AIRPORT", destination_airport
-    print "DES CITY", destination_city
-
     #get lat and long for both departure and destination airports 
     dep_airport = Airport.query.filter(Airport.airport_code==departure_airport).one()
     des_airport = Airport.query.filter(Airport.airport_code==destination_airport).one()
@@ -169,8 +167,7 @@ def search_result():
     
 
     #get flight info
-    flight_response_dict= functions.request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date)
-    
+    flight_response_dict= functions.request_QPX(departure_airport, destination_airport, input_departure_date,input_return_date) 
     flight_info_dict = functions.parse_QPX(flight_response_dict)
 
     #get lodging info
@@ -189,6 +186,7 @@ def search_result():
 
     return render_template('result_page.html',
                             map_result=map_result,
+                            destination=destination_city[0],
                              **flight_info_dict )
 
 
@@ -202,7 +200,7 @@ def save_trip():
     current_flight_id = request.form.get("current_flight_id")
     current_lodging_id = request.form.get("current_lodging_id")
 
-
+    #return saveing status to the result page
     save_result = functions.save_trip_to_db(current_flight_id, current_lodging_id, current_user_id) 
 
     return save_result
@@ -211,7 +209,7 @@ def save_trip():
 
 @app.route('/home/<int:trip_id>')
 def saved_trip(trip_id):
-    """dusplay saved trip with details"""
+    """display saved trip with details"""
     
     #get the trip info from database
     trip_details=Saved_trip.query.filter(Saved_trip.trip_id==trip_id).first()
@@ -270,11 +268,9 @@ def logout():
 @app.route('/view-city/<destinationcity>')
 def view_city(destinationcity):
     """display city gallery"""
-    print destinationcity
 
     airport_code = db.session.query(Airport.airport_code).filter(Airport.city==destinationcity).first()[0]
 
-    print airport_code
 
     if City_img.query.filter_by(city_airportcode=airport_code).first():
         img_list = db.session.query(City_img.img_title, City_img.img_url).filter_by(city_airportcode=airport_code).all()
@@ -290,16 +286,15 @@ def view_city(destinationcity):
 ################################################################################
 
 if __name__ == "__main__":
-    # We have to set debug=True here, since it has to be True at the point
-    # that we invoke the DebugToolbarExtension
+    # set debug=True  since it has to be True at the point 
+    # that DebugToolbarExtension is invoked
 
-    # Do not debug for demo
-    app.debug = True
+    #app.debug = True
 
     connect_to_db(app)
 
     # Use the DebugToolbar
-    DebugToolbarExtension(app)
+    #DebugToolbarExtension(app)
 
     Scss(app, static_dir='static', asset_dir='static/assets')
 

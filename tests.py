@@ -1,3 +1,6 @@
+"""tests for project"""
+
+
 import unittest
 
 from server import app
@@ -119,7 +122,7 @@ class databaseTest(unittest.TestCase):
         self.assertIn("Welcome", result.data)
 
 
-
+################################################################################
 
 
 if __name__ == "__main__":
