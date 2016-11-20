@@ -45,9 +45,8 @@ h4 {
   }
 
 .preview img {
-/*    display: none; */
     border: 2px solid #444;
     padding: 1px;
-    width: 300px;
+    width: 400px;
     border-radius: 2px;
   }

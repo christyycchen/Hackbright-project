@@ -12,7 +12,7 @@ One Paragraph of project description goes here
 Clone this repo:
 
 ```
-Github link goes here
+https://github.com/christychen126/Hackbright-project
 ```
 
 Create virtual environment on your laptop, inside a directory:
@@ -31,9 +31,9 @@ pip install -r requirements.txt
 Get secret keys for Google Flights API, Google Maps API and Airbnb API, and save it to secrets.sh:
 
 ```
-export QPX_KEY= ** Your Key Here **
-export Airbnb_KEY= ** Your Key Here **
-export Google_maps_KEY= ** Your Key Here **
+export QPX_KEY= **Your Key GOES Here**
+export Airbnb_KEY= **Your Key GOES Here**
+export Google_maps_KEY= **Your Key GOES Here**
 ```
 
 Set up your database and seed city images:
