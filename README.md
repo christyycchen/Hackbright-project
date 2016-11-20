@@ -31,9 +31,9 @@ pip install -r requirements.txt
 Get secret keys for Google Flights API, Google Maps API and Airbnb API, and save it to secrets.sh:
 
 ```
-export QPX_KEY= __Your Key Goes Here__
-export Airbnb_KEY= __Your Key Goes Here__
-export Google_maps_KEY= __Your Key Goes Here__
+export QPX_KEY= ""Your Key Goes Here""
+export Airbnb_KEY= ""Your Key Goes Here""
+export Google_maps_KEY= ""Your Key Goes Here""
 ```
 
 Set up your database and seed city images:
@@ -55,7 +55,7 @@ Open up your browser and navigate to:
  'localhost:5000/'
 ```
 
-Have a nice trip! :airplane:
+Have a nice trip!  :airplane:
 
 
 
