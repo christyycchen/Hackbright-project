@@ -29,17 +29,18 @@
 </div>
 </div>
 
+<div class="row">
 
-<form action='/home/{{trip_details.trip_id}}/delete' method="POST">
+<form action='/home/{{trip_details.trip_id}}/delete' method="POST" class="inlineform">
     <input type="submit" class="btn btn-info" id="delete-button" value="Delete" />
 </form> 
 
-<form action="/home">
+<form action="/home" class="inlineform">
     <input type="submit" class="btn btn-info" value="Home" />
 </form>
 
 <a href="/view-city/{{destination_city}}" class="btn btn-info" role="button">View City</a>
-
+</div>
 
 <script src="https://code.jquery.com/jquery.js"></script>
 

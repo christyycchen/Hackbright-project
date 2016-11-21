@@ -24,7 +24,7 @@
     <h4>Saved_trip # {{ loop.index }}</h4>
     <p>{{ trip.flight.departure_airport }} to {{trip.flight.destination_airport}} </p>
     <img id="saved_trip_img" src={{ trip.lodging.picture_url}}><br>
-    <a href="/home/{{ trip.trip_id }}" class="btn btn-info" role="button">View Trip</a>
+    <a href="/home/{{ trip.trip_id }}" class="btn btn-info viewtripbtn" role="button">View Trip</a>
     </div>
 {% endfor %}
 

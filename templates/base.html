@@ -8,14 +8,15 @@
 
 
 
-<div class="alert alert-danger fade in">
+<div class="alert alert-warning">
       {% for message in get_flashed_messages() %}
         {{ message }}
       {% endfor %}
-      <div id="logoutbtn">
+</div>
+
+<div id="logoutbtn">
       <a href="/logout" class="btn btn-info" role="button">logout</a>
     </div>
-</div>
 
 
 

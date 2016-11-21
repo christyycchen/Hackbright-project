@@ -4,7 +4,7 @@ from jinja2 import StrictUndefined, Template
 from flask import Flask, render_template, redirect, request, flash, session, jsonify
 from flask_debugtoolbar import DebugToolbarExtension
 from flask_sqlalchemy import SQLAlchemy
-from flask.ext.scss import Scss
+#from flask.ext.scss import Scss
 from pprint import pprint
 import json
 
@@ -112,8 +112,6 @@ def homepage():
     #make sure user already logged in 
     if not session.get("user_id"):
         return redirect('/')
-
-    print "this is user id in session **** ", session["user_id"]
 
     #if user has saved trips, display them
     if Saved_trip.query.filter(Saved_trip.user_id==session["user_id"]).first():
@@ -296,7 +294,7 @@ if __name__ == "__main__":
     # Use the DebugToolbar
     #DebugToolbarExtension(app)
 
-    Scss(app, static_dir='static', asset_dir='static/assets')
+    #Scss(app, static_dir='static', asset_dir='static/assets')
 
     #runs app
     app.run(host="0.0.0.0")

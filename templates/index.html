@@ -4,17 +4,25 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/static/css/styles.css">
 </head>
-<body>
-<div class="alert alert-danger">
+<body id="index-background">
+
+<div class="alert alert-warning">
       {% for message in get_flashed_messages() %}
         {{ message }}
       {% endfor %}
 </div>
 
-<h1>I'm Feeling Lucky</h1>
+<div class="row">
+<div class="index-header col-lg-6 col-xs-12">
+<h1>I'm Feeling Lucky...</h1>
+<h2> are you?</h2>
+</div>
+</div>
 
-<div class="form-group col-lg-3 col-xs-12">
-    <button type="button" class="btn btn-info" id="showlogin">Log In</button>
+<div class = "row">
+
+<div class="form-group col-md-3 col-xs-12 login">
+    <button type="button" class="btn btn-warning" id="showlogin">Log In</button>
     <form action="/login" class="form-login initiallyHidden" method="POST">
         <div>
             <label for="username-field">Username</label>
@@ -25,13 +33,13 @@
             <input type="password" name="login-password" class="form-control" placeholder="Password" required>
         </div>
        
-        <input type="submit" class="btn btn-info" value="Log In">
+        <input type="submit" class="btn btn-info loginbtn" value="Log In">
     </form>
 </div>
 
 
-<div class="form-group col-lg-3 col-xs-12">
-    <button type="button" class="btn btn-info" id="showregister">Register</button>
+<div class="form-group col-md-3 col-xs-12 register">
+    <button type="button" class="btn btn-warning" id="showregister">Register</button>
     <form action="/register" class="form-register initiallyHidden" method="POST">
         <div>
             <label for="username-field">Username</label>
@@ -54,9 +62,10 @@
         </select>
         </div>
         
-        <input type="submit" class="btn btn-info" value="Register">
+        <input type="submit" class="btn btn-info registerbtn" value="Register">
     </form>
     </div>
+</div>
 
 </form>
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>

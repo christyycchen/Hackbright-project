@@ -6,16 +6,67 @@ h4 {
 .initiallyHidden {
   display: none; }
 
+#index-background { 
+  background: url(/static/images/index_img.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.index-header{
+
+  display: inline-block;
+  opacity: 0.5;
+  background-color: white;
+  border-radius: 10px 0 0 10px;
+  margin: 40px 40px 0 40px;
+}
+.index-header h1{
+  margin: 40px;
+  font-style: italic;
+  color:black;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+
+}
+.index-header h2{
+  margin: 0 40px 40px 40px;
+  font-style: italic;
+  color:black;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+
+}
+
+.login{
+  margin: 40px 0 40px 40px;
+}
+
+.loginbtn{
+  margin: 20px 0;
+}
+.register{
+  margin: 40px 40px 40px 40px;
+}
+
+.registerbtn{
+  margin: 20px 0;
+}
+
 .row .col-lg-6 #flight_id {
           color: transparent; }
 
 #logoutbtn {
     float: right; }
 
-    .savedtrip {
-      display: inline-block; }
+.savedtrip {
+  display: inline-block;
+  margin: 20px; }
 
-      #searchform {
+.viewtripbtn{
+  margin:10px 0;
+}
+
+#searchform {
         width: 100%; }
 
 
@@ -26,6 +77,9 @@ h4 {
 #saved_trip_img{
   height: 100px;
   
+}
+.inlineform{
+  display: inline-block;
 }
 
 .thumbnails {
