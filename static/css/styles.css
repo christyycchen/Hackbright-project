@@ -87,8 +87,9 @@ h4 {
 
 .flightdiv{
   border-color: brown;
+  border-width: 10px
   border-radius: 20px;
-  margin: 20px;
+  padding: 20px;
 }
 
 .thumbnails {

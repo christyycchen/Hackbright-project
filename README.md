@@ -1,6 +1,7 @@
-# I'm Feeling Lucky
+# I'm Feeling Lucky 
 
-One Paragraph of project description goes here
+
+Work In Progress
 
 
 ## Features
@@ -75,7 +76,7 @@ JavaScript, HTML, CSS, [jQuery](https://jquery.com/), AJAX, [Jinja2](http://jinj
 [Google Flights API](https://developers.google.com/qpx-express/), [Google Maps API](https://developers.google.com/maps/), [The Unofficial Airbnb API](http://airbnbapi.org/)
 
 
-## Version 2.0 Features 
+## Version 2.0 Coming Up 
 
 - **User Preferences:** Allow users to add preferred airlines, cabin, flght stops
 - **City Guide:** Add city information, attractions, and tours.
