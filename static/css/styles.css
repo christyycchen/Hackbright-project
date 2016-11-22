@@ -15,13 +15,14 @@ h4 {
 }
 
 .index-header{
-
+  width: 90%;
   display: inline-block;
   opacity: 0.5;
   background-color: white;
   border-radius: 10px 0 0 10px;
   margin: 40px 40px 0 40px;
 }
+
 .index-header h1{
   margin: 40px;
   font-style: italic;
@@ -60,7 +61,9 @@ h4 {
 
 .savedtrip {
   display: inline-block;
-  margin: 20px; }
+  margin: 20px;
+  border-color: brown;
+  border-radius: 10px }
 
 .viewtripbtn{
   margin:10px 0;
@@ -80,6 +83,12 @@ h4 {
 }
 .inlineform{
   display: inline-block;
+}
+
+.flightdiv{
+  border-color: brown;
+  border-radius: 20px;
+  margin: 20px;
 }
 
 .thumbnails {
