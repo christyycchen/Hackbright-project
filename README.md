@@ -1,10 +1,20 @@
 # I'm Feeling Lucky 
 
 
-Work In Progress
+I’m Feeling Lucky is a trip generator that searches for flights and Airbnb listings for users.
+This search engine provides information regarding flight options and Airbnb listings based on entered criteria.  I’m Feeling Lucky enables users to set default departure airports, search trips, save trips for later, view or delete saved trips, and view photos of the destinations. I’m Feeling Lucky is great for people who love and want to travel. Planning trips is never easier!
 
 
 ## Features
+
+User login/register page
+
+User homepage - Search a new trip or view previous saved trips
+
+Search Result - A flight and an Airbnb information for a trip
+
+City Gallery - get a glimpse of the City
+
 
 
 ## Installing
@@ -32,9 +42,9 @@ pip install -r requirements.txt
 Get secret keys for Google Flights API, Google Maps API and Airbnb API, and save it to secrets.sh:
 
 ```
-export QPX_KEY= ""Your Key Goes Here""
-export Airbnb_KEY= ""Your Key Goes Here""
-export Google_maps_KEY= ""Your Key Goes Here""
+export QPX_KEY= "Your Key Goes Here"
+export Airbnb_KEY= "Your Key Goes Here"
+export Google_maps_KEY= "Your Key Goes Here"
 ```
 
 Set up your database and seed city images:
