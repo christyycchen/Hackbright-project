@@ -11,7 +11,7 @@ h4 {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;  
 }
 
 .index-header{
@@ -57,38 +57,60 @@ h4 {
           color: transparent; }
 
 #logoutbtn {
-    float: right; }
+    float: right;
+    margin: 10px; }
+
+#base-background {
+  background: url(/static/images/base_img.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 .savedtrip {
+  position:relative;
+  width: 20%;
   display: inline-block;
+  background-color: rgba(225, 225, 225, 0.9);
   margin: 20px;
-  border-color: brown;
-  border-radius: 10px }
+  padding: 10px;
+  border: 3px solid #ffe0b3; 
+  border-radius: 10px;
+  text-align: center; }
+
+#saved_trip_img{
+  height: 100px;
+  border:3px solid #ffe0b3;
+  border-radius: 4px; 
+  }
 
 .viewtripbtn{
   margin:10px 0;
 }
 
 #searchform {
-        width: 100%; }
+        width: 100%;
+        }
+
+button#searchbtn{
+  margin: 10px 0;
+}
 
 
 
 #lodging_id {
   color: transparent; }
 
-#saved_trip_img{
-  height: 100px;
-  
-}
+
 .inlineform{
   display: inline-block;
 }
 
 .flightdiv{
   border-color: brown;
-  border-width: 10px
-  border-radius: 20px;
+  border-width: 10px;
+  border-radius: 10px;
   padding: 20px;
 }
 
@@ -101,7 +123,10 @@ h4 {
     margin: 0 8px 8px 0;
     border-radius: 2px;
   }
-
+.homebutton{
+  margin: 10px;
+  display: inline-block;
+}
 
 .thumbnails img:hover {
     border: 2px solid #00ccff;

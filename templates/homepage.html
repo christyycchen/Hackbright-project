@@ -1,8 +1,10 @@
 {% extends 'base.html' %}
 {% block content %}
+
+
 <div class="row">
     <div class="col-lg-4 col-lg-offset-4 col-xs-12">
-        <form action="/search_result" class="form-group" method="POST">
+        <form action="/search_result" class="form-group" id="searchform" method="POST">
         <div>
             <label for="departure-date-field">Departure</label>
             <input type= "date" class="form-control" name="input-departure-date" id="departuredate" placeholder="Departure Date" required>
@@ -11,7 +13,7 @@
             <label for="Return-date-field">Return</label>
             <input type= "date" class="form-control" name="input-return-date" id="returndate" placeholder="Return Date" required>
         </div>
-        <button type="submit" class="btn btn-info" id="searchbtn">I am feeling lucky!</button>
+        <button type="submit" class="btn btn-warning" id="searchbtn">I am feeling lucky!</button>
         </form>
     </div>
 </div>
@@ -21,14 +23,15 @@
 
 {% for trip in saved_trip %}
     <div class="savedtrip">
-    <h4>Saved_trip # {{ loop.index }}</h4>
+    <h4>Your Trip # {{ loop.index }}</h4>
     <p>{{ trip.flight.departure_airport }} to {{trip.flight.destination_airport}} </p>
     <img id="saved_trip_img" src={{ trip.lodging.picture_url}}><br>
-    <a href="/home/{{ trip.trip_id }}" class="btn btn-info viewtripbtn" role="button">View Trip</a>
+    <a href="/home/{{ trip.trip_id }}" class="btn btn-warning viewtripbtn" role="button">View Trip</a>
     </div>
 {% endfor %}
 
 {% endif %}
+
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
