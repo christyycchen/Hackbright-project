@@ -1,8 +1,9 @@
 # I'm Feeling Lucky 
 
 
-I’m Feeling Lucky is a trip generator that searches for flights and Airbnb listings for users.
-This search engine provides information regarding flight options and Airbnb listings based on entered criteria.  I’m Feeling Lucky enables users to set default departure airports, search trips, save trips for later, view or delete saved trips, and view photos of the destinations. I’m Feeling Lucky is great for people who love and want to travel. Planning trips is never easier!
+I’m Feeling Lucky is a trip generator that searches for the most affordable flights and Airbnb listings for users.
+
+This app provides information regarding cheap flight options and affordable Airbnb listings based on users entered criteria.  I’m Feeling Lucky enables users to set default departure airports, search trips, save trips for later, view or delete saved trips, and view photos of the destinations. I’m Feeling Lucky is great for people who love and want to travel with affordable price. Planning trips is never easier!
 
 
 ## Features
