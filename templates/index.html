@@ -6,11 +6,14 @@
 </head>
 <body id="index-background">
 
-<div class="alert alert-warning">
-      {% for message in get_flashed_messages() %}
-        {{ message }}
-      {% endfor %}
-</div>
+
+{% with messages = get_flashed_messages() %}
+    {% for message in messages %}
+        <div class="alert alert-warning" role="alert">{{ message }}</div>
+    {% endfor %} 
+{% endwith %}
+
+
 
 <div class="row">
 <div class="index-header col-lg-6 col-xs-12">

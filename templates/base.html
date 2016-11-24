@@ -6,18 +6,21 @@
 </head>
 <body>
     <div id="base-background">
+      
 
 
-
-<div class="alert alert-warning">
-      {% for message in get_flashed_messages() %}
+<div class="alert alert-warning" role="alert">
+{% with messages = get_flashed_messages() %}
+    {% for message in messages %}
         {{ message }}
-      {% endfor %}
+    {% endfor %} 
+{% endwith %}
 </div>
 
 <div id="logoutbtn">
       <a href="/logout" class="btn btn-warning" role="button">logout</a>
-    </div>
+</div>
+
 
 
 

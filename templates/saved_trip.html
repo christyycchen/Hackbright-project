@@ -8,7 +8,7 @@
 </div>
 
 <div class="row">
-<div class="col-lg-6 col-xs-12" >
+<div class="col-md-6 col-xs-12 infodiv" >
     <h4>Your Flight!</h4>
     <img src={{map_result}}>
     <p>{{trip_details.flight.departure_airport}} to {{trip_details.flight.destination_airport}}</p>
@@ -17,8 +17,10 @@
     <p>Carrier: {{trip_details.flight.carrier}}</p>
     <p>Price : {{trip_details.flight.flight_price}}</p>
 </div>
+</div>
 
-<div class="col-lg-6 col-xs-12" >
+<div class="row">
+<div class="col-md-6 col-xs-12 infodiv" >
 <h4>Your Airbnb!</h4>
 <img src="{{trip_details.lodging.picture_url}}">
 <a href="https://www.airbnb.com/rooms/{{trip_details.lodging.airbnb_id}}" target="_blank">Airbnb Link</a>
