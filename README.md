@@ -17,7 +17,7 @@ This app provides information regarding cheap flight options and affordable Airb
 
 ![Homepage](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-homepage.png)
 
-##### Search Result - A flight and an Airbnb information for a trip
+##### Search Result - A destination, A flight, and an Airbnb information for the trip
 
 ![Result page](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-Result.png)
 
@@ -98,7 +98,7 @@ JavaScript, HTML, CSS, [jQuery](https://jquery.com/), AJAX, [Jinja2](http://jinj
 
 ## Version 2.0 Coming Up 
 
-- **User Preferences:** Allow users to add preferred airlines, cabin, flght stops
+- **User Preferences:** Allow users to add preferred airlines, cabins, flght stops
 - **City Guide:** Add city information, attractions, and tours.
 - **Password hashing:** Passwords will be hashed before being saved in DB
 - **Book Flight Link:** Direct users to airline websites

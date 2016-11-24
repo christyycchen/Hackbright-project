@@ -114,6 +114,8 @@ button#searchbtn{
 
 #lodging_id {
   color: transparent; }
+#flight_id {
+  color: transparent; }
 
 
 .inlineform{
@@ -141,6 +143,11 @@ button#searchbtn{
   border:  2px solid #ffe0b3;
   margin: 5px;
   border-radius: 2px;
+}
+
+.save-result{
+  font-weight: bold;
+  margin:5px;
 }
 
  /*style for view city page*/

@@ -247,7 +247,7 @@ def save_trip_to_db(current_flight_id, current_lodging_id, current_user_id):
 
         db.session.add(saved_trip)
         db.session.commit()
-        return "Trip saved!"
+        return "SAVED!"
 
     #if trip already saved in db before, show message
     else:

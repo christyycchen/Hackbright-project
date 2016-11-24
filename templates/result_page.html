@@ -1,22 +1,24 @@
 {% extends 'base.html' %}
 {% block content %}
 
-
-
+<div class="container">
 <div class="row">
-<div class="col-lg-6 col-xs-12">
-<h2>You are going to {{destination}}</h2>
+<div class="col-lg-6 col-xs-12 resultheader">
+<h2>You are going to <span>{{destination_city}}<span></h2>
 </div>
 </div>
 
 <div class="row">
-<div class="col-lg-6 col-xs-12 flightdiv">
+
+<div class="col-md-5 col-md-offset-1 col-xs-12 infodiv" >
     <h4>Your Flight!</h4>
     <img src={{map_result}}>
     <div id="flight_id" >{{current_flight_id}}</div>
-    <p>{{departure_airport}} to {{destination_airport}}</p>
-    <p>Departure Flight: {{outbound_carrier_id}} {{outbound_flight_number}} {{outbound_departure_time}} | {{outbound_arrival_time}}</p> 
-    <p>Return Flight: {{inbound_carrier_id}} {{inbound_flight_number}} {{inbound_departure_time}} | {{inbound_arrival_time}}</p> 
+    <p class="flighttitle">{{departure_airport}} to {{destination_airport}}</p>
+    <p>Departure Flight:</p>
+    <p>{{outbound_carrier_id}} {{outbound_flight_number}} {{outbound_departure_time}} | {{outbound_arrival_time}}</p> 
+    <p>Return Flight:</p>
+    <p> {{inbound_carrier_id}} {{inbound_flight_number}} {{inbound_departure_time}} | {{inbound_arrival_time}}</p> 
     <p>Carrier: {{carrier}}</p>
     <p>Price : {{flight_price}}</p>
 </div>
@@ -24,27 +26,29 @@
 
 
 
-<div class="col-lg-6 col-xs-12">
+<div class="col-md-5 col-xs-12 infodiv" >
 <h4>Your Airbnb!</h4>
 <img src="{{picture_url}}">
 <div id="lodging_id">{{current_lodging_id}}</div>
-<a href="https://www.airbnb.com/rooms/{{airbnb_id}}" target="_blank">Airbnb Link</a>
+<a href="https://www.airbnb.com/rooms/{{airbnb_id}}" target="_blank"><p>Airbnb Link</p></a>
 <p>Address: {{address}}</p> 
 <p>Price: USD{{price}}</p>
-
-
 </div>
+
 </div>
 
 
 <div class="row">
-<button type="button" class="btn btn-info" id="save-button" >Save</button>
-<div><p id="save-result"></p></div>  
+<div class="col-lg-6 col-xs-12">
+    <form action="/home" class="inlineform">
+    <input type="submit" class="btn btn-info" value="Search Again" />
+    </form>
+    <button type="button" class="btn btn-info" id="save-button" >Save</button>
+    <div class="inlineform"><p class="save-result"></p></div>  
+  
+</div>
+</div>
 
-
-<form action="/home">
-    <input type="submit" class="btn btn-info inlineform" value="Search Again" />
-</form>
 </div>
 
 <script src="https://code.jquery.com/jquery.js"></script>
@@ -54,7 +58,7 @@
 
     function showSaveResult(result) {
         var status = result;
-        $('#save-result').html(status);
+        $('.save-result').html(status);
     }
 
     function sendIdToServer(){
