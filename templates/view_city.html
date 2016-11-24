@@ -1,12 +1,18 @@
 {% extends 'base.html' %}
 {% block content %}
 
+
+<div class="container">
+<div class="gallerypage">
 <form action="/home" class="homebutton">
     <input type="submit" class="btn btn-warning" value="Home" />
 </form>
+
  
 <div class="gallery" align="center">
+<div class="row gallerytitle">
 <h2>City Gallery of {{destinationcity}}</h2>
+</div>
 
 {% if img_list %}
 <div class="row">
@@ -29,7 +35,7 @@
     
 </div>
 
-</div>
+
 
 
 {% else %}
@@ -40,8 +46,9 @@
 
 
 </div>
-
-
+</div>
+</div>
+</div>
 
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>

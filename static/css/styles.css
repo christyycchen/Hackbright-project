@@ -1,3 +1,4 @@
+/*style for index page*/
 
 .initiallyHidden {
   display: none; }
@@ -58,6 +59,9 @@
     float: right;
     margin: 0px 20px 5px 5px; }
 
+
+/*style for base.html*/
+
 #base-background {
   background: url(/static/images/base_img.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -65,6 +69,8 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+/*style for user homepage*/
 
 .savedtrip {
   position:relative;
@@ -95,7 +101,16 @@ button#searchbtn{
   margin: 10px 0;
 }
 
+/*style for resulte page and saved trip page*/
 
+.resultheader h2{
+  font-style: italic;
+  font-weight:bold;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+}
+.resultheader h2 span{
+  color:#c11b05;
+}
 
 #lodging_id {
   color: transparent; }
@@ -110,19 +125,44 @@ button#searchbtn{
   padding: 20px;
   margin: 20px;
   display: inline-block;
-  background-color: rgba(225, 225, 225, 0.5);
+  background-color: rgba(225, 225, 225, 0.8);
   border: 3px solid #ffe0b3; 
   border-radius: 10px;
 }
+.infodiv a p{
+  font-weight:bold;
+}
+.infodiv .flighttitle{
+  font-weight:bold;
+}
+
 .infodiv img{
   height:300px;
+  border:  2px solid #ffe0b3;
+  margin: 5px;
+  border-radius: 2px;
 }
+
+ /*style for view city page*/
+
+ .gallerypage{
+  min-height:800px;
+ }
+ .gallerytitle{
+  font-weight: bold;
+  margin:20px;
+ }
+ .gallerytitle h2{
+  font-weight:bold;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+
+ }
 
 .thumbnails {
       display: inline-block; }
 .thumbnails img {
     height: 50px;
-    border: 1px solid #555;
+    border: 1px solid #ffe0b3;
     padding: 1px;
     margin: 0 8px 8px 0;
     border-radius: 2px;
@@ -136,10 +176,14 @@ button#searchbtn{
     border: 2px solid #00ccff;
     cursor:pointer;
   }
+.preview h4{
+  font-weight: bold;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+}
 
 .preview img {
-    border: 2px solid #444;
-    padding: 1px;
+    border: 3px solid #00ccff;
+    padding: 2px;
     width: 400px;
-    border-radius: 2px;
+    border-radius: 3px;
   }
