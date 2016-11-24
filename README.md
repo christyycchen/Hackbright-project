@@ -11,19 +11,20 @@ This app provides information regarding cheap flight options and affordable Airb
 
 ##### User login/register page
 
-![Landing pages](https://github.com/christychen126/Hackbright-project/tree/master/static/images/RM-index.png)
+![Landing pages](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-index.png)
 
 ##### User homepage - Search a new trip or view previous saved trips
 
-![Homepage](https://github.com/christychen126/Hackbright-project/tree/master/static/images/RM-homepage.png)
+![Homepage](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-homepage.png)
 
 ##### Search Result - A flight and an Airbnb information for a trip
 
-![Result page](https://github.com/christychen126/Hackbright-project/tree/master/static/images/RM-Result.png)
+![Result page](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-Result.png)
+
 
 ##### City Gallery - get a glimpse of the City
 
-![View City](https://github.com/christychen126/Hackbright-project/tree/master/static/images/RM-cityview.png)
+![View City](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-cityview.png)
 
 
 ## Installing
