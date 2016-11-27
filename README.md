@@ -6,7 +6,14 @@ I’m Feeling Lucky is a trip generator that searches for the most affordable fl
 This app provides information regarding cheap flight options and affordable Airbnb listings based on users entered criteria.  I’m Feeling Lucky enables users to set default departure airports, search trips, save trips for later, view or delete saved trips, and view photos of the destinations. I’m Feeling Lucky is great for people who love and want to travel with affordable price. Planning trips is never easier!
 
 
-## Features
+##Contents
+* [Features](#features)
+* [Installing](#installing)
+* [Built with](#builtwith)
+* [Coming Up](#comingup)
+
+
+## <a name="features"></a>Features
 
 
 ##### User login/register page
@@ -27,7 +34,7 @@ This app provides information regarding cheap flight options and affordable Airb
 ![View City](https://github.com/christychen126/Hackbright-project/blob/master/static/images/RM-cityview.png)
 
 
-## Installing
+## <a name="installing"></a>Installing
 
 
 Clone this repo:
@@ -80,7 +87,7 @@ Have a nice trip!  :airplane:
 
 
 
-## Built With                   
+## <a name="builtwith"></a>Built With                   
 
 
 ##### Backend
@@ -96,7 +103,7 @@ JavaScript, HTML, CSS, [jQuery](https://jquery.com/), AJAX, [Jinja2](http://jinj
 [Google Flights API](https://developers.google.com/qpx-express/), [Google Maps API](https://developers.google.com/maps/), [The Unofficial Airbnb API](http://airbnbapi.org/)
 
 
-## Version 2.0 Coming Up 
+## <a name="comingup"></a>Version 2.0 Coming Up 
 
 - **User Preferences:** Allow users to add preferred airlines, cabins, flght stops
 - **City Guide:** Add city information, attractions, and tours.
